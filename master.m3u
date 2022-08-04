@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:165, DESCARGA LISTAS M3U
 https://tecnomasterapp.tk/descarga/listasm3u.mp4
-#EXTINF:0,A&E
+#EXTINF:40,A&E
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/1
 #EXTINF:0,A&E Sur
@@ -82,13 +82,13 @@ https://v3.playerlatino.live/stream/m3u8/7
 #EXTINF:0,Bandamax
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/8
-#EXTINF:0,Barbie 24/7
+#EXTINF:29,Barbie 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/788
-#EXTINF:0,BeinSports
+#EXTINF:79,BeinSports
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/753
-#EXTINF:0,BeinSports Ñ
+#EXTINF:29,BeinSports Ñ
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/761
 #EXTINF:0,Bleach 24/7
@@ -1195,7 +1195,7 @@ https://v3.playerlatino.live/stream/m3u8/881
 #EXTINF:0,WWE Network
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/276
-#EXTINF:0,Yu-Gi-Oh! 24/7
+#EXTINF:42,Yu-Gi-Oh! 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/664
 #EXTINF:165, DESCARGA LISTAS M3U
@@ -1601,7 +1601,7 @@ http://200.6.227.230:8000/play/a04e/index.m3u8
 http://200.6.227.230:8000/play/a04c/index.m3u8
 #EXTINF:165, DESCARGA LISTAS M3U
 https://tecnomasterapp.tk/descarga/listasm3u.mp4
-#EXTINF:0,US: FOX SPORTS SAN DIEGO | HD
+#EXTINF:59,US: FOX SPORTS SAN DIEGO | HD
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/81.m3u8
 #EXTINF:0,US: FOX SPORTS SPORTSTIME OHIO | HD*
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/82.m3u8
@@ -1713,7 +1713,7 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/50.m3u8
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/51.m3u8
 #EXTINF:0,24/7 || Play! Cinema Dreamworks #1
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/52.m3u8
-#EXTINF:0,24/7 || Play! Cinema DC Universe
+#EXTINF:20,24/7 || Play! Cinema DC Universe
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/53.m3u8
 #EXTINF:0,24/7 || Play! Cinema Marvel
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/54.m3u8
@@ -1721,7 +1721,7 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/54.m3u8
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/55.m3u8
 #EXTINF:0,24/7 || Play! Cinema La Risa en Vacaciones
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/56.m3u8
-#EXTINF:0,24/7 || Vecinos
+#EXTINF:61,24/7 || Vecinos
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/57.m3u8
 #EXTINF:0,24/7 || 40 y 20
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/58.m3u8
@@ -8983,1318 +8983,1057 @@ http://51.222.25.50:25461/bulltvn3w/appnew/3152
 https://tecnomasterapp.tk/descarga/listasm3u.mp4
 #EXTINF:0,DEPORTES LAT | FOX SPORTS 3 FHD AR (E)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1
 #EXTINF:0,DEPORTES LAT | FOX SPORTS 2 FHD CO (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/2
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/2
 #EXTINF:0,DEPORTES LAT | FOX SPORTS 1 HD MX (L)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/3
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/3
 #EXTINF:0,DEPORTES LAT | FOX SPORTS 2 HD MX (S)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/4
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/4
 #EXTINF:0,DEPORTES LAT | FOX SPORTS 2 HD MX (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/5
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/5
 #EXTINF:0,DEPORTES LAT | FOX SPORTS 3 HD MX (e)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/6
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/6
 #EXTINF:0,DEPORTES LAT | FOX SPORTS PREMIUM HD (T)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/7
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/7
 #EXTINF:0,DEPORTES LAT | FOX SPORTS PREMIUM OP 2 (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/8
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/8
 #EXTINF:0,DEPORTES LAT | TYC SPORTS nacional (u)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/11
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/11
 #EXTINF:0,DEPORTES LAT | GOL PERU (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/12
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/12
 #EXTINF:0,DEPORTES LAT | CDF FHD (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/21
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/21
 #EXTINF:0,DEPORTES LAT | CDF ESTADIO (E)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/22
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/22
 #EXTINF:0,DEPORTES LAT | TELETRAK (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/23
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/23
 #EXTINF:0,DEPORTES EUR | BARCA TV (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/24
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/24
 #EXTINF:0,DEPORTES EUR | REAL MADRID HD (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/25
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/25
 #EXTINF:0,DEPORTES EUR | BEIN SPORTS Ñ (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/27
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/27
 #EXTINF:0,DEPORTES EUR | ESPN 1 HD AR (FLW)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/35
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/35
 #EXTINF:0,DEPORTES EUR | ESPN 1 HD AR (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/36
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/36
 #EXTINF:0,DEPORTES EUR | ESPN 2 HD AR (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/37
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/37
 #EXTINF:0,DEPORTES EUR | ESPN 2 HD AR (L)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/38
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/38
 #EXTINF:0,DEPORTES EUR | ESPN 3 FHD AR (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/39
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/39
 #EXTINF:0,DEPORTES EUR | ESPN 3 HD AR (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/40
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/40
 #EXTINF:0,DEPORTES EUR | ESPN 3 HD CO (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/41
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/41
 #EXTINF:0,DEPORTES EUR | ESPN 1 HD MX (L)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/42
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/42
 #EXTINF:0,DEPORTES EUR | ESPN 1 HD MX (S)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/43
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/43
 #EXTINF:0,DEPORTES EUR | ESPN 2 HD MX (E)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/44
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/44
 #EXTINF:0,DEPORTES EUR | ESPN 3 HD MX (E)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/45
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/45
 #EXTINF:0,DEPORTES EUR | ESPN 3 HD MX (S)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/46
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/46
 #EXTINF:0,DEPORTES EUR | ESPN PLUS (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/47
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/47
 #EXTINF:0,DEPORTES EUR | ESPN DEPORTES (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/48
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/48
 #EXTINF:0,DEPORTES EUR | EUROSPORT 1 (K)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/49
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/49
 #EXTINF:0,DEPORTES EUR | EUROSPORT 2 (K)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/50
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/50
 #EXTINF:0,DEPORTES EUR | NBA FHD (L)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/51
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/51
 #EXTINF:0,DEPORTES EUR | WWE NETWORK (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/52
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/52
 #EXTINF:0,DEPORTES EUR | NFL NETWORK (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/53
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/53
 #EXTINF:0,DEPORTES EUR | M. GOLF HD (K)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/54
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/54
 #EXTINF:0,DEPORTES EUR | REAL MADRID HD (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/55
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/55
 #EXTINF:0,ARGENTINA | TV PUBLICA (ST)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/56
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/56
 #EXTINF:0,ARGENTINA | TN NOTICIAS (ST)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/57
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/57
 #EXTINF:0,ARGENTINA | TELESUR (ST)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/58
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/58
 #EXTINF:0,ARGENTINA | TELEMAX (E)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/59
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/59
 #EXTINF:0,BOLIVIA | BOLIVISION HD (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/81
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/81
 #EXTINF:0,BOLIVIA | ATV FHD (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/82
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/82
 #EXTINF:0,RED ONLINE
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/83
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/83
 #EXTINF:0,CINE PREMIUM | AMC  HD (L)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/84
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/84
 #EXTINF:0,CINE PREMIUM | AXN (Y)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/85
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/85
 #EXTINF:0,CINE PREMIUM | CINECANAL
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/86
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/86
 #EXTINF:0,CINE PREMIUM | DE PELICULA (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/88
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/88
 #EXTINF:0,CINE PREMIUM | FOX HD (Y)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/89
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/89
 #EXTINF:0,CINE PREMIUM | FOX HD (e)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/90
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/90
 #EXTINF:0,CINE PREMIUM | FOX PREMIUM CINEMA (Y)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/92
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/92
 #EXTINF:0,CINE PREMIUM | FOX PREMIUM CLASSICS (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/93
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/93
 #EXTINF:0,CINE PREMIUM | FOX PREMIUM FAMILY HD (L)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/94
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/94
 #EXTINF:0,CINE PREMIUM | FOX PREMIUM MOVIES (L)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/95
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/95
 #EXTINF:0,CINE PREMIUM | FX (Y)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/96
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/96
 #EXTINF:0,CINE PREMIUM | FXM SD (U)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/97
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/97
 #EXTINF:0,CINE PREMIUM | HBO 2  (T)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/101
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/101
 #EXTINF:0,CINE PREMIUM | HBO FAMILY HD (E).
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/102
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/102
 #EXTINF:0,CINE PREMIUM | HBO SIGNATURE (Y)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/103
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/103
 #EXTINF:0,CINE PREMIUM | MAX (L)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/104
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/104
 #EXTINF:0,CINE PREMIUM | MAX UP LATINO (Y)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/105
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/105
 #EXTINF:0,CINE PREMIUM | STUDIO UNIVERSAL LATINO® (U)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/108
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/108
 #EXTINF:0,CINE PREMIUM | STUDIO UNIVERSAL (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/109
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/109
 #EXTINF:0,CINE PREMIUM | SUNDANCE TV (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/110
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/110
 #EXTINF:0,CINE PREMIUM | SYFY CHANNEL  (Y)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/111
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/111
 #EXTINF:0,CINE PREMIUM | TBS (Y)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/112
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/112
 #EXTINF:0,CINE PREMIUM | TCM (Y)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/113
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/113
 #EXTINF:0,CINE PREMIUM | TCM (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/114
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/114
 #EXTINF:0,CINE PREMIUM | UNIVERSAL CHANNEL (E)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/118
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/118
 #EXTINF:0,CINE PREMIUM | WARNER TV (e)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/119
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/119
 #EXTINF:0,CINE PREMIUM | WARNER TV (T)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/120
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/120
 #EXTINF:0,CINE PREMIUM | Universal Channel SD (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/121
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/121
 #EXTINF:0,CINE PREMIUM | TCM SD (T)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/124
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/124
 #EXTINF:0,CINE PREMIUM | SONY CHANNEL SD (U)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/125
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/125
 #EXTINF:0,CINE PREMIUM | Fox Life FHD (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/129
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/129
 #EXTINF:0,CINE PREMIUM | Fox Channel FHD (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/130
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/130
 #EXTINF:0,MEXICO | UNICABLE  *
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/764
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/764
 #EXTINF:0,Estrella tv
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/765
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/765
 #EXTINF:0,(SER) CULTURA | NATGEO HD *
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/767
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/767
 #EXTINF:0,(SER) CULTURA | Nat Geo Wild HD (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/768
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/768
 #EXTINF:0,(SER) CULTURA | Nat Geo Wild FHD (p)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/769
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/769
 #EXTINF:0,(SER) CULTURA | Investigation Discovery SD [Co] (p)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/770
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/770
 #EXTINF:0,(SER) CULTURA | Investigation Discovery FHD Dual Audio [Mx] (p)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/771
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/771
 #EXTINF:0,(SER) CULTURA | H2 HD (S)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/774
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/774
 #EXTINF:0,(SER) CULTURA | Discovery World FHD (ST)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/775
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/775
 #EXTINF:0,(SER) CULTURA | Discovery World FHD (p)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/776
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/776
 #EXTINF:0,(SER) CULTURA | Discovery Theater FHD (ST)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/778
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/778
 #EXTINF:0,(SER) CULTURA | NATGEO HD *
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/780
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/780
 #EXTINF:0,(SER) CULTURA | Nat Geo Wild HD (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/781
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/781
 #EXTINF:0,(SER) CULTURA | Nat Geo Wild FHD (p)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/782
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/782
 #EXTINF:0,(SER) CULTURA | Investigation Discovery SD [Co] (p)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/783
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/783
 #EXTINF:0,(SER) CULTURA | Investigation Discovery FHD Dual Audio [Mx] (p)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/784
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/784
 #EXTINF:0,(SER)DISCOVERY CHANEEL SD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/787
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/787
 #EXTINF:0,(SER)DISCOVERY CHANEEL FHD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/788
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/788
 #EXTINF:0,(SER) DISCOVERY HOME AND HEALTH
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/789
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/789
 #EXTINF:0,MULTIDEPORTE
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/790
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/790
 #EXTINF:0,FUTBOL REPLAY
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/791
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/791
 #EXTINF:0,MOVISTAR #VAMOS
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/792
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/792
 #EXTINF:0,MOVISTAR VAMOS HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/793
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/793
 #EXTINF:0,MOVISTAR #VAMOS FHD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/794
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/794
 #EXTINF:0,(LATINOS) DISTRITO COMEDIA *
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/907
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/907
 #EXTINF:0,(LATINOS)TLNovelas (ST)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/908
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/908
 #EXTINF:0,(LATINOS) Discovery Theater HD (U)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/909
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/909
 #EXTINF:0,(LATINOS) Discovery Science HD (p)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/910
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/910
 #EXTINF:0,(LATINOS) Discovery Civilization HD (p)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/911
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/911
 #EXTINF:0,(LATINOS) FOX SPORTS 3 HD AR (L)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/912
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/912
 #EXTINF:0,(LATINOS) FOX SPORTS 1 HD CO (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/913
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/913
 #EXTINF:0,(LATINOS) FOX SPORTS 3 HD CO (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/914
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/914
 #EXTINF:0,(LATINOS) FOX SPORTS 1 HD MX
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/916
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/916
 #EXTINF:0,OLYMPIC CHANNEL
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1201
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1201
 #EXTINF:0,NESN PLUS
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1202
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1202
 #EXTINF:0,Sportsnet 360
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1203
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1203
 #EXTINF:0,COLOMBIA | NTN24 (L)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1204
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1204
 #EXTINF:0,COLOMBIA | CARACOL (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1205
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1205
 #EXTINF:0,COLOMBIA | CARACOL ser (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1206
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1206
 #EXTINF:0,COLOMBIA | RCN (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1208
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1208
 #EXTINF:0,COLOMBIA | CABLE NOTICIAS (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1209
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1209
 #EXTINF:0,COLOMBIA | CANAL UNO (p)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1210
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1210
 #EXTINF:0,COLOMBIA | TELEPACIFICO (L)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1211
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1211
 #EXTINF:0,COLOMBIA | TRECE (L)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1212
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1212
 #EXTINF:0,COLOMBIA |TELEMEDELLIN(GR)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1213
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1213
 #EXTINF:0,COLOMBIA |TELE ISLAS (GR)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1214
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1214
 #EXTINF:0,COLOMBIA |TELE ENVIGADO (GR)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1215
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1215
 #EXTINF:0,COLOMBIA |TELE CAFE (GR)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1216
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1216
 #EXTINF:0,COLOMBIA |SURAM TV(GR)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1217
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1217
 #EXTINF:0,CARACOL HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1218
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1218
 #EXTINF:0,COLOMBIA | CANAL CAPITAL  (GR)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1219
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1219
 #EXTINF:0,COLOMBIA | HTV
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1220
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1220
 #EXTINF:0,SEÑAL COLOMBIA
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1223
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1223
 #EXTINF:0,RCN INTERNACIONAL
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1224
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1224
 #EXTINF:0,CARACOL INTERNACIONAL (VUE)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1225
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1225
 #EXTINF:0,WINSPORTS + PLUS SD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1226
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1226
 #EXTINF:0,DEPORTES LAT | WIN SPORTS(A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1227
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1227
 #EXTINF:0,DEPORTES LAT | WIN SPORTS OP 2
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1228
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1228
 #EXTINF:0,WIN SPORTS PLUS HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1229
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1229
 #EXTINF:0,WIN SPOTS PLUS SD OP2
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1230
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1230
 #EXTINF:0,Win Sports
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1231
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1231
 #EXTINF:0,LATINOS | WIN SPORTS
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1232
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1232
 #EXTINF:0,TNT SPORTS CHILE 1
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1233
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1233
 #EXTINF:0,DEPORTES LAT | TYC SPORTS (L)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1234
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1234
 #EXTINF:0,DEPORTES LAT | DIRECTV SPORTS (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1235
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1235
 #EXTINF:0,DEPORTES LAT | DIRECTV SPORTS 2 (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1236
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1236
 #EXTINF:0,DEPORTES LAT | DIRECTV SPORTS + (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1237
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1237
 #EXTINF:0,DEPORTES EUR | ESPN 1 HD CO (a)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1238
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1238
 #EXTINF:0,DEPORTES EUR | ESPN 2 HD CO (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1239
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1239
 #EXTINF:0,DEPORTES EUR | ESPN 3 HD CO (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1240
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1240
 #EXTINF:0,DEPORTES LAT | FOX SPORTS 1 HD CO (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1241
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1241
 #EXTINF:0,DEPORTES LAT | FOX SPORTS 2 HD CO (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1242
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1242
 #EXTINF:0,DEPORTES LAT | FOX SPORTS 3 FHD MX (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1243
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1243
 #EXTINF:0,CINE PREMIUM | A&E Mundo SD (FL)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1244
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1244
 #EXTINF:0,CINE PREMIUM | AMC  HD (FL)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1245
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1245
 #EXTINF:0,CINE PREMIUM | AXN (Y)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1246
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1246
 #EXTINF:0,CINE PREMIUM | COMEDY CENTRAL  (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1247
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1247
 #EXTINF:0,CINE PREMIUM | Fox Life SD (LP)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1248
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1248
 #EXTINF:0,CINE PREMIUM | SONY CHANNEL (L)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1249
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1249
 #EXTINF:0,TELEMUNDO | Telemundo miami (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1251
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1251
 #EXTINF:0,CINE PREMIUM | Cinecanal SD (lp)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1253
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1253
 #EXTINF:0,CINE PREMIUM | De Pelicula Plus FHD (T)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1255
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1255
 #EXTINF:0,CINE PREMIUM | Fox Action FHD (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1256
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1256
 #EXTINF:0,CINE PREMIUM | Fox Classics SD (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1257
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1257
 #EXTINF:0,CINE PREMIUM | FOX PREMIUM COMEDY HD (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1258
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1258
 #EXTINF:0,CINE PREMIUM | Fox Movie
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1259
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1259
 #EXTINF:0,CINE PREMIUM | FOX PREMIUM SERIES (Y)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1260
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1260
 #EXTINF:0,hbo ser  (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1261
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1261
 #EXTINF:0,CINE PREMIUM | HBO MUNDI
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1262
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1262
 #EXTINF:0,INFANTIL | BOOMERANG  (VUE)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1264
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1264
 #EXTINF:0,Cartoon Network
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1265
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1265
 #EXTINF:0,Discovery Kids (LATINO)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1266
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1266
 #EXTINF:0,Disney Channel (LATINO)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1267
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1267
 #EXTINF:0,Disney Jr
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1268
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1268
 #EXTINF:0,Nat Geo Kids (LATINO)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1269
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1269
 #EXTINF:0,Nickelodeon  HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1270
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1270
 #EXTINF:0,NICK 2 (LATINO)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1271
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1271
 #EXTINF:0,Nick Jr (LATINO)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1272
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1272
 #EXTINF:0,Nicktoons
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1273
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1273
 #EXTINF:0,(SER) Discovery CHANNEL SER (LATINO)OP2
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1275
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1275
 #EXTINF:0,DEPORTES LAT | FOX SPORTS 1 HD CO (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1276
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1276
 #EXTINF:0,DEPORTES EUR | ESPN 2 HD CO (A)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1277
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1277
 #EXTINF:0,DEPORTES EUR | ESPN 1 HD CO (P)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1279
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1279
 #EXTINF:0,DEPORTES LAT | FOX SPORTS 1 HD MX (E)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1280
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1280
 #EXTINF:0,TyC Sports
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1281
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1281
 #EXTINF:0,Sur - Directv Sports + HD (Col)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1283
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1283
 #EXTINF:0,Sur - Directv Sports HD (Col)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1284
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1284
 #EXTINF:0,Sur - Directv Sports 2 HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1285
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1285
 #EXTINF:0,Directv Sports HD (Col)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1286
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1286
 #EXTINF:0,Directv Sports + HD (Col)
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1287
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1287
 #EXTINF:0,DIRECTV SPORTS PERU HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1289
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1289
 #EXTINF:0,SKY-SSTV:HBO Signature SD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1413
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1413
 #EXTINF:0,SKY-SSTV:DISNEY JR
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1415
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1415
 #EXTINF:0,SKY-SSTV:Telemundo ORLANDO HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1416
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1416
 #EXTINF:0,SKY-SSTV:FOOD NETWORK MEXICO
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1417
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1417
 #EXTINF:0,SKY-SSTV:DISNEY CHANNEL HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1418
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1418
 #EXTINF:0,SKY-SSTV:WWE NETWORK
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1419
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1419
 #EXTINF:0,SKY-SSTV:TRU TV
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1420
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1420
 #EXTINF:0,SKY-SSTV:History SD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1421
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1421
 #EXTINF:0,SKY-SSTV:DISCOVERY KIDS SD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1422
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1422
 #EXTINF:0,SKY-SSTV:H2 HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1423
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1423
 #EXTINF:0,SKY-SSTV:TLC
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1424
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1424
 #EXTINF:0,SKY-SSTV:ESPN 2 SD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1425
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1425
 #EXTINF:0,SKY-SSTV:Galavision Miami
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1426
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1426
 #EXTINF:0,SKY-SSTV:HOLA TV HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1427
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1427
 #EXTINF:0,SKY-SSTV:ESPN 1 SD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1428
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1428
 #EXTINF:0,SKY-SSTV:ESPN 3 SD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1429
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1429
 #EXTINF:0,SKY-SSTV:Tlenovelas SD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1430
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1430
 #EXTINF:0,SKY-SSTV:FOX SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1431
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1431
 #EXTINF:0,SKY-SSTV:FOX SPORTS 2 HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1432
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1432
 #EXTINF:0,SKY-SSTV:FOX SPORTS 3
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1433
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1433
 #EXTINF:0,SKY-SSTV: TELEMUNDO
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1434
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1434
 #EXTINF:0,SKY-SSTV:LAT_SD | ANIMAL PLANET
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1435
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1435
 #EXTINF:0,SKY-SSTV: A&E
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1436
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1436
 #EXTINF:0,SKY-SSTV: AXN
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1437
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1437
 #EXTINF:0,SKY-SSTV: COMEDY CENTRAL
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1438
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1438
 #EXTINF:0,SKY-SSTV: SONY
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1439
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1439
 #EXTINF:0,SKY-SSTV: WARNER
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1440
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1440
 #EXTINF:0,SKY-SSTV: WARNER
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1441
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1441
 #EXTINF:0,SKY-SSTV: E!
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1442
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1442
 #EXTINF:0,SKY-SSTV: FX
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1443
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1443
 #EXTINF:0,SKY-SSTV: UNIVERSAL
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1444
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1444
 #EXTINF:0,SKY-SSTV: UNIVERSAL
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1445
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1445
 #EXTINF:0,SKY-SSTV: DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1447
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1447
 #EXTINF:0,SKY-SSTV: DISCOVERY ID
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1448
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1448
 #EXTINF:0,SKY-SSTV: DISCOVERY H&H
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1450
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1450
 #EXTINF:0,SKY-SSTV: DISCOVERY THEATER
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1451
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1451
 #EXTINF:0,SKY-SSTV: DISCOVERY TURBO
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1452
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1452
 #EXTINF:0,SKY-SSTV: DISCOVERY KIDS
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1453
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1453
 #EXTINF:0,SKY-SSTV: FOX
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1454
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1454
 #EXTINF:0,DEPORTES/REDBULL
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1457
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1457
 #EXTINF:0,SKY-SSTV: FOX LIFE
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1461
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1461
 #EXTINF:0,SKY-SSTV: HBO
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1462
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1462
 #EXTINF:0,SKY-SSTV: HBO
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1463
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1463
 #EXTINF:0,SKY-SSTV: HBO 2
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1464
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1464
 #EXTINF:0,SKY-SSTV: HBO PLUS
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1465
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1465
 #EXTINF:0,SKY-SSTV: HBO FAMILY
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1466
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1466
 #EXTINF:0,SKY-SSTV: SHOWTIME
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1467
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1467
 #EXTINF:0,SKY-SSTV: D' PELICULA MULTIPLEX
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1468
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1468
 #EXTINF:0,SKY-SSTV: FX MOVIES
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1469
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1469
 #EXTINF:0,SKY-SSTV: PARAMOUNT CHANNEL
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1470
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1470
 #EXTINF:0,SKY-SSTV: TNT
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1471
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1471
 #EXTINF:0,SKY-SSTV: TBS
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1473
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1473
 #EXTINF:0,SKY-SSTV: CINECANAL
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1474
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1474
 #EXTINF:0,SKY-SSTV: SPACE
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1475
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1475
 #EXTINF:0,SKY-SSTV: I.SAT
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1476
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1476
 #EXTINF:0,SKY-SSTV: FILMZONE
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1477
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1477
 #EXTINF:0,SKY-SSTV: NBC UNIVERSO
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1478
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1478
 #EXTINF:0,SKY-SSTV: HBO XTREME
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1479
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1479
 #EXTINF:0,SKY-SSTV: CINEMAX
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1480
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1480
 #EXTINF:0,SKY-SSTV:NATGEO
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1481
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1481
 #EXTINF:0,SKY-SSTV: NATGEO WILD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1482
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1482
 #EXTINF:0,SKY-SSTV: TNT SERIES HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1483
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1483
 #EXTINF:0,SKY-SSTV: TBS
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1484
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1484
 #EXTINF:0,SKY-SSTV: UNO
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1485
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1485
 #EXTINF:0,SKY-SSTV: TELECAFE
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1486
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1486
 #EXTINF:0,SKY-SSTV: GLITZ
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1487
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1487
 #EXTINF:0,SKY-SSTV:CITY NOTICIAS
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1488
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1488
 #EXTINF:0,SKY-SSTV: VH1 CLASSIC
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1489
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1489
 #EXTINF:0,SKY-SSTV: TVE
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1490
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1490
 #EXTINF:0,SKY-SSTV: TRUTV HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1491
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1491
 #EXTINF:0,SKY-SSTV: RCN TELENOVELAS
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1492
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1492
 #EXTINF:0,SKY-SSTV: PASIONES HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1493
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1493
 #EXTINF:0,SKY-SSTV: PARAMOUNT HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1494
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1494
 #EXTINF:0,SKY-SSTV: MTV LIVE HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1495
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1495
 #EXTINF:0,SKY-SSTV: MTV HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1496
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1496
 #EXTINF:0,SKY-SSTV: MTV HITS
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1497
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1497
 #EXTINF:0,SKY-SSTV: HBO POP
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1498
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1498
 #EXTINF:0,SKY-SSTV: MASCHIC HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1499
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1499
 #EXTINF:0,SKY-SSTV: HOLA TV HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1500
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1500
 #EXTINF:0,SKY-SSTV: GOLDEN HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1502
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1502
 #EXTINF:0,SKY-SSTV: FXM
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1503
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1503
 #EXTINF:0,SKY-SSTV: EWTN
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1504
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1504
 #EXTINF:0,SKY-SSTV: EUROCHANNEL
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1505
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1505
 #EXTINF:0,SKY-SSTV: DW
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1506
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1506
 #EXTINF:0,SKY-SSTV:DHE HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1507
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1507
 #EXTINF:0,SKY-SSTV: CRISTOVISION
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1508
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1508
 #EXTINF:0,SKY-SSTV: CNN INTERNACIONAL
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1509
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1509
 #EXTINF:0,SKY-SSTV: CNN ESPANOL
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1510
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1510
 #EXTINF:0,SKY-SSTV: CLARO HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1511
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1511
 #EXTINF:0,SKY-SSTV: CINEMA DINAMITA
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1512
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1512
 #EXTINF:0,SKY-SSTV: CARACOL HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1513
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1513
 #EXTINF:0,SKY-SSTV: Las Estrellas
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1514
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1514
 #EXTINF:0,SKY-SSTV: BBC WORLD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1516
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1516
 #EXTINF:0,SKY-SSTV:AZMUNDO HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1517
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1517
 #EXTINF:0,SKY-SSTV: AZCORAZON HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1518
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1518
 #EXTINF:0,SKY-SSTV: AMC HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1519
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1519
 #EXTINF:0,SKY-SSTV: AE MUNDO HD
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1520
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1520
 #EXTINF:0,SKY-SSTV: ESPN 3
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1521
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1521
 #EXTINF:0,SSTV-SKY:ADN40
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1522
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1522
 #EXTINF:0,SSTV-SKY AZTECA 7
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1523
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1523
 #EXTINF:0,SSTV-SKY:Azteca 1
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1524
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1524
 #EXTINF:0,SSTV-SKY: AZTECA CLICK
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1525
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1525
 #EXTINF:0,SSTV-SKY:AZTECA CORAZON
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1526
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1526
 #EXTINF:0,LIGA BETPLAY 1
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1986
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1986
 #EXTINF:0,LIGA BETPLAY 2
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1987
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1987
 #EXTINF:0,LIGA PRUEBA 
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1996
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1996
 #EXTINF:0,partido
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1997
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1997
 #EXTINF:0,partidosenvivo
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/1998
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/1998
 #EXTINF:0,UFC PASS
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/2011
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/2011
 #EXTINF:0,GOLTV INTERNACIONAL
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/2012
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/2012
 #EXTINF:0,GOLTV PERU
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/2013
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/2013
 #EXTINF:0,GOL TV ECUADOR
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/2014
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/2014
 #EXTINF:0,FORMULA 1
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/2015
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/2015
 #EXTINF:0,radios
 #EXTVLCOPT:http-user-agent=crc_apps
-http://62.210.201.74:8001/SPORTCras22/er5j4tkytl564/2016
+http://62.210.201.74:8001/12sportvcrastv/LFJDGKR38483/2016
 #EXTINF:165, DESCARGAR LISTAS M3U
 https://tecnomasterapp.tk/descarga/listasm3u.mp4
-#EXTINF:0, A&E
-http://181.78.10.235:58002/play/a0cl/index.m3u8
-#EXTINF:0, AMC
-http://181.78.10.235:58002/play/a0b4/index.m3u8
-#EXTINF:0, ATRES SERIES
-http://181.78.10.235:58002/play/a0cp/index.m3u8
-#EXTINF:0, Animal Planet
-http://181.78.10.235:58002/play/a0ar/index.m3u8
-#EXTINF:0, Animal Planet
-http://181.78.10.235:58002/play/a0ap/index.m3u8
-#EXTINF:0, BBC World
-http://181.78.10.235:58002/play/a0cd/index.m3u8
-#EXTINF:0, Baby TV
-http://181.78.10.235:58002/play/a0c7/index.m3u8
-#EXTINF:0, CNN Espaæol
-http://181.78.10.235:58002/play/a0cc/index.m3u8
-#EXTINF:0, CNN International
-http://181.78.10.235:58002/play/a0ce/index.m3u8
-#EXTINF:0, CableNoticias
-http://181.78.10.235:58002/play/a0bo/index.m3u8
-#EXTINF:0, Canal  Capital
-http://181.78.10.235:58002/play/a0an/index.m3u8
-#EXTINF:0, Canal 13
-http://181.78.10.235:58002/play/a0be/index.m3u8
-#EXTINF:0, Canal Institucional
-http://181.78.10.235:58002/play/a0ai/index.m3u8
-#EXTINF:0, Canal TRO
-http://181.78.10.235:58002/play/a0al/index.m3u8
-#EXTINF:0, Caracol
-http://181.78.10.235:58002/play/a0aj/index.m3u8
-#EXTINF:0, City TV
-http://181.78.10.235:58002/play/a0c5/index.m3u8
-#EXTINF:0, Comedy Central
-http://181.78.10.235:58002/play/a0b1/index.m3u8
-#EXTINF:0, Cristovisiðn
-http://181.78.10.235:58002/play/a0ax/index.m3u8
-#EXTINF:0, DW (Deutsch +)
-http://181.78.10.235:58002/play/a0ch/index.m3u8
-#EXTINF:0, De Pelhttp://181.78.10.235:58002/play/a0c0/index.m3u8
-#EXTINF:0, De Pelhttp://181.78.10.235:58002/play/a0bw/index.m3u8
-#EXTINF:0, Discovery Channel
-http://181.78.10.235:58002/play/a0as/index.m3u8
-#EXTINF:0, Discovery Kids
-http://181.78.10.235:58002/play/a0ao/index.m3u8
-#EXTINF:0, Discovery Turbo
-http://181.78.10.235:58002/play/a0by/index.m3u8
-#EXTINF:0, Discovery Turbo
-http://181.78.10.235:58002/play/a0bj/index.m3u8
-#EXTINF:0, Disney Channel
-http://181.78.10.235:58002/play/a0bf/index.m3u8
-#EXTINF:0, Disney Xd
-http://181.78.10.235:58002/play/a0bg/index.m3u8
-#EXTINF:0, El Gourmet
-http://181.78.10.235:58002/play/a0bk/index.m3u8
-#EXTINF:0, Enlace
-http://181.78.10.235:58002/play/a0b7/index.m3u8
-#EXTINF:0, Enlace
-http://181.78.10.235:58002/play/a0aw/index.m3u8
-#EXTINF:0, Epoca
-http://181.78.10.235:58002/play/a0c6/index.m3u8
-#EXTINF:0, Eurochannel
-http://181.78.10.235:58002/play/a0cf/index.m3u8
-#EXTINF:0, Europa Europa
-http://181.78.10.235:58002/play/a0b5/index.m3u8
-#EXTINF:0, FOX Sports
-http://181.78.10.235:58002/play/a0ay/index.m3u8
-#EXTINF:0, FX Movies
-http://181.78.10.235:58002/play/a0bv/index.m3u8
-#EXTINF:0, Film&Arts
-http://181.78.10.235:58002/play/a0at/index.m3u8
-#EXTINF:0, Fox Sports
-http://181.78.10.235:58002/play/a0br/index.m3u8
-#EXTINF:0, Fox Sports 3
-http://181.78.10.235:58002/play/a0ck/index.m3u8
-#EXTINF:0, GOLPERU
-http://181.78.10.235:58002/play/a0c1/index.m3u8
-#EXTINF:0, Globovision
-http://181.78.10.235:58002/play/a0b9/index.m3u8
-#EXTINF:0, Gol TV
-http://181.78.10.235:58002/play/a0cj/index.m3u8
-#EXTINF:0, HBO Family
-http://181.78.10.235:58002/play/a0cq/index.m3u8
-#EXTINF:0, HBO MUNDI
-http://181.78.10.235:58002/play/a0bx/index.m3u8
-#EXTINF:0, HBO POP
-http://181.78.10.235:58002/play/a0cv/index.m3u8
-#EXTINF:0, HBO Plus
-http://181.78.10.235:58002/play/a0cs/index.m3u8
-#EXTINF:0, HBO Signature
-http://181.78.10.235:58002/play/a0ct/index.m3u8
-#EXTINF:0, HBO XTREME
-http://181.78.10.235:58002/play/a0cr/index.m3u8
-#EXTINF:0, HGTV
-http://181.78.10.235:58002/play/a0bi/index.m3u8
-#EXTINF:0, HTV
-http://181.78.10.235:58002/play/a0bm/index.m3u8
-#EXTINF:0, Hola TV
-http://181.78.10.235:58002/play/a0av/index.m3u8
-#EXTINF:0, Las Estrellas
-http://181.78.10.235:58002/play/a0bl/index.m3u8
-#EXTINF:0, Las Estrellas
-http://181.78.10.235:58002/play/a0b8/index.m3u8
-#EXTINF:0, Lifetime
-http://181.78.10.235:58002/play/a0bs/index.m3u8
-#EXTINF:0, MTV
-http://181.78.10.235:58002/play/a0cb/index.m3u8
-#EXTINF:0, Movistar TV
-http://181.78.10.235:58002/play/a0af/index.m3u8
-#EXTINF:0, NTN 24 Horas
-http://181.78.10.235:58002/play/a0bn/index.m3u8
-#EXTINF:0, Nat Geo Kids
-http://181.78.10.235:58002/play/a0aq/index.m3u8
-#EXTINF:0, Nick Music
-http://181.78.10.235:58002/play/a0cx/index.m3u8
-#EXTINF:0, Nuestra Tele
-http://181.78.10.235:58002/play/a0bz/index.m3u8
-#EXTINF:0, Nuestra Tele
-http://181.78.10.235:58002/play/a0bd/index.m3u8
-#EXTINF:0, RAI
-http://181.78.10.235:58002/play/a0cg/index.m3u8
-#EXTINF:0, RCN
-http://181.78.10.235:58002/play/a0bc/index.m3u8
-#EXTINF:0, STAR CHANNEL
-http://181.78.10.235:58002/play/a0b2/index.m3u8
-#EXTINF:0, STAR LIFE
-http://181.78.10.235:58002/play/a0au/index.m3u8
-#EXTINF:0, Seæal Colombia
-http://181.78.10.235:58002/play/a0bb/index.m3u8
-#EXTINF:0, Space
-http://181.78.10.235:58002/play/a0bu/index.m3u8
-#EXTINF:0, Studio Universal
-http://181.78.10.235:58002/play/a0bt/index.m3u8
-#EXTINF:0, TLC
-http://181.78.10.235:58002/play/a0c9/index.m3u8
-#EXTINF:0, TLT
-http://181.78.10.235:58002/play/a0ba/index.m3u8
-#EXTINF:0, TNT
-http://181.78.10.235:58002/play/a0cn/index.m3u8
-#EXTINF:0, TNT
-http://181.78.10.235:58002/play/a0b3/index.m3u8
-#EXTINF:0, TNT SPORTS 2
-http://181.78.10.235:58002/play/a0bq/index.m3u8
-#EXTINF:0, TNT SPORTS 3
-http://181.78.10.235:58002/play/a0az/index.m3u8
-#EXTINF:0, TNT Series
-http://181.78.10.235:58002/play/a0co/index.m3u8
-#EXTINF:0, Teleantioquia
-http://181.78.10.235:58002/play/a0c4/index.m3u8
-#EXTINF:0, Telecafe
-http://181.78.10.235:58002/play/a0am/index.m3u8
-#EXTINF:0, Telecaribe
-http://181.78.10.235:58002/play/a0ak/index.m3u8
-#EXTINF:0, TelefØ
-http://181.78.10.235:58002/play/a0bp/index.m3u8
-#EXTINF:0, Telepacifico
-http://181.78.10.235:58002/play/a0c3/index.m3u8
-#EXTINF:0, Telesur
-http://181.78.10.235:58002/play/a0ci/index.m3u8
-#EXTINF:0, Telesur
-http://181.78.10.235:58002/play/a0c2/index.m3u8
-#EXTINF:0, Televen
-http://181.78.10.235:58002/play/a0ah/index.m3u8
-#EXTINF:0, Tooncast
-http://181.78.10.235:58002/play/a0cu/index.m3u8
-#EXTINF:0, Tooncast
-http://181.78.10.235:58002/play/a0c8/index.m3u8
-#EXTINF:0, Travel and Living Channel
-http://181.78.10.235:58002/play/a0ca/index.m3u8
-#EXTINF:0, Tru TV
-http://181.78.10.235:58002/play/a0cm/index.m3u8
-#EXTINF:0, Win Sports
-http://181.78.10.235:58002/play/a0b0/index.m3u8
-#EXTINF:0, Directv Sports
-http://alv.encohd.co:39591/live/wdrety/cdew23/382.m3u8
-#EXTINF:0, Directv Sports 2
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/383.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/384.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/385.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/386.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/387.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/388.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/389.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/391.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/392.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/393.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/394.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/395.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/396.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/397.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/398.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/400.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/401.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/402.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/403.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/404.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/405.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/406.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/407.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/408.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/409.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/410.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/411.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/412.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/413.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/414.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/415.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/417.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/418.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/419.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/420.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/399.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/421.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/422.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/423.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/542.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/81.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/82.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/83.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/84.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/85.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/1.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/2.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/3.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/4.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/5.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/6.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/7.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/8.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/9.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/10.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/11.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/12.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/13.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/14.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/15.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/16.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/17.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/18.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/19.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/20.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/21.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/22.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/23.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/24.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/25.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/26.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/27.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/28.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/29.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/30.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/31.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/32.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/33.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/34.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/35.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/36.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/37.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/38.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/39.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/40.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/41.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/42.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/43.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/44.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/45.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/46.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/47.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/48.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/49.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/50.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/51.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/52.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/53.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/54.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/55.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/56.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/57.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/58.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/59.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/60.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/61.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/62.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/63.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/64.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/65.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/66.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/67.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/68.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/69.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/70.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/71.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/72.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/73.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/74.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/75.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/76.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/77.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/78.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/79.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/80.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/86.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/94.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/95.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/96.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/97.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/523.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/524.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/525.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/526.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/527.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/528.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/529.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/531.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/87.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/88.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/89.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/91.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/92.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/98.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/99.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/100.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/101.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/103.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/106.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/537.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/538.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/539.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/107.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/108.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/109.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/301.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/302.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/303.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/304.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/305.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/306.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/307.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/308.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/309.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/310.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/311.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/312.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/313.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/314.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/315.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/316.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/317.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/318.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/319.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/320.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/321.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/322.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/323.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/324.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/325.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/327.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/328.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/329.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/330.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/331.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/332.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/333.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/334.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/335.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/336.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/337.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/338.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/339.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/340.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/341.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/342.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/343.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/344.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/345.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/346.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/347.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/348.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/349.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/350.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/351.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/352.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/353.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/354.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/355.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/357.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/358.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/359.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/360.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/361.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/362.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/363.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/364.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/365.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/366.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/367.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/368.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/369.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/370.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/371.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/372.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/373.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/374.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/375.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/376.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/377.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/378.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/379.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/380.m3u8
-http://alv.encohd.co:39591/live/xj0roNAC/n43XT33x/381.m3u8
+#EXTINF:26, 21 - 252 ComedyC
+http://190.61.102.67:31589/play/a04a/index.m3u8
+#EXTINF:0, 23 - 290 CartoonNetwork
+http://190.61.102.67:31589/play/a03k/index.m3u8
+#EXTINF:0, 25-292 Discovery kids
+http://190.61.102.67:31589/play/a015/index.m3u8
+#EXTINF:0, 27-286 NICKELODEON
+http://190.61.102.67:31589/play/a014/index.m3u8
+#EXTINF:0, 29-236 DH&H
+http://190.61.102.67:31589/play/a03g/index.m3u8
+#EXTINF:0, 30-214 TNTSE
+http://190.61.102.67:31589/play/a00m/index.m3u8
+#EXTINF:0, 31-370 TNT
+http://190.61.102.67:31589/play/a018/index.m3u8
+#EXTINF:0, 208 SONY
+http://190.61.102.67:31589/play/a002/index.m3u8
+#EXTINF:0, 101 Uno
+http://190.61.102.67:31589/play/a04p/index.m3u8
+#EXTINF:0, 102 CANAL DE LAS ESTRELLAS
+http://190.61.102.67:31589/play/a00g/index.m3u8
+#EXTINF:0, 103 Imagen
+http://190.61.102.67:31589/play/a00h/index.m3u8
+#EXTINF:0, 105 Cinco
+http://190.61.102.67:31589/play/a038/index.m3u8
+#EXTINF:0, 106 Multimedios
+http://190.61.102.67:31589/play/a039/index.m3u8
+#EXTINF:0, 107 Siete
+http://190.61.102.67:31589/play/a00i/index.m3u8
+#EXTINF:0, 111 ONCE
+http://190.61.102.67:31589/play/a03a/index.m3u8
+#EXTINF:0, 114 Canal 14
+http://190.61.102.67:31589/play/a044/index.m3u8
+#EXTINF:0, 120 UNAM
+http://190.61.102.67:31589/play/a045/index.m3u8
+#EXTINF:0, 122 Canal22
+http://190.61.102.67:31589/play/a00j/index.m3u8
+#EXTINF:0, 145 Congreso
+http://190.61.102.67:31589/play/a046/index.m3u8
+#EXTINF:0, 151 CV Shoping
+http://190.61.102.67:31589/play/a011/index.m3u8
+#EXTINF:0, 152 MVSTV
+http://190.61.102.67:31589/play/a03b/index.m3u8
+#EXTINF:0, 154 EXE TV
+http://190.61.102.67:31589/play/a06e/index.m3u8
+#EXTINF:0, 158 MC
+http://190.61.102.67:31589/play/a01d/index.m3u8
+#EXTINF:24, 160 MultiPremiere
+http://190.61.102.67:31589/play/a01e/index.m3u8
+#EXTINF:0, 162 CINELATINO
+http://190.61.102.67:31589/play/a05v/index.m3u8
+#EXTINF:0, 206 Universal
+http://190.61.102.67:31589/play/a03d/index.m3u8
+#EXTINF:0, 210 WB
+http://190.61.102.67:31589/play/a01f/index.m3u8
+#EXTINF:0, 222 AXN
+http://190.61.102.67:31589/play/a05y/index.m3u8
+#EXTINF:0, 224 FX
+http://190.61.102.67:31589/play/a05z/index.m3u8
+#EXTINF:0, 226 Space MX
+http://190.61.102.67:31589/play/a04x/index.m3u8
+#EXTINF:0, 230 A&E
+http://190.61.102.67:31589/play/a03f/index.m3u8
+#EXTINF:0, 234 Investigation Discovery La
+http://190.61.102.67:31589/play/a04y/index.m3u8
+#EXTINF:0, 240 TLC
+http://190.61.102.67:31589/play/a03h/index.m3u8
+#EXTINF:0, 242 Lifetime
+http://190.61.102.67:31589/play/a01i/index.m3u8
+#EXTINF:0, 246 HOLA
+http://190.61.102.67:31589/play/a00n/index.m3u8
+#EXTINF:0, 248 E!
+http://190.61.102.67:31589/play/a03i/index.m3u8
+#EXTINF:0, 250 TBS
+http://190.61.102.67:31589/play/a00o/index.m3u8
+#EXTINF:0, 264 EXETV
+http://190.61.102.67:31589/play/a00p/index.m3u8
+#EXTINF:0, 266 MejorTV
+http://190.61.102.67:31589/play/a00q/index.m3u8
+#EXTINF:0, 268 VideRola
+http://190.61.102.67:31589/play/a04c/index.m3u8
+#EXTINF:0, 276 TELER
+http://190.61.102.67:31589/play/a03u/index.m3u8
+#EXTINF:26, 280 OnceKids
+http://190.61.102.67:31589/play/a04f/index.m3u8
+#EXTINF:0, 282 DisneyJR
+http://190.61.102.67:31589/play/a03j/index.m3u8
+#EXTINF:0, 285 - Nick Music
+http://190.61.102.67:31589/play/a00r/index.m3u8
+#EXTINF:0, 288 EXE TV
+http://190.61.102.67:31589/play/a00s/index.m3u8
+#EXTINF:0, 304 AprendeTV2
+http://190.61.102.67:31589/play/a04h/index.m3u8
+#EXTINF:0, 306 IngenioTV
+http://190.61.102.67:31589/play/a04i/index.m3u8
+#EXTINF:0, 308 Discovery
+http://190.61.102.67:31589/play/a03x/index.m3u8
+#EXTINF:0, 312 NatGeo
+http://190.61.102.67:31589/play/a01l/index.m3u8
+#EXTINF:0, 318 History
+http://190.61.102.67:31589/play/a017/index.m3u8
+#EXTINF:0, 320 History2
+http://190.61.102.67:31589/play/a00v/index.m3u8
+#EXTINF:0, 322 Arts
+http://190.61.102.67:31589/play/a04j/index.m3u8
+#EXTINF:0, 336 Claro Sport
+http://190.61.102.67:31589/play/a053/index.m3u8
+#EXTINF:0, 338 ESPN 2
+http://190.61.102.67:31589/play/a063/index.m3u8
+#EXTINF:0, 342 ESPN
+http://190.61.102.67:31589/play/a064/index.m3u8
+#EXTINF:0, 344 ESPN3
+http://190.61.102.67:31589/play/a03n/index.m3u8
+#EXTINF:0, 350 CNNE
+http://190.61.102.67:31589/play/a00x/index.m3u8
+#EXTINF:0, 353 RT
+http://190.61.102.67:31589/play/a01n/index.m3u8
+#EXTINF:0, 356 Milenio
+http://190.61.102.67:31589/play/a00y/index.m3u8
+#EXTINF:0, 358 TVC
+http://190.61.102.67:31589/play/a04m/index.m3u8
+#EXTINF:0, 360 Judicial
+http://190.61.102.67:31589/play/a04n/index.m3u8
+#EXTINF:0, 372 MC
+http://190.61.102.67:31589/play/a01o/index.m3u8
+#EXTINF:0, 378 CineCanal O
+http://190.61.102.67:31589/play/a04q/index.m3u8
+#EXTINF:0, 384 Films
+http://190.61.102.67:31589/play/a08i/index.m3u8
+#EXTINF:0, 386 StudioUniversal
+http://190.61.102.67:31589/play/a04o/index.m3u8
+#EXTINF:0, 388 Paramount
+http://190.61.102.67:31589/play/a01s/index.m3u8
+#EXTINF:0, AGROTENDENCIA
+http://190.61.102.67:31589/play/a08b/index.m3u8
+#EXTINF:0, BANDAMAX
+http://190.61.102.67:31589/play/a08h/index.m3u8
+#EXTINF:0, GOLDEN EDGE
+http://190.61.102.67:31589/play/a08k/index.m3u8
+#EXTINF:0, SKY
+http://190.61.102.67:31589/play/a08m/index.m3u8
+#EXTINF:28, TELENOVELAS
+http://190.61.102.67:31589/play/a08d/index.m3u8
+#EXTINF:0, TN23
+http://190.61.102.67:31589/play/a08g/index.m3u8
+#EXTINF:0, TUDN
+http://190.61.102.67:31589/play/a08j/index.m3u8
+#EXTINF:0, UNICABLE
+http://190.61.102.67:31589/play/a08f/index.m3u8
 #EXTINF:165, DESCARGA LISTAS M3U
 https://tecnomasterapp.tk/descarga/listasm3u.mp4
 #EXTINF:0,CANAL 1 |CO|
