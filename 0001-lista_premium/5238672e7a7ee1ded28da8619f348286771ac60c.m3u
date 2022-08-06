@@ -107,9 +107,9 @@ http://51.222.25.50:25461/bulltvn3w/appnew/83
 http://190.83.119.67:8000/play/a0ns/index.m3u8
 #EXTINF: -1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-chno="318" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Kids", BabyFirst
 http://51.222.25.50:25461/bulltvn3w/appnew/899
-#EXTINF:-1 tvg-id="Pequeradio.es" tvg-name="Pequeradio" tvg-chno="317" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids", Pequeradio
+#EXTINF:-1 tvg-id="Pequeradio.es" tvg-name="Pequeradio" tvg-chno="317" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png" group-title="Kids", Pequeradio
 http://51.222.25.50:25461/bulltvn3w/appnew/3464
-#EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="Panda Kids" tvg-chno="319" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids", Panda Kids
+#EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="Panda Kids" tvg-chno="319" tvg-logo="https://i.imgur.com/wEcpC7T.png" group-title="Kids", Panda Kids
 http://51.222.25.50:25461/bulltvn3w/appnew/3404
 #EXTINF: -1 tvg-id="DiscoveryKidsPanregional.us" tvg-name="Discovery Kids HD Panregional" tvg-chno="330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/512px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Kids", Discovery Kids HD Panregional
 http://51.222.25.50:25461/bulltvn3w/appnew/76
