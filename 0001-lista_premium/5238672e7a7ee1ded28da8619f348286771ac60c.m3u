@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF: -1 tvg-id="StarChannelCentralAmerica.us" tvg-name="Star Channel HD Central America" tvg-chno="204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Cine & Series", Star Channel HD Central America
-http://190.83.119.67:8000/play/a0si/index.m3u8
+http://51.222.25.50:25461/bulltvn3w/appnew/97
 #EXTINF: -1 tvg-id="AXNWhite.us" tvg-name="AXN White HD" tvg-chno="205" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/512px-AXN_White_logo_%282015%29.svg.png" group-title="Cine & Series", AXN White HD
 http://51.222.25.50:25461/bulltvn3w/appnew/48
 #EXTINF: -1 tvg-id="WarnerChannelSouth.us" tvg-name="Warner Channel HD South" tvg-chno="206" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Cine & Series", Warner Channel HD South
@@ -202,11 +202,21 @@ http://51.222.25.50:25461/bulltvn3w/appnew/98
 #EXTINF: -1 tvg-id="UniversalRealityHD.us" tvg-name="Universal Reality HD" tvg-chno="1575" tvg-logo="https://i.imgur.com/mqfUD1R.png" group-title="Cine & Series", Universal Reality HD
 http://190.83.119.67:8000/play/a0sz/index.m3u8
 #EXTINF: -1 tvg-id="beINSportsenEspanol.us" tvg-name="beIN Sports en Español" tvg-chno="602" tvg-logo="https://i.imgur.com/bC04S9U.png" group-title="Sports", beIN Sports en Español
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/866.ts
-#EXTINF: -1 tvg-id="TNTSportsArgentina.ar" tvg-name="TNT Sports Argentina" tvg-chno="603" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="Sports", TNT Sports Argentina
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/912.ts
+http://51.222.25.50:25461/bulltvn3w/appnew/56
+#EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" tvg-name="beIN Sports Xtra en Español" tvg-chno="603" tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Sports", beIN Sports Xtra en Español
+http://51.222.25.50:25461/bulltvn3w/appnew/3516
+#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" tvg-chno="604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/512px-BeIN_Sports.png" group-title="Sports", beIN Sports USA
+http://51.222.25.50:25461/bulltvn3w/appnew/212
+#EXTINF:-1 tvg-id="beINSportsXtraUSA.us" tvg-name="beIN Sports Xtra USA" tvg-chno="605" tvg-logo="https://i.imgur.com/ARkI715.png" group-title="Sports", beIN Sports Xtra USA
+http://51.222.25.50:25461/bulltvn3w/appnew/3476
+#EXTINF:-1 tvg-id="beINSports3USA.us" tvg-name="beIN Sports 3 USA" tvg-chno="606" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="Sports", beIN Sports 3 USA
+http://51.222.25.50:25461/bulltvn3w/appnew/57
+#EXTINF: -1 tvg-id="TNTSportsChile.cl" tvg-name="TNT Sports Chile" tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="Sports", TNT Sports Chile
+http://51.222.25.50:25461/bulltvn3w/appnew/3391
+#EXTINF: -1 tvg-id="TNTSports2Chile.cl" tvg-name="TNT Sports 2 Chile" tvg-chno="609" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="Sports", TNT Sports 2 Chile
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/94.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" tvg-chno="1604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Sports", Fox Deportes
+http://51.222.25.50:25461/bulltvn3w/appnew/274
 #EXTINF: -1 tvg-id="FoxSportsPremiumArgentina.ar" tvg-name="Fox Sports Premium Argentina" tvg-chno="1604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Fox_Sports_Premium_Argentina_2020.png/512px-Fox_Sports_Premium_Argentina_2020.png" group-title="Sports", Fox Sports Premium Argentina
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/892.ts
