@@ -1,59 +1,50 @@
-﻿#EXTM3U
+#EXTM3U
 
-#EXTINF:-1, tvg-id="CinemaPlus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/512px-Cinema%2B_logo.svg.png" tvg-name="Cinema +"  group-title="Cine & Series",Cinema +
+#EXTINF:-1 tvg-id="CinemaPlus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/512px-Cinema%2B_logo.svg.png" tvg-name="Cinema +"  group-title="Cine & Series",Cinema +
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w558961513.m3u8
 
-#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Películas"  group-title="Cine & Series",FilmRise Películas
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Películas"  group-title="Cine & Series",FilmRise Películas
 https://d2spdq8rliqjem.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/7a66408e-c6e3-478e-bb0f-1e551da27e3d/4.m3u8
 
-#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Series"  group-title="Cine & Series",FilmRise Series
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Series"  group-title="Cine & Series",FilmRise Series
 https://d2spdq8rliqjem.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/c87cdfc3-ba72-470d-9073-67d5a16af1b4/4.m3u8
 
-#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Cine Club"  group-title="Cine & Series",VIX Cine Club
-https://linear-192.frequency.stream/192/hls/master/playlist_640x360.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Cine Club"  group-title="Cine & Series",VIX Cine Club
+https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 
-#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Familia"  group-title="Cine & Series",VIX Familia
-https://linear-195.frequency.stream/195/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Familia"  group-title="Cine & Series",VIX Familia
+https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
 
-#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Novelas de Romance"  group-title="Cine & Series",VIX Novelas de Romance
-https://linear-194.frequency.stream/194/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Novelas de Romance"  group-title="Cine & Series",VIX Novelas de Romance
+https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
 
-#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Novelas de Oro"  group-title="Cine & Series",VIX Novelas de Oro
-https://linear-196.frequency.stream/196/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Novelas de Oro"  group-title="Cine & Series",VIX Novelas de Oro
+https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
 
-#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Nuestra_Visi%C3%B3n_Logo.png/512px-Nuestra_Visi%C3%B3n_Logo.png" tvg-name="Nuestra Visión"  group-title="Cine & Series",Nuestra Visión
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Nuestra_Visi%C3%B3n_Logo.png/512px-Nuestra_Visi%C3%B3n_Logo.png" tvg-name="Nuestra Visión"  group-title="Cine & Series",Nuestra Visión
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master_3.m3u8
 
-#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://i.ytimg.com/vi/5fpLbWc6484/sddefault.jpg" tvg-name="Los Simpson 24/7"  group-title="Kids",Los Simpson 24/7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ytimg.com/vi/5fpLbWc6484/sddefault.jpg" tvg-name="Los Simpson 24/7"  group-title="Kids",Los Simpson 24/7
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w2142678180.m3u8
 
-#EXTINF:-1, tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/oyIMxzM.png" tvg-name="Toon Goggles Latino"  group-title="Kids",Toon Goggles Latino
-https://stream.ads.ottera.tv/cl/6d41c4ce-b919-4517-91d7-fd0e563c722e/854x480_550000_3_f.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/oyIMxzM.png" tvg-name="Toon Goggles Latino"  group-title="Kids",Toon Goggles Latino
+https://stream.ads.ottera.tv/cl/6f5121aa-8522-4d53-8bdf-b2343233f4f6/1280x720_1400000_1_f.m3u8
 
-#EXTINF:-1, tvg-id="LFCTV.uk" tvg-logo="https://i.imgur.com/hWdxcRX.png" tvg-name="LFCTV"  group-title="Sports",LFCTV
+#EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://i.imgur.com/hWdxcRX.png" tvg-name="LFCTV"  group-title="Sports",LFCTV
 https://streamamg-liver01.akamaized.net/hls/live/2039999-b/int/int_2/hdntl=exp=1659981730~acl=%2f*~data=hdntl~hmac=3cdbec1b5c5b1d1d8b989d0ed65543c0cbe96392bac101cdf80a107aa967994a/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="FCTV.uk" tvg-logo="https://i.imgur.com/hWdxcRX.png" tvg-name="LFCTV HD"  group-title="Sports",LFCTV HD
-https://streamamg-liver01.akamaized.net/hls/live/2039999/int/int_3/hdntl=exp=1659981730~acl=%2f*~data=hdntl~hmac=3cdbec1b5c5b1d1d8b989d0ed65543c0cbe96392bac101cdf80a107aa967994a/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Liga MX"  group-title="Sports",VIX Liga MX
+https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
-#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/D7HC79b.png" tvg-name="Canela ITV Deportes"  group-title="Sports",Canela ITV Deportes
-https://stream.ads.ottera.tv/cl/5d477883-a97f-46a8-bfd0-b611509f5532/1280x720_1926804_0_f.m3u8
-
-#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Liga MX"  group-title="Sports",VIX Liga MX
-https://linear-193.frequency.stream/193/hls/master/playlist_1024x576.m3u8
-
-#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Crímenes"  group-title="Variedades",FilmRise Crímenes
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Crímenes"  group-title="Variedades",FilmRise Crímenes
 https://d2spdq8rliqjem.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/7cff806c-2183-4fba-af96-7a84070a4c6e/4.m3u8
 
-#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Forenses"  group-title="Variedades",FilmRise Forenses
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Forenses"  group-title="Variedades",FilmRise Forenses
 https://d2spdq8rliqjem.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/7335e715-22e0-4bd2-961c-25a0b851e596/4.m3u8
 
-#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inti-tv-ec.png" tvg-name="INTI"  group-title="Variedades",INTI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inti-tv-ec.png" tvg-name="INTI"  group-title="Variedades",INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w2127623327.m3u8
 
-#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/colorLogoPNG.png" tvg-name="LatinAngels Demo"  group-title="Variedades",LatinAngels Demo
-http://sierra-001-latinangels.unitedteleports.tv/SIERRA/latinangels-demo.m3u8
-
-#EXTINF:-1, tvg-id="(no tvg-id)" tvg-logo="https://images.fanart.tv/fanart/spanglish-55f68a827f86c.png" tvg-name="Spanglish"  group-title="Variedades",Spanglish
-https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/2f63d56e-8639-4594-a6ee-f264d3abba79/0.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://images.fanart.tv/fanart/spanglish-55f68a827f86c.png" tvg-name="Spanglish"  group-title="Variedades",Spanglish
+https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/XKQZUW4HJ58IMCQS2AEA/hls3/now_-1m_15s/m.m3u8
 
