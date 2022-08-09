@@ -31,7 +31,7 @@ https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w2142678180.m3u8
 https://stream.ads.ottera.tv/cl/6f5121aa-8522-4d53-8bdf-b2343233f4f6/1280x720_1400000_1_f.m3u8
 
 #EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://i.imgur.com/hWdxcRX.png" tvg-name="LFCTV"  group-title="Sports",LFCTV
-https://streamamg-liver01.akamaized.net/hls/live/2039999-b/int/int_2/hdntl=exp=1659981730~acl=%2f*~data=hdntl~hmac=3cdbec1b5c5b1d1d8b989d0ed65543c0cbe96392bac101cdf80a107aa967994a/chunklist.m3u8
+https://streamamg-liver01.akamaized.net/hls/live/2039999-b/int/int_3/hdntl=exp=1660095170~acl=%2f*~data=hdntl~hmac=b31f67e4b3c7340a475ebfa3f585abf26aeac16b0777b7e9faa5434541675d4a/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Liga MX"  group-title="Sports",VIX Liga MX
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
