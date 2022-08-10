@@ -40,7 +40,7 @@ http://azxtv.com/hls/stream.m3u8
 https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/live/443103226/u002Ftubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Sports",MLB Network
-https://tve-live.mlb.com/1660092414_212f2b183d385ef5be15c625f79da6a30f058bf798fe005a2f8e1f22bf097c11/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
+https://tve-live.mlb.com/1660121219_2e471c4aefc2ec9be0bdd18ec6d9f8ac58dc1b9a1f3569deb5cbad6a35cb302a/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/vcs9ELP.png" tvg-name="Real Madrid TV"  group-title="Sports",Real Madrid TV
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
