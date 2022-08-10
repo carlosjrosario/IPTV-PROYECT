@@ -42,7 +42,7 @@ https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/live/44310
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Sports",MLB Network
 https://tve-live.mlb.com/1660092414_212f2b183d385ef5be15c625f79da6a30f058bf798fe005a2f8e1f22bf097c11/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
 
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/hWdxcRX.png" tvg-name="Real Madrid TV"  group-title="Sports",Real Madrid TV
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/vcs9ELP.png" tvg-name="Real Madrid TV"  group-title="Sports",Real Madrid TV
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
 
 #EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://i.imgur.com/hWdxcRX.png" tvg-name="LFCTV"  group-title="Sports",LFCTV
