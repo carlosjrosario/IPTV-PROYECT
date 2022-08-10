@@ -36,7 +36,7 @@ https://stream.ads.ottera.tv/cl/6f5121aa-8522-4d53-8bdf-b2343233f4f6/1280x720_14
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/8DWQeMz.png" tvg-name="Anime Zone TV"  group-title="Kids",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="Fox Deportes"  group-title="Sports",Fox Deportes
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" tvg-name="Fox Deportes"  group-title="Sports",Fox Deportes
 https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/live/443103226/u002Ftubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Sports",MLB Network
