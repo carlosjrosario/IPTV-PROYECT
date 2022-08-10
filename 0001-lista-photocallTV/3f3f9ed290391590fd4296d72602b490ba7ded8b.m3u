@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://sergiojamon.com/wp-content/uploads/2022/04/todos-los-originales-tubi-que-veremos-gratis.png" tvg-name="Tubi Original"  group-title="Cine & Series",Tubi Original
+https://csm-e-cetubiausw2live204-09870eb60fc6631c0.csm.tubi.video/csm/live/499780459/u002Ftubiprd01,Tubi-Originals.m3u8
+
 #EXTINF:-1 tvg-id="CinemaPlus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/512px-Cinema%2B_logo.svg.png" tvg-name="Cinema +"  group-title="Cine & Series",Cinema +
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w558961513.m3u8
 
@@ -33,8 +36,14 @@ https://stream.ads.ottera.tv/cl/6f5121aa-8522-4d53-8bdf-b2343233f4f6/1280x720_14
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/8DWQeMz.png" tvg-name="Anime Zone TV"  group-title="Kids",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="Fox Deportes"  group-title="Sports",Fox Deportes
+https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/live/443103226/u002Ftubiprd01,Fox-Sports-Espanol2.m3u8
+
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Sports",MLB Network
 https://tve-live.mlb.com/1660092414_212f2b183d385ef5be15c625f79da6a30f058bf798fe005a2f8e1f22bf097c11/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/hWdxcRX.png" tvg-name="Real Madrid TV"  group-title="Sports",Real Madrid TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
 
 #EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://i.imgur.com/hWdxcRX.png" tvg-name="LFCTV"  group-title="Sports",LFCTV
 https://streamamg-liver01.akamaized.net/hls/live/2039999-b/int/int_3/hdntl=exp=1660095170~acl=%2f*~data=hdntl~hmac=b31f67e4b3c7340a475ebfa3f585abf26aeac16b0777b7e9faa5434541675d4a/chunklist.m3u8
