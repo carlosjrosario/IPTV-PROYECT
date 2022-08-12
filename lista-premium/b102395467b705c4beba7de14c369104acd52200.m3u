@@ -1,46 +1,61 @@
 #EXTM3U 
+
 #EXTINF: -1 tvg-id="StarChannelCentralAmerica.us" tvg-name="Star Channel Central America" tvg-chno="204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Cine & Series", Star Channel Central America
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/588.ts
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/588.ts
+
 #EXTINF: -1 tvg-id="StarChannelPanregional.us" tvg-name="Star Channel East" tvg-chno="204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Cine & Series", Star Channel Panregional
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/591.ts
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/591.ts
+
 #EXTINF: -1 tvg-id="StarChannelCentralAmerica.us" tvg-name="Star Channel HD Central America" tvg-chno="1204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Cine & Series", Star Channel HD Central America
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/595.ts
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/595.ts
+
 #EXTINF: -1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-chno="205" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Cine & Series", Distrito Comedia
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/568.ts
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/568.ts
+
 #EXTINF: -1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia HD" tvg-chno="1205" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Cine & Series", Distrito Comedia HD
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/572.ts
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/572.ts
+
 #EXTINF: -1 tvg-id="WarnerChannelSouth.us" tvg-name="Warner Channel South" tvg-chno="206" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Cine & Series", Warner Channel South
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/854.ts
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/854.ts
+
 #EXTINF: -1 tvg-id="WarnerChannelSouth.us" tvg-name="Warner Channel HD South" tvg-chno="1206" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Cine & Series", Warner Channel HD South
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/859.ts
-#EXTINF: -1 tvg-id="AEVenezuela.ve" tvg-name="A&E Venezuela" tvg-chno="207" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Cine & Series", A&E Venezuela
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/859.ts
+
+#EXTINF: -1 tvg-id="AEPanregional.us" tvg-name="A&E Panregional" tvg-chno="207" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Cine & Series", A&E Panregional
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/417.ts
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/417.ts
+
 #EXTINF: -1 tvg-id="AEHDVenezuela.ve" tvg-name="A&E HD Venezuela" tvg-chno="1207" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Cine & Series", A&E HD Venezuela
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/423.ts
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/423.ts
+
 #EXTINF: -1 tvg-id="SonyChannelAndes.us" tvg-name="Sony Channel Andes" tvg-chno="208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Cine & Series", Sony Channel Andes
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/750.ts
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/750.ts
+
 #EXTINF: -1 tvg-id="SonyChannelAndes.us" tvg-name="Sony Channel HD Andes" tvg-chno="1208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Cine & Series", Sony Channel HD Andes
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/754.ts
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/754.ts
+
 #EXTINF: -1 tvg-id="AXNAndes.us" tvg-name="AXN Andes" tvg-chno="209" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Cine & Series", AXN Andes
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/435.ts
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/435.ts
+
 #EXTINF: -1 tvg-id="AXNAndes.us" tvg-name="AXN HD Andes" tvg-chno="1208" tvg-logo="https://i.imgur.com/EwrGqtJ.png" group-title="Cine & Series", AXN HD Andes
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/438.ts
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/438.ts
+
 #EXTINF: -1 tvg-id="AMCPanregional.us" tvg-name="AMC Panregional" tvg-chno="210" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Cine & Series", AMC Panregional
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/426.ts
+https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/CjjfbyffhhfssetujnccdfVI/FhggutdAfwqyVjffyfhhrd/426.ts
+
 #EXTINF: -1 tvg-id="AMCPanregional.us" tvg-name="AMC HD Panregional" tvg-chno="1210" tvg-logo="https://i.imgur.com/uybtUdC.png" group-title="Cine & Series", AMC HD Panregional
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/432.ts
