@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://sergiojamon.com/wp-content/uploads/2022/04/todos-los-originales-tubi-que-veremos-gratis.png" tvg-name="Tubi Original"  group-title="Cine & Series",Tubi Original
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://sergiojamon.com/wp-content/uploads/2022/04/todos-los-originales-tubi-que-veremos-gratis.png" tvg-name="Tubi Original"  group-title="Cine & Series",Tubi Original
 https://csm-e-cetubiausw2live204-09870eb60fc6631c0.csm.tubi.video/csm/live/499780459/u002Ftubiprd01,Tubi-Originals.m3u8
 
 #EXTINF:-1 tvg-id="CinemaPlus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/512px-Cinema%2B_logo.svg.png" tvg-name="Cinema +"  group-title="Cine & Series",Cinema +
@@ -30,23 +30,17 @@ https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master_3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ytimg.com/vi/5fpLbWc6484/sddefault.jpg" tvg-name="Los Simpson 24/7"  group-title="Kids",Los Simpson 24/7
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w2142678180.m3u8
 
-#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/oyIMxzM.png" tvg-name="Toon Goggles Latino"  group-title="Kids",Toon Goggles Latino
-https://stream.ads.ottera.tv/cl/6f5121aa-8522-4d53-8bdf-b2343233f4f6/1280x720_1400000_1_f.m3u8
-
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/8DWQeMz.png" tvg-name="Anime Zone TV"  group-title="Kids",Anime Zone TV
-http://azxtv.com/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" tvg-name="Fox Deportes"  group-title="Sports",Fox Deportes
 https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/live/443103226/u002Ftubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Sports",MLB Network
-https://tve-live.mlb.com/1660121219_2e471c4aefc2ec9be0bdd18ec6d9f8ac58dc1b9a1f3569deb5cbad6a35cb302a/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
+https://tve-live.mlb.com/1660360727_90151e3d6d2e81190959936e64855f20d4742dd12bca220148cb58a557d0ff14/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/vcs9ELP.png" tvg-name="Real Madrid TV"  group-title="Sports",Real Madrid TV
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
 
 #EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://i.imgur.com/hWdxcRX.png" tvg-name="LFCTV"  group-title="Sports",LFCTV
-https://streamamg-liver01.akamaized.net/hls/live/2039999-b/int/int_3/hdntl=exp=1660095170~acl=%2f*~data=hdntl~hmac=b31f67e4b3c7340a475ebfa3f585abf26aeac16b0777b7e9faa5434541675d4a/chunklist.m3u8
+https://streamamg-liver01.akamaized.net/hls/live/2039999-b/int/int_2/hdntl=exp=1660423153~acl=%2f*~data=hdntl~hmac=65ca0806d799a6090b357828b79a022e9e792a1c21e143d52b476ee35d0634fc/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Liga MX"  group-title="Sports",VIX Liga MX
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
@@ -62,6 +56,3 @@ https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w2127623
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://images.fanart.tv/fanart/spanglish-55f68a827f86c.png" tvg-name="Spanglish"  group-title="Variedades",Spanglish
 https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/XKQZUW4HJ58IMCQS2AEA/hls3/now_-1m_15s/m.m3u8
-
-#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" tvg-name="WOWTV"  group-title="Internacional",WOWTV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
