@@ -75,7 +75,7 @@ https://v3.playerlatino.live/stream/m3u8/4
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="Mexico",Azteca 7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/5
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="Infantiles",Baby TV
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="Infantil",Baby TV
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/7
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="Música",Bandamax
@@ -150,22 +150,22 @@ https://v3.playerlatino.live/stream/m3u8/391
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Entretenimiento",Caracol Internacional
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/290
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantiles",Cartoon Network
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantil",Cartoon Network
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/17
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantiles",Cartoon Network Sur
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantil",Cartoon Network Sur
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/737
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="Infantiles",Cartoonito (Boomerang)
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="Infantil",Cartoonito (Boomerang)
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/11
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="Infantiles",Cartoonito Sur
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="Infantil",Cartoonito Sur
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/735
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/catdog.png" group-title="24/7",CatDog 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/785
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbeebies.png" group-title="Infantiles",CBeebies
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbeebies.png" group-title="Infantil",CBeebies
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/13
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Deportes",CDF Premium
@@ -306,7 +306,7 @@ https://v3.playerlatino.live/stream/m3u8/24
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura",Discovery H&H Sur
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/742
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles",Discovery Kids
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantil",Discovery Kids
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/25
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura",Discovery SCI
@@ -318,19 +318,19 @@ https://v3.playerlatino.live/stream/m3u8/28
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura",Discovery World
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/187
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles",Disney Channel
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantil",Disney Channel
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/29
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles",Disney Junior
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantil",Disney Junior
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/30
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles",Disney Junior Sur
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantil",Disney Junior Sur
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/743
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantiles",Disney XD
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantil",Disney XD
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/31
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantiles",Disney XD Sur
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantil",Disney XD Sur
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/744
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="Entretenimiento",Distrito Comedia
@@ -738,7 +738,7 @@ https://v3.playerlatino.live/stream/m3u8/523
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="Cultura",Nat Geo
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/76
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeokids.png" group-title="Infantiles",Nat Geo Kids
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeokids.png" group-title="Infantil",Nat Geo Kids
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/412
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="Cultura",Nat Geo Wild
@@ -753,22 +753,22 @@ https://v3.playerlatino.live/stream/m3u8/353
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nfl.png" group-title="Deportes",NFL Network
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/204
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="Infantiles",Nick
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="Infantil",Nick
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/78
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="Infantiles",Nick op2
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="Infantil",Nick op2
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/645
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="Infantiles",Nick JR
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="Infantil",Nick JR
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/79
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="Infantiles",Nick JR op2
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="Infantil",Nick JR op2
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/829
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="Infantiles",Nick Toons
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="Infantil",Nick Toons
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/80
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="Infantiles",Nickelodeon
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="Infantil",Nickelodeon
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/184
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/nova.png" group-title="España",Nova (ES)
@@ -1026,7 +1026,7 @@ https://v3.playerlatino.live/stream/m3u8/885
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" group-title="Películas",TCM
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/85
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantiles",TeenNick
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantil",TeenNick
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/882
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Uruguay",Tele
@@ -1065,7 +1065,7 @@ https://v3.playerlatino.live/stream/m3u8/764
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes",TigoSports Paraguay
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/843
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png" group-title="Infantiles",Tiin
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png" group-title="Infantil",Tiin
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/93
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="Entretenimiento",TLC
@@ -1095,7 +1095,7 @@ https://v3.playerlatino.live/stream/m3u8/509
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="24/7",Tom y Jerry 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/421
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="Infantiles",Tooncast
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="Infantil",Tooncast
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/95
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/trece_colombia.png" group-title="Colombia",Trece
