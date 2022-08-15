@@ -112,7 +112,7 @@ https://v3.playerlatino.live/stream/m3u8/518
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="Bolivia",Bolivision
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/783
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="Entretenimiento",Breaking Bad 24/7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="24/7",Breaking Bad 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/846
 #EXTINF:-1 tvg-logo="" group-title="24/7",Brickleberry 24/7
@@ -148,7 +148,7 @@ https://v3.playerlatino.live/stream/m3u8/364
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" group-title="Deportes",Canal+ Toros
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/369
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Candy Candy 24/7
+#EXTINF:-1 tvg-logo="" group-title="24/7",Candy Candy 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/808
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7",Cantinflas 24/7
@@ -624,7 +624,7 @@ https://v3.playerlatino.live/stream/m3u8/886
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png" group-title="España",La Sexta
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/326
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="Entretenimiento",La Vaca y ElPollito 24/7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="24/7",La Vaca y El Pollito 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/809
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Uruguay",Latina TV
@@ -651,7 +651,7 @@ https://v3.playerlatino.live/stream/m3u8/423
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="24/7",Los Años Maravillosos 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/810
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="Entretenimiento",Los Padrinos Magicos 24/7
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="24/7",Los Padrinos Magicos 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/813
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7",Los Picapiedra 24/7
