@@ -1,58 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://sergiojamon.com/wp-content/uploads/2022/04/todos-los-originales-tubi-que-veremos-gratis.png" tvg-name="Tubi Original"  group-title="Cine & Series",Tubi Original
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://sergiojamon.com/wp-content/uploads/2022/04/todos-los-originales-tubi-que-veremos-gratis.png" tvg-name="Tubi Original"  group-title="Películas",Tubi Original
 https://csm-e-cetubiausw2live204-09870eb60fc6631c0.csm.tubi.video/csm/live/499780459/u002Ftubiprd01,Tubi-Originals.m3u8
 
-#EXTINF:-1 tvg-id="CinemaPlus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/512px-Cinema%2B_logo.svg.png" tvg-name="Cinema +"  group-title="Cine & Series",Cinema +
+#EXTINF:-1 tvg-id="CinemaPlus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/512px-Cinema%2B_logo.svg.png" tvg-name="Cinema +"  group-title="Películas",Cinema +
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w558961513.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Películas"  group-title="Cine & Series",FilmRise Películas
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Películas"  group-title="Películas",FilmRise Películas
 https://d2spdq8rliqjem.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/7a66408e-c6e3-478e-bb0f-1e551da27e3d/4.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Series"  group-title="Cine & Series",FilmRise Series
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Series"  group-title="Películas",FilmRise Series
 https://d2spdq8rliqjem.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/c87cdfc3-ba72-470d-9073-67d5a16af1b4/4.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Cine Club"  group-title="Cine & Series",VIX Cine Club
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Cine Club"  group-title="Películas",VIX Cine Club
 https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Familia"  group-title="Cine & Series",VIX Familia
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Familia"  group-title="Entretenimiento",VIX Familia
 https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Novelas de Romance"  group-title="Cine & Series",VIX Novelas de Romance
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Novelas de Romance"  group-title="Entretenimiento",VIX Novelas de Romance
 https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Novelas de Oro"  group-title="Cine & Series",VIX Novelas de Oro
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Novelas de Oro"  group-title="Entretenimiento",VIX Novelas de Oro
 https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Nuestra_Visi%C3%B3n_Logo.png/512px-Nuestra_Visi%C3%B3n_Logo.png" tvg-name="Nuestra Visión"  group-title="Cine & Series",Nuestra Visión
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Nuestra_Visi%C3%B3n_Logo.png/512px-Nuestra_Visi%C3%B3n_Logo.png" tvg-name="Nuestra Visión"  group-title="Entretenimiento",Nuestra Visión
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master_3.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ytimg.com/vi/5fpLbWc6484/sddefault.jpg" tvg-name="Los Simpson 24/7"  group-title="Kids",Los Simpson 24/7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.ytimg.com/vi/5fpLbWc6484/sddefault.jpg" tvg-name="Los Simpson 24/7"  group-title="24/7",Los Simpson 24/7
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w2142678180.m3u8
 
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" tvg-name="Fox Deportes"  group-title="Sports",Fox Deportes
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" tvg-name="Fox Deportes"  group-title="Deportes",Fox Deportes
 https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/live/443103226/u002Ftubiprd01,Fox-Sports-Espanol2.m3u8
 
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Sports",MLB Network
-https://tve-live.mlb.com/1660360727_90151e3d6d2e81190959936e64855f20d4742dd12bca220148cb58a557d0ff14/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
+https://tve-live.mlb.com/1660622380_4bc3ad3c545fc9d37600d498bce8e9dc6056b363ba41d2a9070a36ffed962b01/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
 
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/vcs9ELP.png" tvg-name="Real Madrid TV"  group-title="Sports",Real Madrid TV
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/vcs9ELP.png" tvg-name="Real Madrid TV"  group-title="Deportes",Real Madrid TV
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
 
-#EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://i.imgur.com/hWdxcRX.png" tvg-name="LFCTV"  group-title="Sports",LFCTV
-https://streamamg-liver01.akamaized.net/hls/live/2039999-b/int/int_2/hdntl=exp=1660423153~acl=%2f*~data=hdntl~hmac=65ca0806d799a6090b357828b79a022e9e792a1c21e143d52b476ee35d0634fc/chunklist.m3u8
+#EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://i.imgur.com/hWdxcRX.png" tvg-name="LFCTV"  group-title="Deportes",LFCTV
+https://streamamg-liver01.akamaized.net/hls/live/2039999-b/int/int_3/hdntl=exp=1660681754~acl=%2f*~data=hdntl~hmac=449d69933804285cc49e94aea8eea70d3bc669ebbe6186121e659733964b9a25/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Liga MX"  group-title="Sports",VIX Liga MX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Liga MX"  group-title="Deportes",VIX Liga MX
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Crímenes"  group-title="Variedades",FilmRise Crímenes
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Crímenes"  group-title="Entretenimiento",FilmRise Crímenes
 https://d2spdq8rliqjem.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/7cff806c-2183-4fba-af96-7a84070a4c6e/4.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Forenses"  group-title="Variedades",FilmRise Forenses
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Forenses"  group-title="Entretenimiento",FilmRise Forenses
 https://d2spdq8rliqjem.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/7335e715-22e0-4bd2-961c-25a0b851e596/4.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inti-tv-ec.png" tvg-name="INTI"  group-title="Variedades",INTI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inti-tv-ec.png" tvg-name="INTI"  group-title="Entretenimiento",INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w2127623327.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://images.fanart.tv/fanart/spanglish-55f68a827f86c.png" tvg-name="Spanglish"  group-title="Variedades",Spanglish
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://images.fanart.tv/fanart/spanglish-55f68a827f86c.png" tvg-name="Spanglish"  group-title="Entretenimiento",Spanglish
 https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/XKQZUW4HJ58IMCQS2AEA/hls3/now_-1m_15s/m.m3u8

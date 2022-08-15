@@ -1,0 +1,211 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-name="Canela TV (720p)" tvg-logo="https://i.imgur.com/D7HC79b.png" group-title="Películas",Canela TV (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="CINE.AR (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/512px-Cine.Ar_logo.svg.png" group-title="Películas",CINE.AR (720p) [Not 24/7]
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeek2.cl" tvg-name="EnerGeek Señal 2 (720p) [Not 24/7]" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png" group-title="Películas",EnerGeek Señal 2 (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="EvaStream.cl" tvg-name="Eva Stream (Corporación Eva) (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/neJGp9C.png" group-title="Películas",Eva Stream (Corporación Eva) (480p) [Not 24/7]
+https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
+#EXTINF:-1 tvg-id="EvaRetro.cl" tvg-name="EvaRetro (Corporación Eva) (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/Cwy0zcq.png" group-title="Películas",EvaRetro (Corporación Eva) (480p) [Not 24/7]
+https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
+#EXTINF:-1 tvg-id="Moovimex.mx" tvg-name="Moovimex (720p)" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="Películas",Moovimex (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieFe.co" tvg-name="MovieFe (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/FqHLJmN.png" group-title="Películas",MovieFe (360p) [Not 24/7]
+https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimemovienetworkMexico.mx" tvg-name="MyTime movie network Mexico (720p)" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Películas",MyTime movie network Mexico (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimemovienetworkSpain.es" tvg-name="MyTime movie network Spain (1080p)" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="Películas",MyTime movie network Spain (1080p)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-name="Retro Plus 3 (720p)" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Películas",Retro Plus 3 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-name="SEO TV Novelas (540p) [Not 24/7]" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Películas",SEO TV Novelas (540p) [Not 24/7]
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+#EXTINF:-1 tvg-id="CineClubTV.pe" tvg-name="TecSatel Cine TV (Arequipa) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/x5O42NQ.png" group-title="Películas",TecSatel Cine TV (Arequipa) (720p) [Not 24/7]
+https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-name="WTV Canal 20 (720p)" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="Películas",WTV Canal 20 (720p)
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-name="Antares Televisión (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entretenimiento",Antares Televisión (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-id="CentralTV.pe" tvg-name="Central TV (Chosica) (614p) [Not 24/7]" tvg-logo="https://i.imgur.com/YI9n4wL.png" group-title="Entretenimiento",Central TV (Chosica) (614p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CloudserverLatamCSTV.cl" tvg-name="Cloudserver Latam (CSTV) (720p)" tvg-logo="https://i.imgur.com/UFH6fVx.png" group-title="Entretenimiento",Cloudserver Latam (CSTV) (720p)
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-name="Cosmos TV" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entretenimiento",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-id="NavarraTV.es" tvg-name="Navarra TV (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/rcbRX2T.png" group-title="Entretenimiento",Navarra TV (576p) [Not 24/7]
+https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="Novelisima.us" tvg-name="Novelísima [Not 24/7]" tvg-logo="https://www.novelisima.com/assets/images/logo.png" group-title="Entretenimiento",Novelísima [Not 24/7]
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-name="RadioInka (Abancay) (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/CNLFe3r.png" group-title="Entretenimiento",RadioInka (Abancay) (1080p) [Not 24/7]
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-name="SoloStandUp (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="Entretenimiento",SoloStandUp (480p) [Not 24/7]
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+#EXTINF:-1 tvg-id="Wapp.cl" tvg-name="Wapp (1080p)" tvg-logo="https://i.imgur.com/AwLBkLv.png" group-title="Entretenimiento",Wapp (1080p)
+https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
+#EXTINF:-1 tvg-id="RCKTV.cl" tvg-name="RCK TV (720p)" tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Música",RCK TV (720p)
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-name="Retro Plus (720p)" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Música",Retro Plus (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-name="Retro Plus 2 (720p)" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Música",Retro Plus 2 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1 tvg-id="CloudserverLatamKids90.cl" tvg-name="Cloudserver Kids90 (480p)" tvg-logo="https://i.imgur.com/UFH6fVx.png" group-title="Infantil",Cloudserver Kids90 (480p)
+https://videostreaming.cloudserverlatam.com/Kids90/Kids90/playlist.m3u8
+#EXTINF:-1 tvg-id="DreikoTV.pa" tvg-name="DreikoTv (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/Bzn74fP.png" group-title="Infantil",DreikoTv (480p) [Not 24/7]
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinoKids.uy" tvg-name="LatinoKids (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Infantil",LatinoKids (360p) [Not 24/7]
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-name="Planetatv Kids (1080p)" tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="Infantil",Planetatv Kids (1080p)
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroMagico.ar" tvg-name="RetroMágico" tvg-logo="https://i.imgur.com/Dd8KMvI.png" group-title="Infantil",RetroMágico
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF:-1 tvg-id="SEOTVKids.bo" tvg-name="SEO TV Kids (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Infantil",SEO TV Kids (360p) [Not 24/7]
+https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/512px-Deportv.svg.png" group-title="Deportes",DeporTV (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="El Garage TV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Deportes",El Garage TV (480p) [Not 24/7]
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="ESportsMax.ve" tvg-name="Esports Max [Not 24/7]" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Deportes",Esports Max [Not 24/7]
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FightBoxHD.us" tvg-name="FightBox HD (480p)" tvg-logo="https://i.imgur.com/1pYH86k.png" group-title="Deportes",FightBox HD (480p)
+http://ott-cdn.ucom.am/s86/index.m3u8
+#EXTINF:-1 tvg-id="MotorSurMedia.py" tvg-name="Motor Sur Media" tvg-logo="https://iptv.com.py/wp-content/uploads/2022/04/motorsur2-300x94.jpg" group-title="Deportes",Motor Sur Media
+https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsMax.jm" tvg-name="SportsMax (720p)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49559/s49559_h3_aa.png" group-title="Deportes",SportsMax (720p)
+http://cdn.tvmatic.net/sport.m3u8
+#EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-name="Teletrak (720p)" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Deportes",Teletrak (720p)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VPItv.ve" tvg-name="VPItv (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="Noticias",VPItv (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-name="Platzi TV (1080p)" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184" group-title="Cultura",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="TEC TV" tvg-logo="https://i.imgur.com/i1x1zzn.png" group-title="Cultura",TEC TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="ActivaTV.pe" tvg-name="Activa TV [Not 24/7]" tvg-logo="https://i.imgur.com/6gKU3Fd.png" group-title="Internacional",Activa TV [Not 24/7]
+https://cloudvideo.servers10.com:8081/8126/index.m3u8
+#EXTINF:-1 tvg-id="AlmayaTV.py" tvg-name="AlmayaTV" tvg-logo="https://iptv.com.py/wp-content/uploads/2021/09/almalogo2021-300x153.png" group-title="Internacional",AlmayaTV
+https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-name="Anzoátegui TV" tvg-logo="https://anzoategui.tv/wp2/wp-content/uploads/2022/03/anz-tv-white.png" group-title="Internacional",Anzoátegui TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-id="Asomavision.ec" tvg-name="Asomavisión" tvg-logo="https://www.asomavision.com/wp-content/uploads/elementor/thumbs/logo-plmdacsiyvbjg8u0c09hltx6cm1h0q2unv4vmd17as.png" group-title="Internacional",Asomavisión
+https://asomatv.duckdns.org/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Internacional",ATV (480p) [Not 24/7]
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-name="Auténtica Televisión (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/uA0GNVH.png" group-title="Internacional",Auténtica Televisión (720p) [Not 24/7]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-name="Bella Asuncion TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/KTBFc6v.png" group-title="Internacional",Bella Asuncion TV (720p) [Not 24/7]
+https://tvdatta.com:3602/stream/play.m3u8
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-name="BHTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Internacional",BHTV (720p) [Not 24/7]
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNTV.pe" tvg-name="Cable Netword TV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/bVTjvp6.png" group-title="Internacional",Cable Netword TV (480p) [Not 24/7]
+https://tv.inka.net.pe/cntv/index.m3u8
+#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-name="Cajamarca TV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/3VkobI4.png" group-title="Internacional",Cajamarca TV (480p) [Not 24/7]
+https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
+#EXTINF:-1 tvg-id="Canal11Aysen.cl" tvg-name="Canal 11 Aysén" tvg-logo="https://i.imgur.com/63BwBrx.png" group-title="Internacional",Canal 11 Aysén
+https://v1.tustreaming.cl:19360/canal11aysen/canal11aysen.m3u8
+#EXTINF:-1 tvg-id="Canal12HD.do" tvg-name="Canal 12 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/ItOH7St.png" group-title="Internacional",Canal 12 (720p) [Not 24/7]
+https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2.co" tvg-name="Canal 2 (720p) [Not 24/7]" tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg" group-title="Internacional",Canal 2 (720p) [Not 24/7]
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+#EXTINF:-1 tvg-id="Canal2Salta.ar" tvg-name="Canal 2 (Salta)" tvg-logo="https://pbs.twimg.com/profile_images/1505991107598962691/gWl-uFtn_400x400.jpg" group-title="Internacional",Canal 2 (Salta)
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+#EXTINF:-1 tvg-id="Canal2Alpavision.co" tvg-name="Canal 2 Alpavisión (Neiva | Huila) (720p) [Not 24/7]" tvg-logo="https://alpavision.com.co/wp-content/uploads/2018/02/logo-01.png" group-title="Internacional",Canal 2 Alpavisión (Neiva | Huila) (720p) [Not 24/7]
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4Jujuy.ar" tvg-name="Canal 4 Jujuy (720p)" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Internacional",Canal 4 Jujuy (720p)
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal57Melipilla.cl" tvg-name="Canal 57 Melipilla (720p)" tvg-logo="https://i.imgur.com/3hhDpJe.png" group-title="Internacional",Canal 57 Melipilla (720p)
+https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal6.ni" tvg-name="Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canal_6_Nicaraguense.png" group-title="Internacional",Canal 6
+http://138.117.4.70:8075/channel6/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-name="Canal 8 (Catacaos) (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="Internacional",Canal 8 (Catacaos) (360p) [Not 24/7]
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+#EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-name="Canal 9 Litoral" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Internacional",Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTDC.ar" tvg-name="CANAL TDC (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/MxEh5J8.png" group-title="Internacional",CANAL TDC (1080p) [Not 24/7]
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-name="Canal Visión Dorada (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/P3ZFGx1.png" group-title="Internacional",Canal Visión Dorada (720p) [Not 24/7]
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="Canal9Multivision.ar" tvg-name="CANAL.9 MULTIVISION (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/2WFGiCh.png" group-title="Internacional",CANAL.9 MULTIVISION (720p) [Not 24/7]
+https://panel.dattalive.com/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10Nortevision.ar" tvg-name="Canal10 Nortevision" tvg-logo="https://i.imgur.com/YFP2jJe.png" group-title="Internacional",Canal10 Nortevision
+https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
+#EXTINF:-1 tvg-id="Catavision.hn" tvg-name="Catavisión (300p) [Not 24/7]" tvg-logo="https://i.imgur.com/Vao9gla.png" group-title="Internacional",Catavisión (300p) [Not 24/7]
+https://stmv1.zcastbr.com/catavision/catavision/playlist.m3u8
+#EXTINF:-1 tvg-id="CincoTV.ar" tvg-name="Cinco TV (480p) [Not 24/7]" tvg-logo="https://i.pinimg.com/originals/2d/18/54/2d185451c3cc188c39add960b94c6844.png" group-title="Internacional",Cinco TV (480p) [Not 24/7]
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNCDigital.pe" tvg-name="CNC Digital (Iquitos) (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/4fSkmoA.png" group-title="Internacional",CNC Digital (Iquitos) (480p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8150/index.m3u8
+#EXTINF:-1 tvg-id="CreoTV.pe" tvg-name="CreoTV (Cajamarca) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/DI7ZTi9.png" group-title="Internacional",CreoTV (Cajamarca) (720p) [Not 24/7]
+https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CTC.pe" tvg-name="CTC (720p)" tvg-logo="https://i.imgur.com/WKLRHEC.png" group-title="Internacional",CTC (720p)
+http://190.108.83.142:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="DANTV.do" tvg-name="DAN TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Ax55kJ6.png" group-title="Internacional",DAN TV (720p) [Not 24/7]
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="DMJ.pe" tvg-name="DMJ (Cuzco) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="Internacional",DMJ (Cuzco) (720p) [Not 24/7]
+https://v4.tustreaming.cl/s1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EcotelTV.ec" tvg-name="Ecotel (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Yr4xUKW.png" group-title="Internacional",Ecotel (720p) [Not 24/7]
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+#EXTINF:-1 tvg-id="GenTV.ar" tvg-name="GenTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/V9UTZ0D.png" group-title="Internacional",GenTV (720p) [Not 24/7]
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:-1 tvg-id="Girovisual.cl" tvg-name="Girovisual" tvg-logo="https://i.imgur.com/k5bwqSI.png" group-title="Internacional",Girovisual
+https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.pe" tvg-name="Global TV" tvg-logo="https://cdn.mitvstatic.com/channels/pe_nex-tv_m.png" group-title="Internacional",Global TV
+http://190.108.83.142:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="HuachoPeruTV.pe" tvg-name="Huacho Perú TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/oC6tuLn.png" group-title="Internacional",Huacho Perú TV (720p) [Not 24/7]
+https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
+#EXTINF:-1 tvg-id="MorroTV.do" tvg-name="MorroTV" tvg-logo="https://www.morrodigital.com/wp-content/uploads/2022/02/cropped-photo_2022-02-10_09-46-23.jpg" group-title="Internacional",MorroTV
+https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
+#EXTINF:-1 tvg-id="NacionalTV.pe" tvg-name="NacionalTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/YbyjNgU.png" group-title="Internacional",NacionalTV (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTeVe.pe" tvg-name="OK TeVe (Yurimaguas) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/rk0bwcz.png" group-title="Internacional",OK TeVe (Yurimaguas) (720p) [Not 24/7]
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+#EXTINF:-1 tvg-id="OrientalTV.pe" tvg-name="Oriental TV 21 (Pucallpa) (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/CwUswNY.png" group-title="Internacional",Oriental TV 21 (Pucallpa) (480p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="PiuraTV.pe" tvg-name="PiuraTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/oew9unJ.png" group-title="Internacional",PiuraTV (720p) [Not 24/7]
+http://190.108.83.142:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="SEOTV.bo" tvg-name="SEO TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Internacional",SEO TV (720p) [Not 24/7]
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+#EXTINF:-1 tvg-id="Sistema1.pe" tvg-name="Sistema 1 (Huaraz) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/GaEfzuG.png" group-title="Internacional",Sistema 1 (Huaraz) (720p) [Not 24/7]
+https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
+#EXTINF:-1 tvg-id="SuperTV.pe" tvg-name="Super TV (Kachorro | Bagua Grande) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/F166GPP.png" group-title="Internacional",Super TV (Kachorro | Bagua Grande) (720p) [Not 24/7]
+https://tvdatta.com:3517/live/kachorrotvlive.m3u8
+#EXTINF:-1 tvg-id="Telemax.do" tvg-name="Telemax" tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png" group-title="Internacional",Telemax
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisionTarapoto.pe" tvg-name="Televisión Tarapoto (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/aSxZooE.png" group-title="Internacional",Televisión Tarapoto (720p) [Not 24/7]
+https://videoserver.tmcreativos.com:19360/televisiontpp/televisiontpp.m3u8
+#EXTINF:-1 tvg-id="UchuTV.pe" tvg-name="Uchu TV (Cusco) [Not 24/7]" tvg-logo="https://i.imgur.com/tebr5wH.png" group-title="Internacional",Uchu TV (Cusco) [Not 24/7]
+http://190.108.83.142:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-name="Vía Altomayo (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Yr7d8rg.png" group-title="Internacional",Vía Altomayo (720p) [Not 24/7]
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-name="WOW TV (576p) [Not 24/7]" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Internacional",WOW TV (576p) [Not 24/7]
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV Romania" tvg-logo="https://graph.facebook.com/rockfmro/picture?width=200&height=200" group-title="Música",Rock TV Romania
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network Latino" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantil",Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon Network Latino" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="Infantil",Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="RealMadrid TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="Deportes",RealMadrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Alemania" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" group-title="Noticias",DW Alemania
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="Noticias",Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.es" tvg-name="El Toro TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Internacional",El Toro TV
+https://streaming003.gestec-video.com/hls/eltoro_bal.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" LatinAngels" tvg-logo="https://images.pluto.tv/channels/5df41355939756000921d15b/colorLogoPNG.png" group-title="XXX", LatinAngels
+http://sierra-001-latinangels.unitedteleports.tv/SIERRA/latinangels-demo.m3u8
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-name="Fashion TV Midnight Secrets" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="XXX",Fashion TV Midnight Secrets
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGKaloopy" tvg-name="Kaloopy" tvg-logo="https://a.jsrdn.com/hls/22868/kaloopy/logo_20200609_231841.png" group-title="XXX",Kaloopy
+https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
+#EXTINF:-1 tvg-id="A3Bikini.us" tvg-name="A3Bikini" tvg-logo="https://i.imgur.com/IBfTNOr.png" group-title="XXX",A3Bikini
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#EXTINF:-1 tvg-id="JennyLive.us" tvg-name="Jenny Live" tvg-logo="https://i.imgur.com/BEx0Ek1.png" group-title="XXX",Jenny Live
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-name="Miami TV" tvg-logo="https://i.imgur.com/R0MFFk1.png" group-title="XXX",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us" tvg-name="Miami TV Latino" tvg-logo="https://i.imgur.com/Y5tUClU.png" group-title="XXX",Miami TV Latino
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-name="Miami TV Mexico" tvg-logo="https://i.imgur.com/ou5afOB.jpg" group-title="XXX",Miami TV Mexico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
