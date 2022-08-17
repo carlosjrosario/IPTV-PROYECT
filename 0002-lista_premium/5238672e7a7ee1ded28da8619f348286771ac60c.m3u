@@ -1,315 +1,718 @@
-#EXTM3U 
-#EXTINF: -1 tvg-id="StarChannelCentralAmerica.us" tvg-name="Star Channel HD Central America" tvg-chno="204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Cine & Series", Star Channel HD Central America
-http://51.222.25.50:25461/bulltvn3w/appnew/97
-#EXTINF: -1 tvg-id="AXNWhite.us" tvg-name="AXN White HD" tvg-chno="205" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/512px-AXN_White_logo_%282015%29.svg.png" group-title="Cine & Series", AXN White HD
-http://51.222.25.50:25461/bulltvn3w/appnew/48
-#EXTINF: -1 tvg-id="WarnerChannelSouth.us" tvg-name="Warner Channel HD South" tvg-chno="206" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Cine & Series", Warner Channel HD South
-http://51.222.25.50:25461/bulltvn3w/appnew/178
-#EXTINF: -1 tvg-id="AEHDVenezuela.ve" tvg-name="A&E HD Venezuela" tvg-chno="207" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Cine & Series", A&E HD Venezuela
-http://51.222.25.50:25461/bulltvn3w/appnew/38
-#EXTINF: -1 tvg-id="SonyChannelAndes.us" tvg-name="Sony Channel HD Andes" tvg-chno="208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Cine & Series", Sony Channel HD Andes
-http://51.222.25.50:25461/bulltvn3w/appnew/143
-#EXTINF: -1 tvg-id="AXNAndes.us" tvg-name="AXN HD Andes" tvg-chno="209" tvg-logo="https://i.imgur.com/EwrGqtJ.png" group-title="Cine & Series", AXN HD Andes
-http://51.222.25.50:25461/bulltvn3w/appnew/47
-#EXTINF: -1 tvg-id="AMCPanregional.us" tvg-name="AMC HD Panregional" tvg-chno="210" tvg-logo="https://i.imgur.com/uybtUdC.png" group-title="Cine & Series", AMC HD Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/44
-#EXTINF: -1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia HD" tvg-chno="211" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Cine & Series", Distrito Comedia HD
-http://51.222.25.50:25461/bulltvn3w/appnew/85
-#EXTINF: -1 tvg-id="TNTSeriesPanregional.us" tvg-name="TNT Series HD Panregional" tvg-chno="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Cine & Series", TNT Series HD Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/157
-#EXTINF: -1 tvg-id="AtreseriesInternacional.es" tvg-name="Atreseries Internacional HD" tvg-chno="214" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="Cine & Series", Atreseries Internacional HD
-http://51.222.25.50:25461/bulltvn3w/appnew/41
-#EXTINF: -1 tvg-id="ComedyCentralNorth.us" tvg-name="Comedy Central North" tvg-chno="215" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Cine & Series", Comedy Central North
-http://51.222.25.50:25461/bulltvn3w/appnew/68
-#EXTINF: -1 tvg-id="TBSPanregional.us" tvg-name="TBS HD Panregional" tvg-chno="216" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/512px-TBS_logo_2016.svg.png" group-title="Cine & Series", TBS HD Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/150
-#EXTINF: -1 tvg-id="FXPanregional.us" tvg-name="FX HD Panregional" tvg-chno="217" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Cine & Series", FX HD Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/111
-#EXTINF: -1 tvg-id="UniversalTVPanregional.us" tvg-name="Universal TV HD Panregional" tvg-chno="218" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Cine & Series", Universal TV HD Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/175
-#EXTINF: -1 tvg-id="SyfyPanregional.us" tvg-name="Syfy Panregional" tvg-chno="219" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Cine & Series", Syfy Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/149
-#EXTINF: -1 tvg-id="TruTVPanregional.us" tvg-name="TruTV HD Panregional" tvg-chno="220" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png" group-title="Variedades", TruTV HD Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/159
-#EXTINF: -1 tvg-id="HolaTVLatinAmerica.es" tvg-name="¡Hola! TV Latin America" tvg-chno="221" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/512px-%C2%A1HOLA%21TVlogo.jpg" group-title="Variedades", ¡Hola! TV Latin America
-http://51.222.25.50:25461/bulltvn3w/appnew/124
-#EXTINF: -1 tvg-id="EAndes.us" tvg-name="E! Andes" tvg-chno="222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title="Variedades", E! Andes
-http://51.222.25.50:25461/bulltvn3w/appnew/86
-#EXTINF: -1 tvg-id="InvestigationDiscoveryPanregional.us" tvg-name="Investigation Discovery Panregional" tvg-chno="223" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Variedades", Investigation Discovery Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/75
-#EXTINF: -1 tvg-id="GlitzPanregional.ar" tvg-name="Glitz Panregional" tvg-chno="224" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/512px-Glitzlogo.png" group-title="Variedades", Glitz Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/114
-#EXTINF: -1 tvg-id="PasionesPanregional.us" tvg-name="Pasiones HD Panregional" tvg-chno="225" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/512px-Pasiones_Tv_logo.svg.png" group-title="Variedades", Pasiones HD Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/139
-#EXTINF: -1 tvg-id="LasEstrellasHDLatinAmerica.mx" tvg-name="Las Estrellas HD Latin America" tvg-chno="226" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Variedades", Las Estrellas HD Latin America
-http://51.222.25.50:25461/bulltvn3w/appnew/61
-#EXTINF: -1 tvg-id="TlnovelasMexico.mx" tvg-name="Tlnovelas Mexico" tvg-chno="227" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Variedades", Tlnovelas Mexico
-http://51.222.25.50:25461/bulltvn3w/appnew/155
-#EXTINF: -1 tvg-id="LifetimePanregional.us" tvg-name="Lifetime Panregional" tvg-chno="228" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Cine & Series", Lifetime Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/126
-#EXTINF: -1 tvg-id="DiscoveryHomeHealthPanregional.us" tvg-name="Discovery Home & Health Panregional" tvg-chno="229" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="Variedades", Discovery Home & Health Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/74
-#EXTINF: -1 tvg-id="MasChicPanregional.ar" tvg-name="Más Chic Panregional" tvg-chno="230" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/512px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="Variedades", Más Chic Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/127
-#EXTINF: -1 tvg-id="TelemundoCentralAmerica.us" tvg-name="Telemundo Central America" tvg-chno="231" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Variedades", Telemundo Central America
-http://51.222.25.50:25461/bulltvn3w/appnew/154
-#EXTINF: -1 tvg-id="ElGourmetPanregional.ar" tvg-name="El Gourmet Panregional" tvg-chno="232" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/512px-Elgourmetlogo2015.png" group-title="Variedades", El Gourmet Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/88
-#EXTINF: -1 tvg-id="FoodNetworkPanregional.us" tvg-name="Food Network HD Panregional" tvg-chno="233" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" group-title="Variedades", Food Network HD Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/95
-#EXTINF: -1 tvg-id="UniMasEast.us" tvg-name="UniMás East" tvg-chno="234" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/512px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Variedades", UniMás East
-http://51.222.25.50:25461/bulltvn3w/appnew/174
-#EXTINF: -1 tvg-id="AzCorazon.mx" tvg-name="Az Corazon HD" tvg-chno="235" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="Variedades", Az Corazon HD
-http://51.222.25.50:25461/bulltvn3w/appnew/51
-#EXTINF: -1 tvg-id="ImagenTV.mx" tvg-name="Imagen TV HD" tvg-chno="1236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Variedades", Imagen TV HD
-http://51.222.25.50:25461/bulltvn3w/appnew/125
-#EXTINF: -1 tvg-id="Latina.pe" tvg-name="Latina" tvg-chno="237" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="Variedades", Latina
-http://51.222.25.50:25461/bulltvn3w/appnew/461
-#EXTINF: -1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas HD" tvg-chno="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/512px-RCN_Novelas_logo_2019.png" group-title="Variedades", RCN Novelas HD
-http://51.222.25.50:25461/bulltvn3w/appnew/3061
-#EXTINF: -1 tvg-id="MTVHDSouth.us" tvg-name="MTV HD South" tvg-chno="264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Música", MTV HD South
-http://51.222.25.50:25461/bulltvn3w/appnew/752
-#EXTINF: -1 tvg-id="MTV80s.uk" tvg-name="MTV 80s" tvg-chno="265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" group-title="Música", MTV 80s
-http://51.222.25.50:25461/bulltvn3w/appnew/177
-#EXTINF: -1 tvg-id="MTVLive.uk" tvg-name="MTV Live HD" tvg-chno="266" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png" group-title="Música", MTV Live HD
-http://51.222.25.50:25461/bulltvn3w/appnew/753
+#EXTM3U
+
+#EXTINF: -1 tvg-id="StarChannelSouth.us" tvg-name="Star Channel South" tvg-chno="204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/750
+
+#EXTINF: -1 tvg-id="WarnerChannelPanregional.us" tvg-name="Warner Channel Panregional" tvg-chno="206" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Entretenimiento", Warner Channel Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/102
+
+#EXTINF: -1 tvg-id="WarnerChannelSouth.us" tvg-name="Warner Channel HD South" tvg-chno="206" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Entretenimiento", Warner Channel HD South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/759
+
+#EXTINF: -1 tvg-id="AEPanregional.us" tvg-name="A&E Panregional" tvg-chno="207" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Entretenimiento", A&E Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/1
+
+#EXTINF: -1 tvg-id="AESouth.us" tvg-name="A&E South" tvg-chno="207" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Entretenimiento", A&E South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/474
+
+#EXTINF: -1 tvg-id="SonyChannelAndes.us" tvg-name="Sony Channel Andes" tvg-chno="208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="Entretenimiento", Sony Channel Andes
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/145
+
+#EXTINF: -1 tvg-id="AXNAndes.us" tvg-name="AXN Andes" tvg-chno="209" tvg-logo="https://i.imgur.com/EwrGqtJ.png" group-title="Entretenimiento", AXN Andes
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/146
+
+#EXTINF: -1 tvg-id="AXNSouth.us" tvg-name="AXN HD Andes" tvg-chno="209" tvg-logo="https://i.imgur.com/EwrGqtJ.png" group-title="Entretenimiento", AXNSouth
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/804
+
+#EXTINF: -1 tvg-id="AMCPanregional.us" tvg-name="AMC Panregional" tvg-chno="210" tvg-logo="https://i.imgur.com/uybtUdC.png" group-title="Entretenimiento", AMC Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/183
+
+#EXTINF: -1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-chno="211" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/32
+
+#EXTINF: -1 tvg-id="TNTSeriesPanregional.us" tvg-name="TNT Series Panregional" tvg-chno="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entretenimiento", TNT Series Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/90
+
+#EXTINF: -1 tvg-id="TNTSeriesSouth.us" tvg-name="TNT Series South" tvg-chno="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entretenimiento", TNT Series South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/757
+
+#EXTINF: -1 tvg-id="ComedyCentralNorth.us" tvg-name="Comedy Central North" tvg-chno="215" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Entretenimiento", Comedy Central North
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/135
+
+#EXTINF: -1 tvg-id="ComedyCentralSouth.us" tvg-name="Comedy Central South" tvg-chno="215" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Entretenimiento", Comedy Central South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/740
+
+#EXTINF: -1 tvg-id="TBSPanregional.us" tvg-name="TBS Panregional" tvg-chno="216" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/512px-TBS_logo_2016.svg.png" group-title="Entretenimiento", TBS Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/171
+
+#EXTINF: -1 tvg-id="FXPanregional.us" tvg-name="FX Panregional" tvg-chno="217" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Entretenimiento", FX Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/42
+
+#EXTINF: -1 tvg-id="FXSouth.us" tvg-name="FX South" tvg-chno="217" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Entretenimiento", FX South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/749
+
+#EXTINF: -1 tvg-id="UniversalTVPanregional.us" tvg-name="Universal TV HD Panregional" tvg-chno="218" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Películas", Universal TV HD Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/137
+
+#EXTINF: -1 tvg-id="SyfyPanregional.us" tvg-name="Syfy Panregional" tvg-chno="219" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Películas", Syfy Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/151
+
+#EXTINF: -1 tvg-id="SyfySouth.us" tvg-name="Syfy South" tvg-chno="219" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Películas", Syfy South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/758
+
+#EXTINF: -1 tvg-id="TruTVPanregional.us" tvg-name="TruTV Panregional" tvg-chno="220" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png" group-title="Entretenimiento", TruTV Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/96
+
+#EXTINF: -1 tvg-id="HolaTVLatinAmerica.es" tvg-name="¡Hola! TV Latin America" tvg-chno="221" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/512px-%C2%A1HOLA%21TVlogo.jpg" group-title="Entretenimiento", ¡Hola! TV Latin America
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/189
+
+#EXTINF: -1 tvg-id="EAndes.us" tvg-name="E! Andes" tvg-chno="222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title="Entretenimiento", E! Andes
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/33
+
+#EXTINF: -1 tvg-id="InvestigationDiscoveryPanregional.us" tvg-name="Investigation Discovery Panregional" tvg-chno="223" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Cultura", Investigation Discovery Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/68
+
+#EXTINF: -1 tvg-id="GlitzPanregional.ar" tvg-name="Glitz Panregional" tvg-chno="224" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Glitzlogo.png/512px-Glitzlogo.png" group-title="Entretenimiento", Glitz Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/158
+
+#EXTINF: -1 tvg-id="TlnovelasMexico.mx" tvg-name="Tlnovelas Mexico" tvg-chno="227" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Entretenimiento", Tlnovelas Mexico
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/94
+
+#EXTINF: -1 tvg-id="LifetimePanregional.us" tvg-name="Lifetime Panregional" tvg-chno="228" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento", Lifetime Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/152
+
+#EXTINF: -1 tvg-id="DiscoveryHomeHealthPanregional.us" tvg-name="Discovery Home & Health Panregional" tvg-chno="229" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="Cultura", Discovery Home & Health Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/24
+
+#EXTINF: -1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="Discovery Home & Health South" tvg-chno="229" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="Cultura", Discovery Home & Health South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/742
+
+#EXTINF: -1 tvg-id="MasChicPanregional.ar" tvg-name="Más Chic Panregional" tvg-chno="230" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/512px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="Entretenimiento", Más Chic Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/180
+
+#EXTINF: -1 tvg-id="TelemundoCentralAmerica.us" tvg-name="Telemundo Central America" tvg-chno="231" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo Central America
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/92
+
+#EXTINF: -1 tvg-id="ElGourmetPanregional.ar" tvg-name="El Gourmet Panregional" tvg-chno="232" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/512px-Elgourmetlogo2015.png" group-title="Entretenimiento", El Gourmet Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/157
+
+#EXTINF: -1 tvg-id="TLCLatinAmerica.us" tvg-name="TLC Latin America" tvg-chno="740" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="Entretenimiento", TLC Latin America
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/87
+
+#EXTINF: -1 tvg-id="AzCorazon.mx" tvg-name="Az Corazon" tvg-chno="235" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" group-title="Entretenimiento", Az Corazon HD
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/166
+
+#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="Az Clic" tvg-chno="235" tvg-logo="http://x.playerlatino.live/azclic.png" group-title="Entretenimiento", Az Clic
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/165
+
+#EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-name="Univision Panregional" tvg-chno="760" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Entretenimiento", Univision Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/99
+
+#EXTINF:-1 tvg-id="UnivisionTlnovelas.us" tvg-name="Univision Tlnovelas" tvg-chno="760" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/512px-Univision_tlnovelas_%282019%29.svg.png" group-title="Entretenimiento", Univision Tlnovelas
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/413
+
+#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="Caracol Internacional" tvg-chno="235" tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Entretenimiento", Caracol Internacional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/290
+
+#EXTINF:-1 tvg-id="EstrellaTVEast.us" tvg-name="Estrella TV East" tvg-chno="235" tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="Entretenimiento", Estrella TV East
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/177
+
+#EXTINF:-1 tvg-id="MiamiTVLatino.us" tvg-name="Miami TV Latino" tvg-chno="235" tvg-logo="https://i.imgur.com/Y5tUClU.png" group-title="Entretenimiento", Miami TV Latino
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/251
+
+#EXTINF:-1 tvg-id="TCTV.ec" tvg-name="TC TV" tvg-chno="235" tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC TV
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/885
+
+#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFórmula" tvg-chno="235" tvg-logo="http://x.playerlatino.live/teleformula.png" group-title="Entretenimiento", TeleFórmula
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/182
+
+#EXTINF: -1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-chno="763" tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="Entretenimiento", Unicable
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/98
+
+#EXTINF: -1 tvg-id="MTVNorth.us" tvg-name="MTV North" tvg-chno="264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Música", MTV North
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/69
+
+#EXTINF: -1 tvg-id="MTVHDSouth.us" tvg-name="MTV South" tvg-chno="264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Música", MTV HD South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/823
+
+#EXTINF: -1 tvg-id="MTVLive.uk" tvg-name="MTV Live" tvg-chno="266" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png" group-title="Música", MTV Live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/70
+
 #EXTINF: -1 tvg-id="MTV00s.uk" tvg-name="MTV 00s HD" tvg-chno="267" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Música", MTV 00s HD
-http://190.83.119.67:8000/play/a0sw/index.m3u8
-#EXTINF: -1 tvg-id="MTVHitsEurope.uk" tvg-name="MTV Hits Europe" tvg-chno="268" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" group-title="Música", MTV Hits Europe
-http://190.83.119.67:8000/play/a0pn/index.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/101
+
 #EXTINF: -1 tvg-id="NickMusic.us" tvg-name="NickMusic" tvg-chno="269" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png" group-title="Música", NickMusic
-http://51.222.25.50:25461/bulltvn3w/appnew/585
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/80
+
 #EXTINF: -1 tvg-id="HTV.us" tvg-name="HTV" tvg-chno="272" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Música", HTV
-http://190.83.119.67:8000/play/a0rg/index.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/66
+
 #EXTINF: -1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-chno="271" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bandamax_logo.svg/512px-Bandamax_logo.svg.png" group-title="Música", Bandamax
-http://51.222.25.50:25461/bulltvn3w/appnew/55
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/8
+
 #EXTINF: -1 tvg-id="TeleHit.mx" tvg-name="TeleHit" tvg-chno="273" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/512px-Telehit_logo_2020.png" group-title="Música", TeleHit
-http://51.222.25.50:25461/bulltvn3w/appnew/153
-#EXTINF: -1 tvg-id="CartoonNetworkHDSouthAtlantic.us" tvg-name="Cartoon Network HD South Atlantic" tvg-chno="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Kids", Cartoon Network HD South Atlantic
-http://51.222.25.50:25461/bulltvn3w/appnew/63
-#EXTINF:-1 tvg-id="" tvg-name="ULTRA KIDZ" tvg-chno="305" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-kidz-Logo.png" group-title="Kids", ULTRA KIDZ
-http://51.222.25.50:25461/bulltvn3w/appnew/3586
-#EXTINF: -1 tvg-id="Tooncast.us" tvg-name="Tooncast" tvg-chno="306" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Kids", Tooncast
-http://51.222.25.50:25461/bulltvn3w/appnew/158
-#EXTINF:-1 tvg-id="" tvg-name="ULTRA FAMILIA" tvg-chno="307" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/06/Ultra-Familia-Logo.png" group-title="Kids", INFANTIL ULTRA FAMILIA
-http://51.222.25.50:25461/bulltvn3w/appnew/3402
-#EXTINF: -1 tvg-id="NickelodeonPanregional.us" tvg-name="Nickelodeon HD Panregional" tvg-chno="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nick_HD.png/512px-Nick_HD.png" group-title="Kids", Nickelodeon HD Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/136
-#EXTINF: -1 tvg-id="NickJrPanregional.us" tvg-name="Nick Jr Panregional" tvg-chno="309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids", Nick Jr Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/137
-#EXTINF: -1 tvg-id="TeenNickLatinAmerica.us" tvg-name="TeenNick Latin America HD" tvg-chno="310" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png" group-title="Kids", TeenNick Latin America HD
-http://190.83.119.67:8000/play/a0q1/index.m3u8
-#EXTINF: -1 tvg-id="DisneyChannelCenter.us" tvg-name="Disney Channel Center" tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Kids", Disney Channel Center
-http://51.222.25.50:25461/bulltvn3w/appnew/82
-#EXTINF: -1 tvg-id="DisneyJuniorWest.us" tvg-name="Disney Junior West" tvg-chno="315" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids", Disney Junior West
-http://51.222.25.50:25461/bulltvn3w/appnew/83
-#EXTINF: -1 tvg-id="BabyTV.uk" tvg-name="BabyTV" tvg-chno="317" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids", BabyTV
-http://190.83.119.67:8000/play/a0ns/index.m3u8
-#EXTINF: -1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-chno="318" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Kids", BabyFirst
-http://51.222.25.50:25461/bulltvn3w/appnew/899
-#EXTINF:-1 tvg-id="Pequeradio.es" tvg-name="Pequeradio" tvg-chno="317" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png" group-title="Kids", Pequeradio
-http://51.222.25.50:25461/bulltvn3w/appnew/3464
-#EXTINF:-1 tvg-id="PandaKids.pt" tvg-name="Panda Kids" tvg-chno="319" tvg-logo="https://i.imgur.com/wEcpC7T.png" group-title="Kids", Panda Kids
-http://51.222.25.50:25461/bulltvn3w/appnew/3404
-#EXTINF: -1 tvg-id="DiscoveryKidsPanregional.us" tvg-name="Discovery Kids HD Panregional" tvg-chno="330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/512px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Kids", Discovery Kids HD Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/76
-#EXTINF: -1 tvg-id="CartoonitoArgentina.ar" tvg-name="Cartoonito" tvg-chno="334" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids", Cartoonito
-http://51.222.25.50:25461/bulltvn3w/appnew/58
-#EXTINF: -1 tvg-id="TNTPacific.us" tvg-name="TNT HD Pacific" tvg-chno="502" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Cine & Series", TNT HD Pacific
-http://51.222.25.50:25461/bulltvn3w/appnew/156
-#EXTINF: -1 tvg-id="GoldenPanregional.mx" tvg-name="Golden Panregional" tvg-chno="503" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="Cine & Series", Golden Panregional
-http://190.83.119.67:8000/play/a0rh/index.m3u8
-#EXTINF: -1 tvg-id="TCMPanregional.us" tvg-name="TCM Panregional" tvg-chno="504" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/512px-TCM_Latam_logo.svg.png" group-title="Cine & Series", TCM Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/151
-#EXTINF: -1 tvg-id="GoldenPlus.mx" tvg-name="Golden Plus" tvg-chno="505" tvg-logo="https://i.imgur.com/INuvvrO.png" group-title="Cine & Series", Golden Plus
-http://51.222.25.50:25461/bulltvn3w/appnew/117
-#EXTINF: -1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" tvg-chno="506" tvg-logo="https://i.imgur.com/46co9us.png" group-title="Cine & Series", Golden Premier
-http://51.222.25.50:25461/bulltvn3w/appnew/756
-#EXTINF: -1 tvg-id="CinecanalWest.us" tvg-name="Cinecanal HD West" tvg-chno="507" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="Cine & Series", Cinecanal HD West
-http://51.222.25.50:25461/bulltvn3w/appnew/64
-#EXTINF: -1 tvg-id="StudioUniversalPanregional.us" tvg-name="Studio Universal HD Panregional" tvg-chno="508" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="Cine & Series", Studio Universal HD Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/147
-#EXTINF: -1 tvg-id="CinemaxPanregional.us" tvg-name="Cinemax HD Panregional" tvg-chno="509" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png" group-title="Cine & Series", Cinemax HD Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/66
-#EXTINF: -1 tvg-id="ParamountNetworkPanregional.us" tvg-name="Paramount Network HD Panregional" tvg-chno="510" tvg-logo="https://i.imgur.com/CluqAlU.png" group-title="Cine & Series", Paramount Network HD Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/1141
-#EXTINF: -1 tvg-id="DHE.us" tvg-name="DHE" tvg-chno="513" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/512px-2020_Canal_DHE_logo.svg.png" group-title="Cine & Series", DHE
-http://190.83.119.67:8000/play/a0ok/index.m3u8
-#EXTINF: -1 tvg-id="CineLatino.mx" tvg-name="CineLatino" tvg-chno="514" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/512px-Cinelatino_logo.png" group-title="Cine & Series", CineLatino
-http://190.61.102.67:31589/play/a05v/index.m3u8
-#EXTINF: -1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Película Latin America" tvg-chno="516" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/512px-DPel%C3%ADcula_2021.svg.png" group-title="Cine & Series", De Película Latin America
-http://51.222.25.50:25461/bulltvn3w/appnew/69
-#EXTINF: -1 tvg-id="GoldenEdgePanregional.mx" tvg-name="Golden Edge HD Panregional" tvg-chno="517" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/512px-Golden_Edge_Logo_2020.png" group-title="Cine & Series", Golden Edge HD Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/116
-#EXTINF: -1 tvg-id="SpacePanregional.us" tvg-name="Space HD Panregional" tvg-chno="518" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="Cine & Series", Space HD Panregional
-http://51.222.25.50:25461/bulltvn3w/appnew/144
-#EXTINF: -1 tvg-id="AzCinema.mx" tvg-name="Az Cinema" tvg-chno="519" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="Cine & Series", Az Cinema
-http://51.222.25.50:25461/bulltvn3w/appnew/50
-#EXTINF: -1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO HD Latin America" tvg-chno="524" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Cine & Series", HBO HD Latin America
-http://51.222.25.50:25461/bulltvn3w/appnew/118
-#EXTINF: -1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-chno="525" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Cine & Series", HBO 2 Latin America
-http://51.222.25.50:25461/bulltvn3w/appnew/3146
-#EXTINF: -1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+ HD Latin America" tvg-chno="526" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Cine & Series", HBO+ HD Latin America
-http://51.222.25.50:25461/bulltvn3w/appnew/121
-#EXTINF: -1 tvg-id="HBOSignatureHDLatinAmerica.us" tvg-name="HBO Signature Latin America" tvg-chno="528" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Cine & Series", HBO Signature Latin America
-http://51.222.25.50:25461/bulltvn3w/appnew/3150
-#EXTINF: -1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family HD Latin America" tvg-chno="534" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Cine & Series", HBO Family HD Latin America
-http://51.222.25.50:25461/bulltvn3w/appnew/120
-#EXTINF: -1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi Latin America" tvg-chno="540" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="Cine & Series", HBO Mundi Latin America
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/91
+
+#EXTINF:-1 tvg-id="TelehitMusicaEstadosUnidos.us" tvg-name="Telehit Musica Estados Unidos" tvg-chno="273" tvg-logo="http://x.playerlatino.live/ritmoson.png" group-title="Música", Telehit Musica Estados Unidos
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/154
+
+#EXTINF:-1 tvg-id="VideoRola.mx" tvg-name="Video Rola" tvg-chno="273" tvg-logo="http://x.playerlatino.live/videorola.png" group-title="Música", Video Rola
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/359
+
+#EXTINF:-1 tvg-id="MusicNow.ae" tvg-name="Music Now" tvg-chno="273" tvg-logo="https://content.osn.com/logo/channel/cropped/NOW.png" group-title="Música", Music Now
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/690
+
+#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-name="Retro Music TV" tvg-chno="273" tvg-logo="http://x.playerlatino.live/retromusic.png" group-title="Música", Retro Music TV
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/692
+
+#EXTINF: -1 tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network Pacific" tvg-chno="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Infantil", Cartoon Network Pacific
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/17
+
+#EXTINF: -1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="Cartoon Network South Atlantic" tvg-chno="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Infantil", Cartoon Network South Atlantic
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/737
+
+#EXTINF: -1 tvg-id="Tooncast.us" tvg-name="Tooncast" tvg-chno="306" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Infantil", Tooncast
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/95
+
+#EXTINF: -1 tvg-id="BitMe.mx" tvg-name="Bitme" tvg-chno="307" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/512px-BitMe_logo.svg.png" group-title="Infantil", Bitme
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/93
+
+#EXTINF: -1 tvg-id="NickelodeonPanregional.us" tvg-name="Nickelodeon Panregional" tvg-chno="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nick_HD.png/512px-Nick_HD.png" group-title="Infantil", Nickelodeon Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/78
+
+#EXTINF: -1 tvg-id="NickelodeonSouth.us" tvg-name="Nickelodeon South" tvg-chno="308" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nick_HD.png/512px-Nick_HD.png" group-title="Infantil", Nickelodeon South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/645
+
+#EXTINF: -1 tvg-id="NickJrPanregional.us" tvg-name="Nick Jr Panregional" tvg-chno="309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Infantil", Nick Jr Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/79
+
+#EXTINF: -1 tvg-id="NickJrSouth.us" tvg-name="Nick Jr South" tvg-chno="309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Infantil", Nick Jr South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/829
+
+#EXTINF: -1 tvg-id="TeenNickLatinAmerica.us" tvg-name="TeenNick Latin America" tvg-chno="310" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png" group-title="Infantil", TeenNick Latin America
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/184
+
+#EXTINF:-1 tvg-id="TeenNickLatinAmerica.us" tvg-name="TeenNick Latin America" tvg-chno="310" tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantiles",TeenNick
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/882
+
+#EXTINF: -1 tvg-id="DisneyChannelCenter.us" tvg-name="Disney Channel Center" tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Infantil", Disney Channel Center
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/29
+
+#EXTINF: -1 tvg-id="DisneyJuniorWest.us" tvg-name="Disney Junior West" tvg-chno="315" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Infantil", Disney Junior West
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/30
+
+#EXTINF: -1 tvg-id="DisneyJuniorSouth.us" tvg-name="Disney Junior South" tvg-chno="315" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Infantil", Disney Junior South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/743
+
+#EXTINF: -1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-chno="318" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Infantil", BabyFirst
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/7
+
+#EXTINF:-1 tvg-id="CBeebiesUK.uk" tvg-name="CBeebies UK" tvg-chno="318" tvg-logo="http://x.playerlatino.live/cbeebies.png" group-title="Infantil", CBeebies UK
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/13
+
+#EXTINF: -1 tvg-id="DiscoveryKidsPanregional.us" tvg-name="Discovery Kids Panregional" tvg-chno="330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/512px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil", Discovery Kids Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/25
+
+#EXTINF: -1 tvg-id="CartoonitoLatinAmerica.us" tvg-name="Cartoonito LatinAmerica" tvg-chno="334" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil", Cartoonito LatinAmerica
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/11
+
+#EXTINF: -1 tvg-id="CartoonitoArgentina.ar" tvg-name="Cartoonito Argentina" tvg-chno="334" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil", Cartoonito Argentina
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/735
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 1
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/847
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 2
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/848
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 3
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/849
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 4
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/850
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 5
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/851
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 6
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/852
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 7
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/853
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 8
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/854
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 9
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/855
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 10
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/856
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 11
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/858
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 12
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/859
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 13
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/860
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 14
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/862
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 15
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/863
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 16
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/864
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 17
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/865
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 18
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/866
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 19
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/861
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas",PPV 20
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/867
+
+#EXTINF: -1 tvg-id="TNTPacific.us" tvg-name="TNT Pacific" tvg-chno="502" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Películas", TNT Pacific
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/179
+
+#EXTINF: -1 tvg-id="TNTSouth.us" tvg-name="TNT South" tvg-chno="502" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Películas", TNT South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/752
+
+#EXTINF: -1 tvg-id="GoldenPanregional.mx" tvg-name="Golden Panregional" tvg-chno="503" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="Películas", Golden Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/57
+
+#EXTINF: -1 tvg-id="TCMPanregional.us" tvg-name="TCM Panregional" tvg-chno="504" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/512px-TCM_Latam_logo.svg.png" group-title="Películas", TCM Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/85
+
+#EXTINF: -1 tvg-id="CinecanalPanregional.us" tvg-name="Cinecanal Panregional" tvg-chno="507" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="Películas", Cinecanal Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/18
+
+#EXTINF: -1 tvg-id="CinecanalSouth.us" tvg-name="Cinecanal South" tvg-chno="507" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="Películas", Cinecanal South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/738
+
+#EXTINF: -1 tvg-id="StudioUniversalPanregional.us" tvg-name="Studio Universal Panregional" tvg-chno="508" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="Películas", Studio Universal Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/84
+
+#EXTINF: -1 tvg-id="CinemaxPanregional.us" tvg-name="Cinemax Panregional" tvg-chno="509" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png" group-title="Películas", Cinemax Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/20
+
+#EXTINF: -1 tvg-id="CinemaxSouth.us" tvg-name="CinemaxSouth.us" tvg-chno="509" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png" group-title="Películas", Cinemax South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/739
+
+#EXTINF: -1 tvg-id="ParamountNetworkPanregional.us" tvg-name="Paramount Network Panregional" tvg-chno="510" tvg-logo="https://i.imgur.com/CluqAlU.png" group-title="Películas", Paramount Network Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/200
+
+#EXTINF: -1 tvg-id="ParamountNetworkPanregional.us" tvg-name="Paramount Network Panregional" tvg-chno="510" tvg-logo="https://i.imgur.com/CluqAlU.png" group-title="Películas", Paramount Network Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/647
+
+#EXTINF:-1 tvg-id="MovieMaxEast.us" tvg-name="MovieMax East" tvg-chno="511" tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="Películas", MovieMax East
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/678
+
+#EXTINF: -1 tvg-id="FXMovieChannel.us" tvg-name="FX Movie Channel" tvg-chno="512" tvg-logo="http://x.playerlatino.live/fxm.png" group-title="Películas", FX Movie Channel
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/42
+
+#EXTINF: -1 tvg-id="DHE.us" tvg-name="DHE" tvg-chno="513" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/512px-2020_Canal_DHE_logo.svg.png" group-title="Películas", DHE
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/844
+
+#EXTINF: -1 tvg-id="CineLatino.mx" tvg-name="CineLatino" tvg-chno="514" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/512px-Cinelatino_logo.png" group-title="Películas", CineLatino
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/295
+
+#EXTINF:-1 tvg-id="MultiPremier.mx" tvg-name="MultiPremier" tvg-chno="514" tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="Películas", MultiPremier
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/294
+
+#EXTINF: -1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Película Latin America" tvg-chno="516" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/512px-DPel%C3%ADcula_2021.svg.png" group-title="Películas", De Película Latin America
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/21
+
+#EXTINF: -1 tvg-id="GoldenEdgePanregional.mx" tvg-name="Golden Edge Panregional" tvg-chno="517" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/512px-Golden_Edge_Logo_2020.png" group-title="Películas", Golden Edge Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/58
+
+#EXTINF: -1 tvg-id="SpacePanregional.us" tvg-name="Space Panregional" tvg-chno="518" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="Películas", Space Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/83
+
+#EXTINF: -1 tvg-id="SpaceSouth.us" tvg-name="Space South" tvg-chno="518" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="Películas", Space South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/751
+
+#EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-name="Showtime West" tvg-chno="518" tvg-logo="http://x.playerlatino.live/showtime.png" group-title="Películas", Showtime West
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/679
+
+#EXTINF:-1 tvg-id="ISatSouth.us" tvg-name="I.Sat South" tvg-chno="520" tvg-logo="http://x.playerlatino.live/isat.png" group-title="Películas", I.Sat South
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/153
+
+#EXTINF: -1 tvg-id="AzCinema.mx" tvg-name="Az Cinema" tvg-chno="519" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="Películas", Az Cinema
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/186
+
+#EXTINF: -1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO Latin America" tvg-chno="524" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Películas", HBO Latin America
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/62
+
+#EXTINF: -1 tvg-id="HBOEast.us" tvg-name="HBO East" tvg-chno="524" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Películas", HBO East
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/723
+
+#EXTINF: -1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-chno="525" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Películas", HBO 2 Latin America
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/300
+
+#EXTINF: -1 tvg-id="HBO2East.us" tvg-name="HBO2 East" tvg-chno="525" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Películas", HBO2 East
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/724
+
+#EXTINF: -1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+ Latin America" tvg-chno="526" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Películas", HBO+ Latin America
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/64
+
+#EXTINF: -1 tvg-id="HBOPlusEast.us" tvg-name="HBO+ East" tvg-chno="526" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Películas", HBO+ East
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/722
+
+#EXTINF: -1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family HD Latin America" tvg-chno="534" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Películas", HBO Family HD Latin America
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/63
+
+#EXTINF: -1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi Latin America" tvg-chno="540" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="Películas", HBO Mundi Latin America
 http://51.222.25.50:25461/bulltvn3w/appnew/1112
-#EXTINF: -1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO Pop HD Latin America" tvg-chno="541" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="Cine & Series", HBO Pop HD Latin America
+#EXTINF: -1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO Pop HD Latin America" tvg-chno="541" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="Películas", HBO Pop HD Latin America
 http://51.222.25.50:25461/bulltvn3w/appnew/3149
-#EXTINF: -1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" tvg-chno="542" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Cine & Series", HBO Xtreme Latin America
-http://51.222.25.50:25461/bulltvn3w/appnew/3149
-#EXTINF:-1 tvg-id="" tvg-name="CINE| Cinema Lego Movies HD" tvg-chno="543" tvg-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png" group-title="Cine & Series", CINE| Cinema Lego Movies HD
-http://51.222.25.50:25461/bulltvn3w/appnew/3020
-#EXTINF:-1 tvg-id="" tvg-name="CINE| Cinema Kids HD" tvg-chno="544" tvg-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png" group-title="Cine & Series", CINE| Cinema Kids HD
-http://51.222.25.50:25461/bulltvn3w/appnew/3026
-#EXTINF:-1 tvg-id="" tvg-name="CINE| Cinema Family HD" tvg-chno="545" tvg-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png" group-title="Cine & Series", CINE| Cinema Family HD
-http://51.222.25.50:25461/bulltvn3w/appnew/3027
-#EXTINF:-1 tvg-id="" tvg-name="CINE| Cinema Marver Studio HD" tvg-chno="546" tvg-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png" group-title="Cine & Series", CINE| Cinema Marver Studio HD
-http://51.222.25.50:25461/bulltvn3w/appnew/3018
-#EXTINF:-1 tvg-id="" tvg-name="CINE| Cinema Premiere HD" tvg-chno="547" tvg-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png" group-title="Cine & Series", CINE| Cinema Premiere HD
-http://51.222.25.50:25461/bulltvn3w/appnew/3019
-#EXTINF:-1 tvg-id="" tvg-name="CINE| A ESTRENAR HD" tvg-chno="548" tvg-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png" group-title="Cine & Series", CINE| A ESTRENAR FHD
-http://51.222.25.50:25461/bulltvn3w/appnew/3699
-#EXTINF:-1 tvg-id="" tvg-name="CINE| Ciencia Ficcion HD" tvg-chno="549" tvg-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png" group-title="Cine & Series", CINE| Ciencia Ficcion HD
-http://51.222.25.50:25461/bulltvn3w/appnew/3023
-#EXTINF:-1 tvg-id="" tvg-name="CINE| Cinema Happy Madisson HD" tvg-chno="550" tvg-logo="https://w7.pngwing.com/pngs/130/1021/png-transparent-movie-logo-movie-logo-film-tape-cinema.png" group-title="Cine & Series", CINE| Cinema Happy Madisson HD
-http://51.222.25.50:25461/bulltvn3w/appnew/3021
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEBOX 1" tvg-chno="551" tvg-logo="https://ia903100.us.archive.org/7/items/kodi_tv_icon_by_outlawninja-d8xywrc/cinebox.png" group-title="Cine & Series", CINE| CINEBOX 1
-http://51.222.25.50:25461/bulltvn3w/appnew/3743
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEBOX 2" tvg-chno="552" tvg-logo="https://ia903100.us.archive.org/7/items/kodi_tv_icon_by_outlawninja-d8xywrc/cinebox.png" group-title="Cine & Series", CINE| CINEBOX 2
-http://51.222.25.50:25461/bulltvn3w/appnew/3745
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEBOX 3" tvg-chno="553" tvg-logo="https://ia903100.us.archive.org/7/items/kodi_tv_icon_by_outlawninja-d8xywrc/cinebox.png" group-title="Cine & Series", CINE| CINEBOX 3
-http://51.222.25.50:25461/bulltvn3w/appnew/3746
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEBOX 4" tvg-chno="554" tvg-logo="https://ia903100.us.archive.org/7/items/kodi_tv_icon_by_outlawninja-d8xywrc/cinebox.png" group-title="Cine & Series", CINE| CINEBOX 4
-http://51.222.25.50:25461/bulltvn3w/appnew/3747
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEBOX 5" tvg-chno="555" tvg-logo="https://ia903100.us.archive.org/7/items/kodi_tv_icon_by_outlawninja-d8xywrc/cinebox.png" group-title="Cine & Series", CINE| CINEBOX 5
-http://51.222.25.50:25461/bulltvn3w/appnew/3748
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEBOX 6" tvg-chno="556" tvg-logo="https://ia903100.us.archive.org/7/items/kodi_tv_icon_by_outlawninja-d8xywrc/cinebox.png" group-title="Cine & Series", CINE| CINEBOX 6
-http://51.222.25.50:25461/bulltvn3w/appnew/3749
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEBOX 7" tvg-chno="557" tvg-logo="https://ia903100.us.archive.org/7/items/kodi_tv_icon_by_outlawninja-d8xywrc/cinebox.png" group-title="Cine & Series", CINE| CINEBOX 7
-http://51.222.25.50:25461/bulltvn3w/appnew/3751
-#EXTINF: -1 tvg-id="UniversalPremiereHDEast.us" tvg-name="Universal Premiere HD East" tvg-chno="571" tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Cine & Series", Universal Premiere HD East
-http://51.222.25.50:25461/bulltvn3w/appnew/103
-#EXTINF: -1 tvg-id="UniversalCinemaHD.us" tvg-name="Universal Cinema HD" tvg-chno="1572" tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Cine & Series", Universal Cinema HD
-http://51.222.25.50:25461/bulltvn3w/appnew/99
-#EXTINF: -1 tvg-id="UniversalComedyHD.us" tvg-name="Universal Comedy HD" tvg-chno="1573" tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="Cine & Series", Universal Comedy HD
-http://51.222.25.50:25461/bulltvn3w/appnew/3139
-#EXTINF: -1 tvg-id="UniversalCrimeHDEast.us" tvg-name="Universal Crime HD East" tvg-chno="1574" tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine & Series", Universal Crime HD East
-http://51.222.25.50:25461/bulltvn3w/appnew/98
-#EXTINF: -1 tvg-id="UniversalRealityHD.us" tvg-name="Universal Reality HD" tvg-chno="1575" tvg-logo="https://i.imgur.com/mqfUD1R.png" group-title="Cine & Series", Universal Reality HD
-http://190.83.119.67:8000/play/a0sz/index.m3u8
-#EXTINF: -1 tvg-id="beINSportsenEspanol.us" tvg-name="beIN Sports en Español" tvg-chno="602" tvg-logo="https://i.imgur.com/bC04S9U.png" group-title="Sports", beIN Sports en Español
-http://51.222.25.50:25461/bulltvn3w/appnew/56
-#EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" tvg-name="beIN Sports Xtra en Español" tvg-chno="603" tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Sports", beIN Sports Xtra en Español
-http://51.222.25.50:25461/bulltvn3w/appnew/3516
-#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" tvg-chno="604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/512px-BeIN_Sports.png" group-title="Sports", beIN Sports USA
-http://51.222.25.50:25461/bulltvn3w/appnew/212
-#EXTINF:-1 tvg-id="beINSportsXtraUSA.us" tvg-name="beIN Sports Xtra USA" tvg-chno="605" tvg-logo="https://i.imgur.com/ARkI715.png" group-title="Sports", beIN Sports Xtra USA
-http://51.222.25.50:25461/bulltvn3w/appnew/3476
-#EXTINF:-1 tvg-id="beINSports3USA.us" tvg-name="beIN Sports 3 USA" tvg-chno="606" tvg-logo="https://i.imgur.com/UYSMao3.png" group-title="Sports", beIN Sports 3 USA
-http://51.222.25.50:25461/bulltvn3w/appnew/57
-#EXTINF: -1 tvg-id="TNTSportsChile.cl" tvg-name="TNT Sports Chile" tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="Sports", TNT Sports Chile
+
+#EXTINF: -1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" tvg-chno="542" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Películas", HBO Xtreme Latin America
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/814
+
+#EXTINF: -1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" tvg-chno="542" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Películas", HBO Xtreme Latin America
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/841
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/2020/img.jpg" group-title="Películas",Cine 2020
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/857
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="Películas",Cine Accion
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/699
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" group-title="Películas",Cine Accion Sagas
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/700
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg" group-title="Películas",Cine Comedia 1
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/695
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg" group-title="Películas",Cine Comedia 2
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/696
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg" group-title="Películas",Cine Ficcion/Fantasia 1
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/709
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg" group-title="Películas",Cine Ficcion/Fantasia 2
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/710
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg" group-title="Películas",Cine Ficcion/Fantasia Sagas
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/711
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="Películas",Cine Infantil
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/687
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg" group-title="Películas",Cine Infantil Sagas
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/694
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" group-title="Películas",Cine Marvel
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/697
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" group-title="Películas",Cine Romance
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/689
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" group-title="Películas",Cine Terror
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/693
+
+#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" group-title="Películas",Cine Zombis
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/688
+
+#EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-name="Starz Cinema East" tvg-chno="542" tvg-logo="http://x.playerlatino.live/starz_cinema.png" group-title="Películas", Starz Cinema East
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/680
+
+#EXTINF:-1 tvg-id="StarzComedyEast.us" tvg-name="Starz Comedy East" tvg-chno="542" tvg-logo="http://x.playerlatino.live/starz_comedy.png" group-title="Películas", Starz Comedy East
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/681
+
+#EXTINF:-1 tvg-id="StarzEncoreActionEast.us" tvg-name="Starz Encore Action East" tvg-chno="542" tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" group-title="Películas", Starz Encore Action East
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/682
+
+#EXTINF:-1 tvg-id="StarzEncoreBlackEast.us" tvg-name="Starz Encore Black East" tvg-chno="542" tvg-logo="http://x.playerlatino.live/starz_encoreblack.png" group-title="Películas", Starz Encore Black East
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/683
+
+#EXTINF:-1 tvg-id="StarzEncoreFamilyEast.us" tvg-name="Starz Encore Family East" tvg-chno="542" tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="Películas", Starz Encore Family East
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/684
+
+#EXTINF: -1 tvg-id="beINSportsenEspanol.us" tvg-name="beIN Sports en Español" tvg-chno="602" tvg-logo="https://i.imgur.com/bC04S9U.png" group-title="Deportes", beIN Sports en Español
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/753
+
+#EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" tvg-name="beIN Sports Xtra en Español" tvg-chno="603" tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Deportes", beIN Sports Xtra en Español
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/761
+
+#EXTINF: -1 tvg-id="TNTSportsChile.cl" tvg-name="TNT Sports Chile" tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports Chile
 http://51.222.25.50:25461/bulltvn3w/appnew/3391
-#EXTINF: -1 tvg-id="TNTSports2Chile.cl" tvg-name="TNT Sports 2 Chile" tvg-chno="609" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="Sports", TNT Sports 2 Chile
+#EXTINF: -1 tvg-id="TNTSports2Chile.cl" tvg-name="TNT Sports 2 Chile" tvg-chno="609" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports 2 Chile
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/94.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" tvg-chno="1604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Sports", Fox Deportes
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" tvg-chno="1604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="Deportes", Fox Deportes
 http://51.222.25.50:25461/bulltvn3w/appnew/274
-#EXTINF: -1 tvg-id="FoxSportsPremiumArgentina.ar" tvg-name="Fox Sports Premium Argentina" tvg-chno="1604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Fox_Sports_Premium_Argentina_2020.png/512px-Fox_Sports_Premium_Argentina_2020.png" group-title="Sports", Fox Sports Premium Argentina
+#EXTINF: -1 tvg-id="FoxSportsPremiumArgentina.ar" tvg-name="Fox Sports Premium Argentina" tvg-chno="1604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Fox_Sports_Premium_Argentina_2020.png/512px-Fox_Sports_Premium_Argentina_2020.png" group-title="Deportes", Fox Sports Premium Argentina
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/892.ts
-#EXTINF: -1 tvg-id="FoxSportsSouth.us" tvg-name="Fox Sports South" tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" group-title="Sports", Fox Sports South
+#EXTINF: -1 tvg-id="FoxSportsSouth.us" tvg-name="Fox Sports South" tvg-chno="605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" group-title="Deportes", Fox Sports South
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/898.ts
-#EXTINF: -1 tvg-id="FoxSportsPremiumMexico.mx" tvg-name="Fox Sports Premium Mexico HD" tvg-chno="1606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fox_Sports_Premium_Argentina_2019.png/512px-Fox_Sports_Premium_Argentina_2019.png" group-title="Sports", Fox Sports Premium Mexico HD
+#EXTINF: -1 tvg-id="FoxSportsPremiumMexico.mx" tvg-name="Fox Sports Premium Mexico HD" tvg-chno="1606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fox_Sports_Premium_Argentina_2019.png/512px-Fox_Sports_Premium_Argentina_2019.png" group-title="Deportes", Fox Sports Premium Mexico HD
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/895.ts
-#EXTINF: -1 tvg-id="FoxSportsMexico.mx" tvg-name="Fox Sports Mexico" tvg-chno="607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" group-title="Sports", Fox Sports Mexico
+#EXTINF: -1 tvg-id="FoxSportsMexico.mx" tvg-name="Fox Sports Mexico" tvg-chno="607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" group-title="Deportes", Fox Sports Mexico
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/905.ts
-#EXTINF: -1 tvg-id="FoxSports2South.us" tvg-name="Fox Sports 2 South" tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png" group-title="Sports", Fox Sports 2 South
+#EXTINF: -1 tvg-id="FoxSports2South.us" tvg-name="Fox Sports 2 South" tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png" group-title="Deportes", Fox Sports 2 South
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/899.ts
-#EXTINF: -1 tvg-id="FoxSports2Mexico.mx" tvg-name="Fox Sports 2 HD Mexico" tvg-chno="1608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png" group-title="Sports", Fox Sports 2 HD Mexico
+#EXTINF: -1 tvg-id="FoxSports2Mexico.mx" tvg-name="Fox Sports 2 HD Mexico" tvg-chno="1608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png" group-title="Deportes", Fox Sports 2 HD Mexico
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/906.ts
-#EXTINF: -1 tvg-id="FoxSports3Panregional.us" tvg-name="Fox Sports 3 HD Panregional" tvg-chno="1609" tvg-logo="https://i.imgur.com/XqCg7Sg.png" group-title="Sports", Fox Sports 3 HD Panregional
+#EXTINF: -1 tvg-id="FoxSports3Panregional.us" tvg-name="Fox Sports 3 HD Panregional" tvg-chno="1609" tvg-logo="https://i.imgur.com/XqCg7Sg.png" group-title="Deportes", Fox Sports 3 HD Panregional
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/902.ts
-#EXTINF: -1 tvg-id="FoxSports3Mexico.mx" tvg-name="Fox Sports 3 HD Mexico" tvg-chno="1609" tvg-logo="https://i.imgur.com/XqCg7Sg.png" group-title="Sports", Fox Sports 3 HD Mexico
+#EXTINF: -1 tvg-id="FoxSports3Mexico.mx" tvg-name="Fox Sports 3 HD Mexico" tvg-chno="1609" tvg-logo="https://i.imgur.com/XqCg7Sg.png" group-title="Deportes", Fox Sports 3 HD Mexico
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/909.ts
-#EXTINF: -1 tvg-id="DirecTVSportsPanregional.us" tvg-name="DirecTV Sports Panregional" tvg-chno="610" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports", DirecTV Sports Panregional
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/874.ts
-#EXTINF: -1 tvg-id="DirecTVSports2HD.us" tvg-name="DirecTV Sports 2 HD" tvg-chno="1612" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/512px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Sports", DirecTV Sports 2 HD
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/877.ts
-#EXTINF: -1 tvg-id="DirecTVSportsPlus.us" tvg-name="DirecTV Sports+" tvg-chno="613" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/512px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Sports", DirecTV Sports+
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/879.ts
-#EXTINF: -1 tvg-id="ESPNMexico.mx" tvg-name="ESPN Mexico" tvg-chno="620" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Sports", ESPN Mexico
+
+#EXTINF: -1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="DirecTV Sports Argentina" tvg-chno="610" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes", DirecTV Sports Panregional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/259
+
+#EXTINF: -1 tvg-id="DirecTVSports2.us" tvg-name="DirecTV Sports 2" tvg-chno="1612" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/512px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Deportes", DirecTV Sports 2
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/667
+
+#EXTINF: -1 tvg-id="ESPNMexico.mx" tvg-name="ESPN Mexico" tvg-chno="620" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN Mexico
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/888.ts
-#EXTINF: -1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-chno="621" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/512px-Espn_deportes.svg.png" group-title="Sports", ESPN Deportes
+#EXTINF: -1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-chno="621" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/512px-Espn_deportes.svg.png" group-title="Deportes", ESPN Deportes
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/882.ts
-#EXTINF: -1 tvg-id="ESPN2Caribbean.us" tvg-name="ESPN 2 Caribbean" tvg-chno="622" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Sports", ESPN 2 Caribbean
+#EXTINF: -1 tvg-id="ESPN2Caribbean.us" tvg-name="ESPN 2 Caribbean" tvg-chno="622" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Deportes", ESPN 2 Caribbean
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/884.ts
-#EXTINF: -1 tvg-id="ESPN3South.us" tvg-name="ESPN 3 South" tvg-chno="623" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/512px-ESPN3_Logo.png" group-title="Sports", ESPN 3 South
+#EXTINF: -1 tvg-id="ESPN3South.us" tvg-name="ESPN 3 South" tvg-chno="623" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/512px-ESPN3_Logo.png" group-title="Deportes", ESPN 3 South
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/887.ts
-#EXTINF: -1 tvg-id="ESPNExtraHDSouth.us" tvg-name="ESPN Extra HD South" tvg-chno="1624" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/512px-Espn_extra_2015.PNG" group-title="Sports", ESPN Extra HD South
+#EXTINF: -1 tvg-id="ESPNExtraHDSouth.us" tvg-name="ESPN Extra HD South" tvg-chno="1624" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/512px-Espn_extra_2015.PNG" group-title="Deportes", ESPN Extra HD South
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/881.ts
-#EXTINF: -1 tvg-id="ESPN2Mexico.mx" tvg-name="ESPN 2 Mexico" tvg-chno="625" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Sports", ESPN 2 Mexico
+#EXTINF: -1 tvg-id="ESPN2Mexico.mx" tvg-name="ESPN 2 Mexico" tvg-chno="625" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Deportes", ESPN 2 Mexico
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/890.ts
-#EXTINF: -1 tvg-id="ESPN3North.us" tvg-name="ESPN 3 North" tvg-chno="626" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/512px-ESPN3_Logo.png" group-title="Sports", ESPN 3 North
+#EXTINF: -1 tvg-id="ESPN3North.us" tvg-name="ESPN 3 North" tvg-chno="626" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/512px-ESPN3_Logo.png" group-title="Deportes", ESPN 3 North
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/891.ts
-#EXTINF: -1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-chno="627" tvg-logo="https://ayudaizzi.izzi.mx/hc/article_attachments/4524133198362/logo1.png" group-title="Sports", Afizzionados
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/863.ts
-#EXTINF: -1 tvg-id="TyCSportsPanregional.ar" tvg-name="TyC Sports Panregional" tvg-chno="629" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="Sports", TyC Sports Panregional
+
+#EXTINF: -1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-chno="627" tvg-logo="https://ayudaizzi.izzi.mx/hc/article_attachments/4524133198362/logo1.png" group-title="Deportes", Afizzionados
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/878
+
+#EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AyM Sports" tvg-chno="627" tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="Deportes", AyM Sports
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/148
+
+#EXTINF: -1 tvg-id="TyCSportsPanregional.ar" tvg-name="TyC Sports Panregional" tvg-chno="629" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="Deportes", TyC Sports Panregional
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/921.ts
-#EXTINF: -1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports HD" tvg-chno="1630" tvg-logo="https://i.imgur.com/vfBkXoM.png" group-title="Sports", Claro Sports HD
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/869.ts
-#EXTINF: -1 tvg-id="FUTV.cr" tvg-name="FUTV" tvg-chno="631" tvg-logo="https://i.imgur.com/eDjQ2io.png" group-title="Sports", FUTV.cr
+
+#EXTINF: -1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-chno="1630" tvg-logo="https://i.imgur.com/vfBkXoM.png" group-title="Deportes", Claro Sports
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/328
+
+#EXTINF: -1 tvg-id="FUTV.cr" tvg-name="FUTV" tvg-chno="631" tvg-logo="https://i.imgur.com/eDjQ2io.png" group-title="Deportes", FUTV.cr
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/897.ts
-#EXTINF: -1 tvg-id="TUDNMexico.mx" tvg-name="TUDN Mexico" tvg-chno="632" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Sports", TUDN Mexico
+#EXTINF: -1 tvg-id="TUDNMexico.mx" tvg-name="TUDN Mexico" tvg-chno="632" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes", TUDN Mexico
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/913.ts
-#EXTINF: -1 tvg-id="TUDNUS.us" tvg-name="TUDN US" tvg-chno="633" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Sports", TUDN US
+#EXTINF: -1 tvg-id="TUDNUS.us" tvg-name="TUDN US" tvg-chno="633" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes", TUDN US
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/916.ts
-#EXTINF: -1 tvg-id="WinSports.co" tvg-name="Win Sports" tvg-chno="634" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/512px-WinSports2017.png" group-title="Sports", Win Sports
+#EXTINF: -1 tvg-id="WinSports.co" tvg-name="Win Sports" tvg-chno="634" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/512px-WinSports2017.png" group-title="Deportes", Win Sports
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/929.ts
-#EXTINF: -1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports +" tvg-chno="635" tvg-logo="https://i.imgur.com/tKDzu9t.png" group-title="Sports", Win Sports +
+#EXTINF: -1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports +" tvg-chno="635" tvg-logo="https://i.imgur.com/tKDzu9t.png" group-title="Deportes", Win Sports +
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/933.ts
-#EXTINF: -1 tvg-id="VTVPlus.uy" tvg-name="VTV Plus" tvg-chno="636" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="Sports", VTV Plus
+#EXTINF: -1 tvg-id="VTVPlus.uy" tvg-name="VTV Plus" tvg-chno="636" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="Deportes", VTV Plus
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/926.ts
-#EXTINF: -1 tvg-id="VTVPlus.uy" tvg-name="VTV Plus HD" tvg-chno="1636" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="Sports", VTV Plus HD
+#EXTINF: -1 tvg-id="VTVPlus.uy" tvg-name="VTV Plus HD" tvg-chno="1636" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="Deportes", VTV Plus HD
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/928.ts
-#EXTINF: -1 tvg-id="TVCDeportes.mx" tvg-name="TVC Deportes" tvg-chno="637" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="Sports", TVC Deportes
+#EXTINF: -1 tvg-id="TVCDeportes.mx" tvg-name="TVC Deportes" tvg-chno="637" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TVCDeportes.png" group-title="Deportes", TVC Deportes
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/918.ts
-#EXTINF: -1 tvg-id="GolPeru.pe" tvg-name="Gol Peru" tvg-chno="638" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/640px-Gol_Per%C3%BA_2019.svg.png" group-title="Sports", Gol Peru
+#EXTINF: -1 tvg-id="GolPeru.pe" tvg-name="Gol Peru" tvg-chno="638" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/640px-Gol_Per%C3%BA_2019.svg.png" group-title="Deportes", Gol Peru
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/910.ts
-#EXTINF: -1 tvg-id="ElCanaldelFutbol.ec" tvg-name="El Canal del Fútbol" tvg-chno="639" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png" group-title="Sports", El Canal del Fútbol
+#EXTINF: -1 tvg-id="ElCanaldelFutbol.ec" tvg-name="El Canal del Fútbol" tvg-chno="639" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png" group-title="Deportes", El Canal del Fútbol
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/871.ts
+
+#EXTINF:-1 tvg-id="CDOPremium.cl" tvg-name="CDO Premium" tvg-chno="640" tvg-logo="http://x.playerlatino.live/cdopremium.png" group-title="Deportes",CDO Premium
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/401
+
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDF Premium" tvg-chno="640" tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Deportes", CDF Premium
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/318
+
+#EXTINF:-1 tvg-id="CDNDeportes.do" tvg-name="CDN Deportes" tvg-chno="640" tvg-logo="http://x.playerlatino.live/cdnsportsmax.png" group-title="Deportes", CDN Deportes
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/206
+
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="Toros" tvg-chno="640" tvg-logo="http://x.playerlatino.live/toros.png" group-title="Deportes", Toros
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/369
+
 #EXTINF: -1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Español hd" tvg-chno="1704" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias", CNN en Español hd
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/496.ts
@@ -370,12 +773,7 @@ https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht
 #EXTINF: -1 tvg-id="DiscoveryWorldHDPanregional.us" tvg-name="Discovery World HD Panregional" tvg-chno="1738" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/512px-World_Discovery_HD_logo.svg.png" group-title="Cultura", Discovery World HD Panregional
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/556.ts
-#EXTINF: -1 tvg-id="TLCLatinAmerica.us" tvg-name="TLC Latin America" tvg-chno="740" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="Cultura", TLC Latin America
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/544.ts
-#EXTINF: -1 tvg-id="TLCLatinAmerica.us" tvg-name="TLC HD Panregional" tvg-chno="1740" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="Cultura", TLC HD Panregional
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/548.ts
+
 #EXTINF: -1 tvg-id="HistoryPanregional.us" tvg-name="History Panregional" tvg-chno="742" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Cultura", History Panregional
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/660.ts
@@ -391,18 +789,14 @@ https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht
 #EXTINF: -1 tvg-id="FilmArtsPanregional.us" tvg-name="Film & Arts HD Panregional" tvg-chno="1746" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png" group-title="Cultura", Film & Arts HD Panregional
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/583.ts
-#EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-name="Univision Panregional" tvg-chno="760" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Internacional", Univision Panregional
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/851.ts
+
 #EXTINF: -1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional HD" tvg-chno="1761" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/512px-Antena_3_Internacional_logo_2017.svg.png" group-title="Internacional", Antena 3 Internacional HD
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/401.ts
 #EXTINF: -1 tvg-id="Mega.es" tvg-name="MEGA" tvg-chno="762" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="Internacional", MEGA
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/697.ts
-#EXTINF: -1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-chno="763" tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="Internacional", Unicable
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/817.ts
+
 #EXTINF: -1 tvg-id="GalavisionEast.us" tvg-name="Galavisión East" tvg-chno="764" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png" group-title="Internacional", Galavisión East
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/608.ts
@@ -412,9 +806,7 @@ https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht
 #EXTINF: -1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-chno="766" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Azteca_7_variante_blanca_2021.png/512px-Azteca_7_variante_blanca_2021.png" group-title="Internacional", Azteca 7
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/451.ts
-#EXTINF: -1 tvg-id="BitMe.mx" tvg-name="Bitme" tvg-chno="767" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/512px-BitMe_logo.svg.png" group-title="Internacional", Bitme
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/464.ts
+
 #EXTINF: -1 tvg-id="Canal5.mx" tvg-name="Canal 5 MX" tvg-chno="768" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Internacional", Canal 5 MX
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/465.ts
@@ -786,3 +1178,51 @@ https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Vete a la Versh" group-title="24/7", 24/7 Vete a la Versh
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/XhegjtwgknbgswchggGT/NbcxzzegjurrwgfVbmsdht/1103.ts
+
+#EXTINF: -1 tvg-id="AtreseriesInternacional.es" tvg-name="Atreseries Internacional" tvg-chno="214" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="España", Atreseries Internacional
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/444
+
+#EXTINF:-1 tvg-id="AXNSpain.es" tvg-name="AXN Spain" tvg-chno="205" tvg-logo="http://x.playerlatino.live/axn.png" group-title="España",AXN Spain
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/713
+
+#EXTINF: -1 tvg-id="AXNWhite.us" tvg-name="AXN White" tvg-chno="205" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/512px-AXN_White_logo_%282015%29.svg.png" group-title="España", AXN White
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/714
+
+#EXTINF:-1 tvg-id="AMCSpain.es" tvg-name="AMC Spain" tvg-chno="215" tvg-logo="http://x.playerlatino.live/amc.png" group-title="España", AMC Spain
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/715
+
+#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="TNT Spain" tvg-chno="215" tvg-logo="http://x.playerlatino.live/tnt.png" group-title="España", TNT Spain
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/716
+
+#EXTINF: -1 tvg-id="ComedyCentralSpain.es" tvg-name="Comedy Central Spain" tvg-chno="215" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="España", Comedy Central Spain
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/719
+
+#EXTINF:-1 tvg-id="MTVSpain.es" tvg-name="MTV Spain" tvg-chno="215" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="España",MTV Spain
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/803
+
+#EXTINF: -1 tvg-id="ImagenTV.mx" tvg-name="Imagen TV" tvg-chno="1236" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Mexico", Imagen TV HD
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/341
+
+#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-chno="226" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Mexico", Las Estrellas
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/411
+
+#EXTINF: -1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" tvg-chno="226" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Mexico", Las Estrellas Latin America
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/736
+
+#EXTINF: -1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas HD" tvg-chno="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/512px-RCN_Novelas_logo_2019.png" group-title="Colombia", RCN Novelas HD
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/279
+
+#EXTINF: -1 tvg-id="Latina.pe" tvg-name="Latina" tvg-chno="237" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="Peru", Latina
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/317
