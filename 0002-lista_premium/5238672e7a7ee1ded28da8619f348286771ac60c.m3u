@@ -10,10 +10,6 @@ https://v3.playerlatino.live/stream/m3u8/750
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/102
 
-#EXTINF: -1 tvg-id="WarnerChannelSouth.us" tvg-name="Warner Channel HD South" tvg-chno="206" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Entretenimiento", Warner Channel HD South
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/759
-
 #EXTINF: -1 tvg-id="AEPanregional.us" tvg-name="A&E Panregional" tvg-chno="207" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Entretenimiento", A&E Panregional
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/1
@@ -46,17 +42,9 @@ https://v3.playerlatino.live/stream/m3u8/32
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/90
 
-#EXTINF: -1 tvg-id="TNTSeriesSouth.us" tvg-name="TNT Series South" tvg-chno="213" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entretenimiento", TNT Series South
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/757
-
 #EXTINF: -1 tvg-id="ComedyCentralNorth.us" tvg-name="Comedy Central North" tvg-chno="215" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Entretenimiento", Comedy Central North
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/135
-
-#EXTINF: -1 tvg-id="ComedyCentralSouth.us" tvg-name="Comedy Central South" tvg-chno="215" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Entretenimiento", Comedy Central South
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/740
 
 #EXTINF: -1 tvg-id="TBSPanregional.us" tvg-name="TBS Panregional" tvg-chno="216" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/512px-TBS_logo_2016.svg.png" group-title="Entretenimiento", TBS Panregional
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -66,21 +54,13 @@ https://v3.playerlatino.live/stream/m3u8/171
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/42
 
-#EXTINF: -1 tvg-id="FXSouth.us" tvg-name="FX South" tvg-chno="217" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Entretenimiento", FX South
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/749
-
-#EXTINF: -1 tvg-id="UniversalTVPanregional.us" tvg-name="Universal TV HD Panregional" tvg-chno="218" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Películas", Universal TV HD Panregional
+#EXTINF: -1 tvg-id="UniversalTVPanregional.us" tvg-name="Universal TV Panregional" tvg-chno="218" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Películas", Universal TV Panregional
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/137
 
 #EXTINF: -1 tvg-id="SyfyPanregional.us" tvg-name="Syfy Panregional" tvg-chno="219" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Películas", Syfy Panregional
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/151
-
-#EXTINF: -1 tvg-id="SyfySouth.us" tvg-name="Syfy South" tvg-chno="219" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Películas", Syfy South
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/758
 
 #EXTINF: -1 tvg-id="TruTVPanregional.us" tvg-name="TruTV Panregional" tvg-chno="220" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png" group-title="Entretenimiento", TruTV Panregional
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -114,14 +94,6 @@ https://v3.playerlatino.live/stream/m3u8/152
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/24
 
-#EXTINF: -1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-name="Discovery Home & Health South" tvg-chno="229" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="Cultura", Discovery Home & Health South
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/742
-
-#EXTINF: -1 tvg-id="MasChicPanregional.ar" tvg-name="Más Chic Panregional" tvg-chno="230" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/512px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="Entretenimiento", Más Chic Panregional
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/180
-
 #EXTINF: -1 tvg-id="TelemundoCentralAmerica.us" tvg-name="Telemundo Central America" tvg-chno="231" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo Central America
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/92
@@ -154,10 +126,6 @@ https://v3.playerlatino.live/stream/m3u8/413
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/290
 
-#EXTINF:-1 tvg-id="EstrellaTVEast.us" tvg-name="Estrella TV East" tvg-chno="235" tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="Entretenimiento", Estrella TV East
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/177
-
 #EXTINF:-1 tvg-id="MiamiTVLatino.us" tvg-name="Miami TV Latino" tvg-chno="235" tvg-logo="https://i.imgur.com/Y5tUClU.png" group-title="Entretenimiento", Miami TV Latino
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/251
@@ -165,10 +133,6 @@ https://v3.playerlatino.live/stream/m3u8/251
 #EXTINF:-1 tvg-id="TCTV.ec" tvg-name="TC TV" tvg-chno="235" tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC TV
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/885
-
-#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFórmula" tvg-chno="235" tvg-logo="http://x.playerlatino.live/teleformula.png" group-title="Entretenimiento", TeleFórmula
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/182
 
 #EXTINF: -1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-chno="763" tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="Entretenimiento", Unicable
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -179,10 +143,6 @@ https://v3.playerlatino.live/stream/m3u8/98
 #EXTINF: -1 tvg-id="MTVNorth.us" tvg-name="MTV North" tvg-chno="264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Música", MTV North
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/69
-
-#EXTINF: -1 tvg-id="MTVHDSouth.us" tvg-name="MTV South" tvg-chno="264" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Música", MTV HD South
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/823
 
 #EXTINF: -1 tvg-id="MTVLive.uk" tvg-name="MTV Live" tvg-chno="266" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png" group-title="Música", MTV Live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -212,14 +172,6 @@ https://v3.playerlatino.live/stream/m3u8/91
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/154
 
-#EXTINF:-1 tvg-id="VideoRola.mx" tvg-name="Video Rola" tvg-chno="273" tvg-logo="http://x.playerlatino.live/videorola.png" group-title="Música", Video Rola
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/359
-
-#EXTINF:-1 tvg-id="MusicNow.ae" tvg-name="Music Now" tvg-chno="273" tvg-logo="https://content.osn.com/logo/channel/cropped/NOW.png" group-title="Música", Music Now
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/690
-
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-name="Retro Music TV" tvg-chno="273" tvg-logo="http://x.playerlatino.live/retromusic.png" group-title="Música", Retro Music TV
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/692
@@ -229,10 +181,6 @@ https://v3.playerlatino.live/stream/m3u8/692
 #EXTINF: -1 tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network Pacific" tvg-chno="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Infantil", Cartoon Network Pacific
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/17
-
-#EXTINF: -1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="Cartoon Network South Atlantic" tvg-chno="304" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Infantil", Cartoon Network South Atlantic
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/737
 
 #EXTINF: -1 tvg-id="Tooncast.us" tvg-name="Tooncast" tvg-chno="306" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Infantil", Tooncast
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -254,15 +202,11 @@ https://v3.playerlatino.live/stream/m3u8/645
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/79
 
-#EXTINF: -1 tvg-id="NickJrSouth.us" tvg-name="Nick Jr South" tvg-chno="309" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Infantil", Nick Jr South
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/829
-
 #EXTINF: -1 tvg-id="TeenNickLatinAmerica.us" tvg-name="TeenNick Latin America" tvg-chno="310" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/512px-TeenNick_2019_logo.svg.png" group-title="Infantil", TeenNick Latin America
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/184
 
-#EXTINF:-1 tvg-id="TeenNickLatinAmerica.us" tvg-name="TeenNick Latin America" tvg-chno="310" tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantiles",TeenNick
+#EXTINF:-1 tvg-id="TeenNickLatinAmerica.us" tvg-name="TeenNick Latin America" tvg-chno="310" tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantiles", TeenNick
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/882
 
@@ -274,17 +218,9 @@ https://v3.playerlatino.live/stream/m3u8/29
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/30
 
-#EXTINF: -1 tvg-id="DisneyJuniorSouth.us" tvg-name="Disney Junior South" tvg-chno="315" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Infantil", Disney Junior South
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/743
-
 #EXTINF: -1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-chno="318" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Infantil", BabyFirst
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/7
-
-#EXTINF:-1 tvg-id="CBeebiesUK.uk" tvg-name="CBeebies UK" tvg-chno="318" tvg-logo="http://x.playerlatino.live/cbeebies.png" group-title="Infantil", CBeebies UK
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/13
 
 #EXTINF: -1 tvg-id="DiscoveryKidsPanregional.us" tvg-name="Discovery Kids Panregional" tvg-chno="330" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/512px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil", Discovery Kids Panregional
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -348,34 +284,6 @@ https://v3.playerlatino.live/stream/m3u8/858
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/859
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas", PPV 13
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/860
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas", PPV 14
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/862
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas", PPV 15
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/863
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas", PPV 16
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/864
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas", PPV 17
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/865
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas", PPV 18
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/866
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas", PPV 19
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/861
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Películas", PPV 20
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/867
@@ -414,10 +322,6 @@ https://v3.playerlatino.live/stream/m3u8/84
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/20
 
-#EXTINF: -1 tvg-id="CinemaxSouth.us" tvg-name="CinemaxSouth.us" tvg-chno="509" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png" group-title="Películas", Cinemax South
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/739
-
 #EXTINF: -1 tvg-id="ParamountNetworkPanregional.us" tvg-name="Paramount Network Panregional" tvg-chno="510" tvg-logo="https://i.imgur.com/CluqAlU.png" group-title="Películas", Paramount Network Panregional
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/200
@@ -442,10 +346,6 @@ https://v3.playerlatino.live/stream/m3u8/844
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/295
 
-#EXTINF:-1 tvg-id="MultiPremier.mx" tvg-name="MultiPremier" tvg-chno="514" tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="Películas", MultiPremier
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/294
-
 #EXTINF: -1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Película Latin America" tvg-chno="516" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/512px-DPel%C3%ADcula_2021.svg.png" group-title="Películas", De Película Latin America
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/21
@@ -462,10 +362,6 @@ https://v3.playerlatino.live/stream/m3u8/83
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/751
 
-#EXTINF:-1 tvg-id="ShowtimeWest.us" tvg-name="Showtime West" tvg-chno="518" tvg-logo="http://x.playerlatino.live/showtime.png" group-title="Películas", Showtime West
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/679
-
 #EXTINF:-1 tvg-id="ISatSouth.us" tvg-name="I.Sat South" tvg-chno="520" tvg-logo="http://x.playerlatino.live/isat.png" group-title="Películas", I.Sat South
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/153
@@ -478,34 +374,17 @@ https://v3.playerlatino.live/stream/m3u8/186
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/62
 
-#EXTINF: -1 tvg-id="HBOEast.us" tvg-name="HBO East" tvg-chno="524" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Películas", HBO East
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/723
-
 #EXTINF: -1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-chno="525" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Películas", HBO 2 Latin America
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/300
-
-#EXTINF: -1 tvg-id="HBO2East.us" tvg-name="HBO2 East" tvg-chno="525" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Películas", HBO2 East
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/724
 
 #EXTINF: -1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+ Latin America" tvg-chno="526" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Películas", HBO+ Latin America
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/64
 
-#EXTINF: -1 tvg-id="HBOPlusEast.us" tvg-name="HBO+ East" tvg-chno="526" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Películas", HBO+ East
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/722
-
-#EXTINF: -1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family HD Latin America" tvg-chno="534" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Películas", HBO Family HD Latin America
+#EXTINF: -1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family Latin America" tvg-chno="534" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Películas", HBO Family Latin America
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/63
-
-#EXTINF: -1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi Latin America" tvg-chno="540" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/512px-HBO_Mundi.svg.png" group-title="Películas", HBO Mundi Latin America
-http://51.222.25.50:25461/bulltvn3w/appnew/1112
-#EXTINF: -1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO Pop HD Latin America" tvg-chno="541" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="Películas", HBO Pop HD Latin America
-http://51.222.25.50:25461/bulltvn3w/appnew/3149
 
 #EXTINF: -1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" tvg-chno="542" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Películas", HBO Xtreme Latin America
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -514,10 +393,6 @@ https://v3.playerlatino.live/stream/m3u8/814
 #EXTINF: -1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" tvg-chno="542" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Películas", HBO Xtreme Latin America
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/841
-
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/2020/img.jpg" group-title="Películas", Cine 2020
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/857
 
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="Películas", Cine Accion
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -542,10 +417,6 @@ https://v3.playerlatino.live/stream/m3u8/709
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg" group-title="Películas", Cine Ficcion/Fantasia 2
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/710
-
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg" group-title="Películas", Cine Ficcion/Fantasia Sagas
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/711
 
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="Películas", Cine Infantil
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -575,10 +446,6 @@ https://v3.playerlatino.live/stream/m3u8/688
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/680
 
-#EXTINF:-1 tvg-id="StarzComedyEast.us" tvg-name="Starz Comedy East" tvg-chno="542" tvg-logo="http://x.playerlatino.live/starz_comedy.png" group-title="Películas", Starz Comedy East
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/681
-
 #EXTINF:-1 tvg-id="StarzEncoreActionEast.us" tvg-name="Starz Encore Action East" tvg-chno="542" tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" group-title="Películas", Starz Encore Action East
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/682
@@ -596,10 +463,6 @@ https://v3.playerlatino.live/stream/m3u8/684
 #EXTINF: -1 tvg-id="beINSportsenEspanol.us" tvg-name="beIN Sports en Español" tvg-chno="602" tvg-logo="https://i.imgur.com/bC04S9U.png" group-title="Deportes", beIN Sports en Español
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/753
-
-#EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" tvg-name="beIN Sports Xtra en Español" tvg-chno="603" tvg-logo="https://i.imgur.com/ImjhA9L.png" group-title="Deportes", beIN Sports Xtra en Español
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/761
 
 #EXTINF: -1 tvg-id="TNTSportsArgentina.ar" tvg-name="TNT Sports Argentina" tvg-chno="608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports Argentina
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -625,11 +488,11 @@ https://v3.playerlatino.live/stream/m3u8/53
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/410
 
-#EXTINF: -1 tvg-id="FoxSports2Mexico.mx" tvg-name="Fox Sports 2 HD Mexico" tvg-chno="1608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png" group-title="Deportes", Fox Sports 2 HD Mexico
+#EXTINF: -1 tvg-id="FoxSports2Mexico.mx" tvg-name="Fox Sports 2 Mexico" tvg-chno="1608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png" group-title="Deportes", Fox Sports 2 Mexico
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/528
 
-#EXTINF: -1 tvg-id="FoxSports3Panregional.us" tvg-name="Fox Sports 3 HD Panregional" tvg-chno="1609" tvg-logo="https://i.imgur.com/XqCg7Sg.png" group-title="Deportes", Fox Sports 3 HD Panregional
+#EXTINF: -1 tvg-id="FoxSports3Panregional.us" tvg-name="Fox Sports 3 Panregional" tvg-chno="1609" tvg-logo="https://i.imgur.com/XqCg7Sg.png" group-title="Deportes", Fox Sports 3 Panregional
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/54
 
@@ -668,10 +531,6 @@ https://v3.playerlatino.live/stream/m3u8/530
 #EXTINF: -1 tvg-id="ESPN2Mexico.mx" tvg-name="ESPN 2 Mexico" tvg-chno="625" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Deportes", ESPN 2 Mexico
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/531
-
-#EXTINF:-1 tvg-id="ESPNChile.cl" tvg-name="ESPN Chile" tvg-chno="625" tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN Chile
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/842
 
 #EXTINF: -1 tvg-id="ESPNExtraHDSouth.us" tvg-name="ESPN Extra HD South" tvg-chno="1624" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/512px-Espn_extra_2015.PNG" group-title="Deportes", ESPN Extra HD South
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -741,10 +600,6 @@ https://v3.playerlatino.live/stream/m3u8/514
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/764
 
-#EXTINF:-1 tvg-id="TigoSportsParaguay.py" tvg-name="TigoSportsParaguay.py" tvg-chno="638" tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes", TigoSports Paraguay
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/843
-
 #EXTINF:-1 tvg-id="CDOPremium.cl" tvg-name="CDO Premium" tvg-chno="640" tvg-logo="http://x.playerlatino.live/cdopremium.png" group-title="Deportes",CDO Premium
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/401
@@ -752,10 +607,6 @@ https://v3.playerlatino.live/stream/m3u8/401
 #EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDF Premium" tvg-chno="640" tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Deportes", CDF Premium
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/318
-
-#EXTINF:-1 tvg-id="CDNDeportes.do" tvg-name="CDN Deportes" tvg-chno="640" tvg-logo="http://x.playerlatino.live/cdnsportsmax.png" group-title="Deportes", CDN Deportes
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/206
 
 #EXTINF:-1 tvg-id="Toros.es" tvg-name="Toros" tvg-chno="640" tvg-logo="http://x.playerlatino.live/toros.png" group-title="Deportes", Toros
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -778,14 +629,6 @@ https://v3.playerlatino.live/stream/m3u8/136
 #EXTINF: -1 tvg-id="ADN40.mx" tvg-name="ADN 40" tvg-chno="709" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="Noticias", ADN 40
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/447
-
-#EXTINF:-1 tvg-id="EfektoTV.mx" tvg-name="Efekto TV" tvg-chno="709" tvg-logo="http://x.playerlatino.live/efektotv.png" group-title="Noticias", Efekto TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/275
-
-#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV" tvg-chno="709" tvg-logo="http://x.playerlatino.live/mvs.png" group-title="Noticias", MVS TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/448
 
 # - Cultura
 
@@ -839,10 +682,6 @@ https://v3.playerlatino.live/stream/m3u8/61
 
 # - España
 
-#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-name="TVE Internacional America" tvg-chno="744" tvg-logo="http://x.playerlatino.live/tve.png" group-title="España", TVE Internacional America
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/195
-
 #EXTINF: -1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional" tvg-chno="761" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/512px-Antena_3_Internacional_logo_2017.svg.png" group-title="España", Antena 3 Internacional
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/298
@@ -855,22 +694,6 @@ https://v3.playerlatino.live/stream/m3u8/370
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/444
 
-#EXTINF:-1 tvg-id="AXNSpain.es" tvg-name="AXN Spain" tvg-chno="205" tvg-logo="http://x.playerlatino.live/axn.png" group-title="España",AXN Spain
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/713
-
-#EXTINF: -1 tvg-id="AXNWhite.us" tvg-name="AXN White" tvg-chno="205" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/512px-AXN_White_logo_%282015%29.svg.png" group-title="España", AXN White
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/714
-
-#EXTINF:-1 tvg-id="AMCSpain.es" tvg-name="AMC Spain" tvg-chno="215" tvg-logo="http://x.playerlatino.live/amc.png" group-title="España", AMC Spain
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/715
-
-#EXTINF:-1 tvg-id="TNTSpain.es" tvg-name="TNT Spain" tvg-chno="215" tvg-logo="http://x.playerlatino.live/tnt.png" group-title="España", TNT Spain
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/716
-
 #EXTINF:-1 tvg-id="HistoriaSpain.es" tvg-name="Historia Spain" tvg-chno="742" tvg-logo="http://x.playerlatino.live/history.png" group-title="España", Historia Spain
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/718
@@ -878,10 +701,6 @@ https://v3.playerlatino.live/stream/m3u8/718
 #EXTINF: -1 tvg-id="ComedyCentralSpain.es" tvg-name="Comedy Central Spain" tvg-chno="215" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="España", Comedy Central Spain
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/719
-
-#EXTINF:-1 tvg-id="MTVSpain.es" tvg-name="MTV Spain" tvg-chno="215" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="España",MTV Spain
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/803
 
 # - Mexico
 
@@ -930,10 +749,6 @@ https://v3.playerlatino.live/stream/m3u8/736
 #EXTINF: -1 tvg-id="RCNNuestraTeleInternacionalAmerica.co" tvg-name="RCN Nuestra Tele Internacional America" tvg-chno="772" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/512px-RCN_Nuestra_Tele_logo.svg.png" group-title="Colombia", RCN Nuestra Tele Internacional America
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/390
-
-#EXTINF: -1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas HD" tvg-chno="238" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/512px-RCN_Novelas_logo_2019.png" group-title="Colombia", RCN Novelas HD
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/279
 
 #EXTINF: -1 tvg-id="CaracolTelevision.co" tvg-name="Caracol Televisión" tvg-chno="773" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Colombia", Caracol Televisión
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -1039,14 +854,6 @@ https://v3.playerlatino.live/stream/m3u8/426
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/677
 
-#EXTINF:-1 tvg-logo="" group-title="24/7",Barbie 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/788
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png" group-title="24/7",Bleach 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/883
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7",Bob Esponja 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/518
@@ -1054,10 +861,6 @@ https://v3.playerlatino.live/stream/m3u8/518
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="24/7",Breaking Bad 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/846
-
-#EXTINF:-1 tvg-logo="" group-title="24/7",Brickleberry 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/789
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -1070,10 +873,6 @@ https://v3.playerlatino.live/stream/m3u8/808
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7",Cantinflas 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/428
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/catdog.png" group-title="24/7",CatDog 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/785
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",Chapulin Colorado 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -1111,25 +910,13 @@ https://v3.playerlatino.live/stream/m3u8/424
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/329
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7",El Chavo Animado 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/790
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/400
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7",El Coyote y el Correcaminos 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/429
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="24/7",El Gallo Claudio 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/845
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png" group-title="24/7",El Increible Mundo de Gumball 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/791
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7",El Pajaro Loco 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -1138,10 +925,6 @@ https://v3.playerlatino.live/stream/m3u8/525
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7",El Principel del Rap 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/430
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="24/7",El Señor de los Cielos 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/820
 
 #EXTINF:-1 tvg-logo="" group-title="24/7",Futurama 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -1159,37 +942,13 @@ https://v3.playerlatino.live/stream/m3u8/812
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/522
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="24/7",Johnny Bravo 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/786
-
-#EXTINF:-1 tvg-logo="" group-title="24/7",La Casa de Papel 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/403
-
-#EXTINF:-1 tvg-logo="" group-title="24/7",La Familia PeLuche 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/811
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="24/7",La Hora Pico 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/887
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7",La Pantera Rosa 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/671
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" group-title="24/7",La Pequeña Lulu 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/792
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/886
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="24/7",La Vaca y ElPollito 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/809
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7",Le Temes a la Oscuridad 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -1199,53 +958,21 @@ https://v3.playerlatino.live/stream/m3u8/888
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/524
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" group-title="24/7",Los 3 Chiflados 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/423
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="24/7",Los Años Maravillosos 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/810
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="24/7",Los Padrinos Magicos 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/813
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7",Los Picapiedra 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/669
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="24/7",Los Pinguinos de Madagascar 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/794
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="24/7",Los Pitufos 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/795
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="24/7",Los Reyes de la Colina 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/796
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/357
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="24/7",Los Supersonicos 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/797
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="24/7",Los Vengadores Unidos 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/818
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7",Malcolm 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/798
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="24/7",Max Steel 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/880
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7",Mr. Bean 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -1263,14 +990,6 @@ https://v3.playerlatino.live/stream/m3u8/661
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/416
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="24/7",Patoaventuras 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/819
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="24/7",Patrulla Canina 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/807
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7",Peppa Pig 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/787
@@ -1279,17 +998,9 @@ https://v3.playerlatino.live/stream/m3u8/787
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/721
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="24/7",Pocoyo 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/799
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7",Pokemon 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/420
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="24/7",Prison Break 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/884
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" group-title="24/7",Ranma 1/2 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
