@@ -572,7 +572,7 @@ https://v3.playerlatino.live/stream/m3u8/822
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/698
 
-#EXTINF:-1 tvg-id="TUDNUS.us" tvg-name="TUDN US" tvg-chno="633" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes", TUDN US
+#EXTINF:-1 tvg-id="TUDNUS.us" tvg-name="TUDN US" tvg-chno="628" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes", TUDN US
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/86
 
