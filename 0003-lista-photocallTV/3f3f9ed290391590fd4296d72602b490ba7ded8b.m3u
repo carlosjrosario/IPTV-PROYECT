@@ -43,7 +43,7 @@ https://csm-e-cetubiausw2live204-09870eb60fc6631c0.csm.tubi.video/csm/live/49978
 https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/live/443103226/u002Ftubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
-https://tve-live.mlb.com/1660622380_4bc3ad3c545fc9d37600d498bce8e9dc6056b363ba41d2a9070a36ffed962b01/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
+https://tve-live.mlb.com/1660870587_e7d7dce4502c1080d640c720532f98efcd22446e8e86a3ac0f359d1ae70e5f17/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-chno="642" tvg-logo="https://i.imgur.com/vcs9ELP.png" tvg-name="Real Madrid TV"  group-title="Deportes",Real Madrid TV
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
@@ -54,5 +54,5 @@ https://streamamg-liver01.akamaized.net/hls/live/2039999-b/int/int_3/hdntl=exp=1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="644" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Liga MX"  group-title="Deportes",VIX Liga MX
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="800" tvg-logo="https://i.ytimg.com/vi/5fpLbWc6484/sddefault.jpg" tvg-name="Los Simpson 24/7"  group-title="24/7",Los Simpson 24/7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="849" tvg-logo="https://i.ytimg.com/vi/5fpLbWc6484/sddefault.jpg" tvg-name="Los Simpson 24/7"  group-title="24/7",Los Simpson 24/7
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w2142678180.m3u8

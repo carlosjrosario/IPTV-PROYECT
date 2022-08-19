@@ -842,214 +842,214 @@ https://v3.playerlatino.live/stream/m3u8/327
 
 # - 24/7
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7
+#EXTINF:-1 tvg-chno="801" tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/426
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs 24/7
+#EXTINF:-1 tvg-chno="802" tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/677
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7",Bob Esponja 24/7
+#EXTINF:-1 tvg-chno="806" tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7",Bob Esponja 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/518
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="24/7",Breaking Bad 24/7
+#EXTINF:-1 tvg-chno="807" tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="24/7",Breaking Bad 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/846
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
+#EXTINF:-1 tvg-chno="808" tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/427
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="" group-title="24/7",Candy Candy 24/7
+#EXTINF:-1 tvg-chno="810" tvg-logo="" group-title="24/7",Candy Candy 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/808
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7",Cantinflas 24/7
+#EXTINF:-1 tvg-chno="811" tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7",Cantinflas 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/428
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",Chapulin Colorado 24/7
+#EXTINF:-1 tvg-chno="813" tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",Chapulin Colorado 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/418
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="24/7",Chespirito 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/417
-
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/coraje.png" group-title="24/7",Coraje el Perro Cobarde 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/519
-
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="24/7",Dinosaurios 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/670
-
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7",Doraemon 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/521
-
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7",Dragon Ball 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/425
-
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/520
-
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/424
-
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/329
-
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
+#EXTINF:-1 tvg-chno="814" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/400
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="24/7",El Gallo Claudio 24/7
+#EXTINF:-1 tvg-chno="815" tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="24/7",Chespirito 24/7
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/417
+
+#EXTINF:-1 tvg-chno="816" tvg-logo="http://x.playerlatino.live/coraje.png" group-title="24/7",Coraje el Perro Cobarde 24/7
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/519
+
+#EXTINF:-1 tvg-chno="819" tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="24/7",Dinosaurios 24/7
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/670
+
+#EXTINF:-1 tvg-chno="821" tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7",Doraemon 24/7
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/521
+
+#EXTINF:-1 tvg-chno="822" tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7",Dragon Ball 24/7
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/425
+
+#EXTINF:-1 tvg-chno="823" tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/520
+
+#EXTINF:-1 tvg-chno="824" tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/424
+
+#EXTINF:-1 tvg-chno="825" tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/329
+
+#EXTINF:-1 tvg-chno="827" tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="24/7",El Gallo Claudio 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/845
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7",El Pajaro Loco 24/7
+#EXTINF:-1 tvg-chno="828" tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7",El Pajaro Loco 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/525
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7",El Principel del Rap 24/7
+#EXTINF:-1 tvg-chno="829" tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7",El Principel del Rap 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/430
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="" group-title="24/7",Futurama 24/7
+#EXTINF:-1 tvg-chno="830" tvg-logo="" group-title="24/7",Futurama 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/793
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="24/7",Game of Thrones 24/7
+#EXTINF:-1 tvg-chno="831" tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="24/7",Game of Thrones 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/515
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="" group-title="24/7",Garfield 24/7
+#EXTINF:-1 tvg-chno="832" tvg-logo="" group-title="24/7",Garfield 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/812
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7",Hey Arnold 24/7
+#EXTINF:-1 tvg-chno="836" tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7",Hey Arnold 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/522
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7",La Pantera Rosa 24/7
+#EXTINF:-1 tvg-chno="840" tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7",La Pantera Rosa 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/671
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
+#EXTINF:-1 tvg-chno="841" tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/886
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7",Le Temes a la Oscuridad 24/7
+#EXTINF:-1 tvg-chno="844" tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7",Le Temes a la Oscuridad 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/888
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7",Looney Tunes 24/7
+#EXTINF:-1 tvg-chno="846" tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7",Looney Tunes 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/524
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="24/7",Los Años Maravillosos 24/7
+#EXTINF:-1 tvg-chno="847" tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="24/7",Los Años Maravillosos 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/810
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7",Los Picapiedra 24/7
+#EXTINF:-1 tvg-chno="848" tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7",Los Picapiedra 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/669
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson 24/7
+#EXTINF:-1 tvg-chno="849" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/357
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7",Malcolm 24/7
+#EXTINF:-1 tvg-chno="850" tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7",Malcolm 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/798
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7",Mr. Bean 24/7
+#EXTINF:-1 tvg-chno="852" tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7",Mr. Bean 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/431
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/naruto.png" group-title="24/7",Naruto 24/7
+#EXTINF:-1 tvg-chno="853" tvg-logo="http://x.playerlatino.live/naruto.png" group-title="24/7",Naruto 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/523
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="24/7",One Punch Man 24/7
+#EXTINF:-1 tvg-chno="854" tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="24/7",One Punch Man 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/661
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7",Padre de Familia 24/7
+#EXTINF:-1 tvg-chno="855" tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7",Padre de Familia 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/416
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7",Peppa Pig 24/7
+#EXTINF:-1 tvg-chno="856" tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7",Peppa Pig 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/787
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7",Pinky y Cerebro 24/7
+#EXTINF:-1 tvg-chno="857" tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7",Pinky y Cerebro 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/721
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7",Pokemon 24/7
+#EXTINF:-1 tvg-chno="858" tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7",Pokemon 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/420
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/ranma.png" group-title="24/7",Ranma 1/2 24/7
+#EXTINF:-1 tvg-chno="860" tvg-logo="http://x.playerlatino.live/ranma.png" group-title="24/7",Ranma 1/2 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/419
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/sakura.png" group-title="24/7",Sakura Card Captor 24/7
+#EXTINF:-1 tvg-chno="863" tvg-logo="http://x.playerlatino.live/sakura.png" group-title="24/7",Sakura Card Captor 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/672
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="24/7",Samurai X 24/7
+#EXTINF:-1 tvg-chno="864" tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="24/7",Samurai X 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/663
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="24/7",Scooby Doo 24/7
+#EXTINF:-1 tvg-chno="865" tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="24/7",Scooby Doo 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/422
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/smallville.png" group-title="24/7",Smallville 24/7
+#EXTINF:-1 tvg-chno="868" tvg-logo="http://x.playerlatino.live/smallville.png" group-title="24/7",Smallville 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/673
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/southpark.png" group-title="24/7",South Park 24/7
+#EXTINF:-1 tvg-chno="869" tvg-logo="http://x.playerlatino.live/southpark.png" group-title="24/7",South Park 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/674
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="24/7",Spiderman 24/7
+#EXTINF:-1 tvg-chno="870" tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="24/7",Spiderman 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/889
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="24/7",Super Campeones 24/7
+#EXTINF:-1 tvg-chno="871" tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="24/7",Super Campeones 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/432
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="24/7",The Big Bang Theory 24/7
+#EXTINF:-1 tvg-chno="872" tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="24/7",The Big Bang Theory 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/676
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="" group-title="24/7",The Walking Dead 24/7
+#EXTINF:-1 tvg-chno="873" tvg-logo="" group-title="24/7",The Walking Dead 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/800
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="24/7",Tom y Jerry 24/7
+#EXTINF:-1 tvg-chno="875" tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="24/7",Tom y Jerry 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/421
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="24/7",TrollHunters 24/7
+#EXTINF:-1 tvg-chno="876" tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="24/7",TrollHunters 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/662
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24/7",Two And a Half Men 24/7
+#EXTINF:-1 tvg-chno="877" tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24/7",Two And a Half Men 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/675
 
-#EXTINF:-1 tvg-chno="800" tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7",Yu-Gi-Oh! 24/7
+#EXTINF:-1 tvg-chno="879" tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7",Yu-Gi-Oh! 24/7
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/664
