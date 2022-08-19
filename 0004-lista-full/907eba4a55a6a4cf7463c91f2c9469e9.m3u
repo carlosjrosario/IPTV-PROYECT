@@ -2015,7 +2015,7 @@ https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/pollito21/BotZ1H1W0g/785.ts
 #EXTVLCOPT:http-user-agent=KvDRdAXT2YmGY5h1h7X3F4AKvDXTYmGmTkb3WGGmS9r1hWGGmS9rrehTKVC7ddmT3V1n8VJd6d5BM89T3V1nRtRX8VJd24dn2YmGd5BM89eNSrehTKv
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/pollito21/BotZ1H1W0g/609.ts
 
-#EXTINF:-1 tvg-id="ElCanaldelFutbol.ec" tvg-name="El Canal del Fútbol" tvg-chno="767" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png" group-title="Deportes", El Canal del Fútbol
+#EXTINF:-1 tvg-id="ElCanaldelFutbol.ec" tvg-name="El Canal del Fútbol" tvg-chno="767" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png" group-title="Ecuador", El Canal del Fútbol
 #EXTVLCOPT:http-user-agent=KvDRdAXT2YmGY5h1h7X3F4AKvDXTYmGmTkb3WGGmS9r1hWGGmS9rrehTKVC7ddmT3V1n8VJd6d5BM89T3V1nRtRX8VJd24dn2YmGd5BM89eNSrehTKv
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/pollito21/BotZ1H1W0g/871.ts
 
@@ -2436,7 +2436,7 @@ https://csm-e-cetubiausw2live204-09870eb60fc6631c0.csm.tubi.video/csm/live/49978
 https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/live/443103226/u002Ftubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
-https://tve-live.mlb.com/1660870587_e7d7dce4502c1080d640c720532f98efcd22446e8e86a3ac0f359d1ae70e5f17/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
+https://tve-live.mlb.com/1660961903_1ec3cbeb0cdb36a18274c60084be4008de3e933c4796e9f3bbba9e662920ae74/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-chno="642" tvg-logo="https://i.imgur.com/vcs9ELP.png" tvg-name="Real Madrid TV"  group-title="Deportes",Real Madrid TV
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
@@ -2594,3 +2594,14 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-chno="10007" tvg-id="MiamiTVMexico.us" tvg-name="Miami TV Mexico" tvg-logo="https://i.imgur.com/ou5afOB.jpg" group-title="XXX",Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+
+#- Live Events
+
+#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Chi Cubs – Milwaukee"  group-title="Deportes",MLB Live - Chi Cubs – Milwaukee
+http://198.144.159.43/1p4XVmSPh7wGGGk_2Gxcbw/1660964671/3137302e38312e3134342e313237/ff100/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-chno="652" tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_liga_es.png" tvg-name="La Liga Live- Espanyol – Rayo Vallecano"  group-title="Deportes",La Liga Live- Espanyol – Rayo Vallecano
+http://185.53.88.143:8080/hls/streama188908/index.m3u8?cst=f543d82a879133b91c1ba7e0300e0422
+
+#EXTINF:-1 tvg-id="LigadeCampeones1porMovistarPlus.es" tvg-chno="652" tvg-logo="https://i.imgur.com/FReScI8.png" tvg-name="Bundesliga Live - Moenchengladbach – Hertha Berl?n"  group-title="Deportes",Bundesliga Live - Moenchengladbach – Hertha Berl?n
+http://185.53.88.143:8080/hls/streama189100/index.m3u8?cst=460a76e22b565719a91df18fa6d285af
