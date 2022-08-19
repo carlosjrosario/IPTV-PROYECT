@@ -683,7 +683,7 @@ https://v3.playerlatino.live/stream/m3u8/61
 
 # - España
 
-#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional" tvg-chno="761" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/512px-Antena_3_Internacional_logo_2017.svg.png" group-title="España", Antena 3 Internacional
+#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional" tvg-chno="731" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/512px-Antena_3_Internacional_logo_2017.svg.png" group-title="España", Antena 3 Internacional
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/298
 
@@ -1907,7 +1907,7 @@ https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/pollito21/BotZ1H1W0g/465.ts
 #EXTVLCOPT:http-user-agent=KvDRdAXT2YmGY5h1h7X3F4AKvDXTYmGmTkb3WGGmS9r1hWGGmS9rrehTKVC7ddmT3V1n8VJd6d5BM89T3V1nRtRX8VJd24dn2YmGd5BM89eNSrehTKv
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/pollito21/BotZ1H1W0g/707.ts
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen TV HD" tvg-chno="743" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Entretenimiento", Imagen TV HD
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen TV HD" tvg-chno="743" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Mexico", Imagen TV HD
 #EXTVLCOPT:http-user-agent=KvDRdAXT2YmGY5h1h7X3F4AKvDXTYmGmTkb3WGGmS9r1hWGGmS9rrehTKVC7ddmT3V1n8VJd6d5BM89T3V1nRtRX8VJd24dn2YmGd5BM89eNSrehTKv
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/pollito21/BotZ1H1W0g/672.ts
 
