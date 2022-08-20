@@ -2620,3 +2620,6 @@ http://ws-live-pull-pinco-test.seewo.com/live/BQAOR151ES_C0/playlist.m3u8?wsSess
 
 #EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Atlanta – Houston" group-title="Deportes",MLB Live - Atlanta – Houston
 http://198.144.159.40/0SZTkXMlhTDWtXNel-tWAQ/1660982559/3137302e38312e3134342e3938/ff11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Minnesota – Texas" group-title="Deportes",MLB Live - Minnesota – Texas
+https://hg-n2.sootice.com/plyvivo/yo308e8awoyit0vaguni/chunklist.m3u8
