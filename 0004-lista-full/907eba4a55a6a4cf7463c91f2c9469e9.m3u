@@ -2597,26 +2597,26 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3
 
 #- Live Events
 
-#EXTINF:-1, tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - NY Yankees – Toronto"  group-title="Deportes",MLB Live - NY Yankees – Toronto
+#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - NY Yankees – Toronto" group-title="Deportes",MLB Live - NY Yankees – Toronto
 http://198.144.159.40/NWQ8h-d2jhDiAV7q41Cisw/1660981371/3137302e38312e3134342e313237/ff7/playlist.m3u8
 
-#EXTINF:-1, tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Pittsburgh – Cincinnati"  group-title="Deportes",MLB Live - Pittsburgh – Cincinnati
+#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Pittsburgh – Cincinnati" group-title="Deportes",MLB Live - Pittsburgh – Cincinnati
 http://198.144.159.40/_E1XMUGpbhIfW7eHnVAy9g/1660981671/3137302e38312e3134342e313237/ff5/playlist.m3u8
 
-#EXTINF:-1, tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Filadelfia – NY Mets	"  group-title="Deportes",MLB Live - Filadelfia – NY Mets	
+#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Filadelfia – NY Mets" group-title="Deportes",MLB Live - Filadelfia – NY Mets	
 http://xcefe.vladruman.com:8080/hls/0012.m3u8
 
-#EXTINF:-1, tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Baltimore – Boston"  group-title="Deportes",MLB Live - Baltimore – Boston
+#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Baltimore – Boston" group-title="Deportes",MLB Live - Baltimore – Boston
 http://198.144.159.40/jgQTXhlZUH-GgaNBMNIUIw/1660982337/3137302e38312e3134342e3938/ff4/playlist.m3u8
 
-#EXTINF:-1, tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Cleveland – Chi White Sox"  group-title="Deportes",MLB Live - Cleveland – Chi White Sox
+#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Cleveland – Chi White Sox" group-title="Deportes",MLB Live - Cleveland – Chi White Sox
 http://xcefe.vladruman.com:8080/hls/0013.m3u8
 
-#EXTINF:-1, tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Tampa Bay – Kansas City"  group-title="Deportes",MLB Live - Tampa Bay – Kansas City
+#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Tampa Bay – Kansas City" group-title="Deportes",MLB Live - Tampa Bay – Kansas City
 http://198.144.159.40/XP5tuvTtK6Dgy9N9ni4UOw/1660982409/3137302e38312e3134342e3938/ff9/playlist.m3u8
 
-#EXTINF:-1, tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Detroit – LA Angels"  group-title="Deportes",MLB Live - Detroit – LA Angels
+#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Detroit – LA Angels" group-title="Deportes",MLB Live - Detroit – LA Angels
 http://ws-live-pull-pinco-test.seewo.com/live/BQAOR151ES_C0/playlist.m3u8?wsSession=e7584865d43b076bef053399-166095368605638&wsIPSercert=fc2bd7d5258ad42755251bad9f2bee9a&wsMonitor=0
 
-#EXTINF:-1, tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Atlanta – Houston"  group-title="Deportes",MLB Live - Atlanta – Houston
+#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Atlanta – Houston" group-title="Deportes",MLB Live - Atlanta – Houston
 http://198.144.159.40/0SZTkXMlhTDWtXNel-tWAQ/1660982559/3137302e38312e3134342e3938/ff11/playlist.m3u8
