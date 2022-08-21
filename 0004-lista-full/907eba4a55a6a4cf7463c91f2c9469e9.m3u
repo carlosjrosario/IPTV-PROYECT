@@ -2596,34 +2596,52 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-chno="10007" tvg-id="MiamiTVMexico.us" tvg-name="Miami TV Mexico" tvg-logo="https://i.imgur.com/ou5afOB.jpg" group-title="XXX",Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 
-# - Live Events
+# - MLB live
 
-#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - NY Yankees – Toronto" group-title="Deportes",MLB Live - NY Yankees – Toronto
-http://198.144.159.40/NWQ8h-d2jhDiAV7q41Cisw/1660981371/3137302e38312e3134342e313237/ff7/playlist.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/106
 
-#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Pittsburgh – Cincinnati" group-title="Deportes",MLB Live - Pittsburgh – Cincinnati
-http://198.144.159.40/_E1XMUGpbhIfW7eHnVAy9g/1660981671/3137302e38312e3134342e313237/ff5/playlist.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/107
 
-#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Filadelfia – NY Mets" group-title="Deportes",MLB Live - Filadelfia – NY Mets	
-http://185.53.88.145:8080/hls/streama188884/index.m3u8?cst=6b9448b0a9be43e9f7de83ec7d2bd824
+#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 1" group-title="Deportes",MLB Extra Innings 1
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/105
 
-#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Baltimore – Boston" group-title="Deportes",MLB Live - Baltimore – Boston
-http://198.144.159.40/jgQTXhlZUH-GgaNBMNIUIw/1660982337/3137302e38312e3134342e3938/ff4/playlist.m3u8
+#EXTINF:-1 tvg-id="MLBExtraInnings2.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 2" group-title="Deportes",MLB Extra Innings 2
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/104
 
-#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Cleveland – Chi White Sox" group-title="Deportes",MLB Live - Cleveland – Chi White Sox
-ttp://ws-live-pull-pinco-test.seewo.com/live/BQAOR152ES_C0/playlist.m3u8?wsSession=e7584865d43b076bef053399-166095552596128&wsIPSercert=fc2bd7d5258ad42755251bad9f2bee9a&wsMonitor=0
+#EXTINF:-1 tvg-id="MLBExtraInnings3.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 3" group-title="Deportes",MLB Extra Innings 3
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/103
 
-#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Tampa Bay – Kansas City" group-title="Deportes",MLB Live - Tampa Bay – Kansas City
-http://198.144.159.40/XP5tuvTtK6Dgy9N9ni4UOw/1660982409/3137302e38312e3134342e3938/ff9/playlist.m3u8
+#EXTINF:-1 tvg-id="MLBExtraInnings4.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 4" group-title="Deportes",MLB Extra Innings 4
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/102
 
-#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Detroit – LA Angels" group-title="Deportes",MLB Live - Detroit – LA Angels
-http://huoshan-pull-online1.flive.ixigua.com/live/XycTTUEo103.m3u8
+#EXTINF:-1 tvg-id="MLBExtraInnings5.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 5" group-title="Deportes",MLB Extra Innings 5
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/101
 
-#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Atlanta – Houston" group-title="Deportes",MLB Live - Atlanta – Houston
-http://198.144.159.40/0SZTkXMlhTDWtXNel-tWAQ/1660982559/3137302e38312e3134342e3938/ff11/playlist.m3u8
+#EXTINF:-1 tvg-id="MLBExtraInnings6.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 6" group-title="Deportes",MLB Extra Innings 6
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/100
 
-#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Minnesota – Texas" group-title="Deportes",MLB Live - Minnesota – Texas
-http://198.144.159.43/VHFK9dBerl6i-KcvZKEwTw/1660984216/3137302e38312e3134342e3938/ff14/playlist.m3u8
+#EXTINF:-1 tvg-id="MLBExtraInnings7.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 7" group-title="Deportes",MLB Extra Innings 7
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/99
 
-#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="652" tvg-logo="https://www.mlbstatic.com/team-logos/share/mlb.jpg" tvg-name="MLB Live - Colorado – San Francisco" group-title="Deportes",MLB Live - Colorado – San Francisco
-https://hg-n2.sootice.com/plyvivo/k4e3v8d5m1k3n8b2y7b2/chunklist.m3u8
+#EXTINF:-1 tvg-id="MLBExtraInnings8.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 8" group-title="Deportes",MLB Extra Innings 8
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/98
+
+#EXTINF:-1 tvg-id="MLBExtraInnings9.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 9" group-title="Deportes",MLB Extra Innings 9
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/97
+
+#EXTINF:-1 tvg-id="MLBExtraInnings10.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 10" group-title="Deportes",MLB Extra Innings 10
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/96
+
+#EXTINF:-1 tvg-id="MLBExtraInnings11.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 11" group-title="Deportes",MLB Extra Innings 11
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/95
+
+#EXTINF:-1 tvg-id="MLBExtraInnings12.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 12" group-title="Deportes",MLB Extra Innings 12
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/94
+
+#EXTINF:-1 tvg-id="MLBExtraInnings13.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 13" group-title="Deportes",MLB Extra Innings 13
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/93
+
+#EXTINF:-1 tvg-id="MLBExtraInnings14.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 14" group-title="Deportes",MLB Extra Innings 14
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/92

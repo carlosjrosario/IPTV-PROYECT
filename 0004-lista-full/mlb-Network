@@ -1,0 +1,49 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/106
+
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/107
+
+#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 1" group-title="Deportes",MLB Extra Innings 1
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/105
+
+#EXTINF:-1 tvg-id="MLBExtraInnings2.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 2" group-title="Deportes",MLB Extra Innings 2
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/104
+
+#EXTINF:-1 tvg-id="MLBExtraInnings3.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 3" group-title="Deportes",MLB Extra Innings 3
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/103
+
+#EXTINF:-1 tvg-id="MLBExtraInnings4.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 4" group-title="Deportes",MLB Extra Innings 4
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/102
+
+#EXTINF:-1 tvg-id="MLBExtraInnings5.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 5" group-title="Deportes",MLB Extra Innings 5
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/101
+
+#EXTINF:-1 tvg-id="MLBExtraInnings6.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 6" group-title="Deportes",MLB Extra Innings 6
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/100
+
+#EXTINF:-1 tvg-id="MLBExtraInnings7.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 7" group-title="Deportes",MLB Extra Innings 7
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/99
+
+#EXTINF:-1 tvg-id="MLBExtraInnings8.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 8" group-title="Deportes",MLB Extra Innings 8
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/98
+
+#EXTINF:-1 tvg-id="MLBExtraInnings9.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 9" group-title="Deportes",MLB Extra Innings 9
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/97
+
+#EXTINF:-1 tvg-id="MLBExtraInnings10.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 10" group-title="Deportes",MLB Extra Innings 10
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/96
+
+#EXTINF:-1 tvg-id="MLBExtraInnings11.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 11" group-title="Deportes",MLB Extra Innings 11
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/95
+
+#EXTINF:-1 tvg-id="MLBExtraInnings12.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 12" group-title="Deportes",MLB Extra Innings 12
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/94
+
+#EXTINF:-1 tvg-id="MLBExtraInnings13.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 13" group-title="Deportes",MLB Extra Innings 13
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/93
+
+#EXTINF:-1 tvg-id="MLBExtraInnings14.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 14" group-title="Deportes",MLB Extra Innings 14
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/92
