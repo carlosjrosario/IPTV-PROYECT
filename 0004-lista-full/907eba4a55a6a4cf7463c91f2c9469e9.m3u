@@ -2596,6 +2596,29 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-chno="10007" tvg-id="MiamiTVMexico.us" tvg-name="Miami TV Mexico" tvg-logo="https://i.imgur.com/ou5afOB.jpg" group-title="XXX",Miami TV Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 
+# - NFL Live
+
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-chno="640" tvg-logo="http://x.playerlatino.live/nfl.png" group-title="Deportes", NFL Network
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/53
+
+#EXTINF:-1 tvg-id="NFLSundayTicket.us" tvg-name="NFL Sunday Ticket" tvg-chno="640" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Deportes",NFL Sunday Ticket
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/52
+
+#EXTINF:-1 tvg-id="NFLSundayTicket.us" tvg-name="NFL Sunday Ticket 2" tvg-chno="640" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Deportes",NFL Sunday Ticket 2
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/51
+
+#EXTINF:-1 tvg-id="NFLSundayTicket.us" tvg-name="NFL Sunday Ticket 3" tvg-chno="640" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Deportes",NFL Sunday Ticket 3
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/50
+
+#EXTINF:-1 tvg-id="NFLSundayTicket.us" tvg-name="NFL Sunday Ticket 4" tvg-chno="640" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Deportes",NFL Sunday Ticket 4
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/49
+
+#EXTINF:-1 tvg-id="NFLSundayTicket.us" tvg-name="NFL Sunday Ticket 6" tvg-chno="640" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Deportes",NFL Sunday Ticket 6
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/47
+
+#EXTINF:-1 tvg-id="NFLSundayTicket.us" tvg-name="NFL Sunday Ticket 7" tvg-chno="640" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Deportes",NFL Sunday Ticket 7
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/46
+
 # - MLB live
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
