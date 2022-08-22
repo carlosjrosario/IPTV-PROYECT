@@ -63,26 +63,32 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playli
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-chno="591" tvg-id="WTVCanal20.ni" tvg-name="WTV Canal 20 (720p)" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="Películas",WTV Canal 20 (720p)
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 tvg-chno="645" tvg-id="DeporTV.ar" tvg-name="DeporTV (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/512px-Deportv.svg.png" group-title="Deportes",DeporTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-chno="610" tvg-id="DirecTVSportsArgentina.ar" tvg-name="DirecTV Sports (480p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DirecTV Sports (480p)
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-chno="645" tvg-id="BestCableSportsPeru.pe" tvg-name="Best Cable Sports Perú (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/7mBkLKV.png" group-title="Deportes",Best Cable Sports Perú (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 tvg-chno="646" tvg-id="ContactoDeportivo.pe" tvg-name="Contacto Deportivo (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Deportes",Contacto Deportivo (720p) [Not 24/7]
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 tvg-chno="647" tvg-id="DeporTV.ar" tvg-name="DeporTV (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/512px-Deportv.svg.png" group-title="Deportes",DeporTV (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
-#EXTINF:-1 tvg-chno="646" tvg-id="ElGarageTV.ar" tvg-name="El Garage TV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Deportes",El Garage TV (480p) [Not 24/7]
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1 tvg-chno="647" tvg-id="ESportsMax.ve" tvg-name="Esports Max [Not 24/7]" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Deportes",Esports Max [Not 24/7]
+#EXTINF:-1 tvg-chno="648" tvg-id="DTPlay.bo" tvg-name="DT Play (Deporte Total) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/GUjaFmE.png" group-title="Deportes",DT Play (Deporte Total) (720p) [Not 24/7]
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+#EXTINF:-1 tvg-chno="649" tvg-id="ESportsMax.ve" tvg-name="Esports Max [Not 24/7]" tvg-logo="https://i.imgur.com/mvNLE8f.png" group-title="Deportes",Esports Max [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="648" tvg-id="FightBoxHD.us" tvg-name="FightBox HD (480p)" tvg-logo="https://i.imgur.com/1pYH86k.png" group-title="Deportes",FightBox HD (480p)
+#EXTINF:-1 tvg-chno="650" tvg-id="FightBoxHD.us" tvg-name="FightBox HD (480p)" tvg-logo="https://i.imgur.com/1pYH86k.png" group-title="Deportes",FightBox HD (480p)
 http://ott-cdn.ucom.am/s86/index.m3u8
-#EXTINF:-1 tvg-chno="649" tvg-id="MotorSurMedia.py" tvg-name="Motor Sur Media" tvg-logo="https://iptv.com.py/wp-content/uploads/2022/04/motorsur2-300x94.jpg" group-title="Deportes",Motor Sur Media
+#EXTINF:-1 tvg-chno="651" tvg-id="MotorSurMedia.py" tvg-name="Motor Sur Media" tvg-logo="https://iptv.com.py/wp-content/uploads/2022/04/motorsur2-300x94.jpg" group-title="Deportes",Motor Sur Media
 https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8
-#EXTINF:-1 tvg-chno="650" tvg-id="SportsMax.jm" tvg-name="SportsMax (720p)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49559/s49559_h3_aa.png" group-title="Deportes",SportsMax (720p)
+#EXTINF:-1 tvg-chno="652" tvg-id="SportsMax.jm" tvg-name="SportsMax (720p)" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49559/s49559_h3_aa.png" group-title="Deportes",SportsMax (720p)
 http://cdn.tvmatic.net/sport.m3u8
-#EXTINF:-1 tvg-chno="651" tvg-id="TeletrakTV.cl" tvg-name="Teletrak (720p)" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Deportes",Teletrak (720p)
+#EXTINF:-1 tvg-chno="653" tvg-id="TeletrakTV.cl" tvg-name="Teletrak (720p)" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Deportes",Teletrak (720p)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="704" tvg-id="VPItv.ve" tvg-name="VPItv (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="Noticias",VPItv (480p) [Not 24/7]
+#EXTINF:-1 tvg-chno="704" tvg-id="NTN24.co" tvg-name="NTN24 (Nuestra Tele Noticias) (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NTN24_logo.svg/512px-NTN24_logo.svg.png" group-title="Noticias",NTN24 (Nuestra Tele Noticias) (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCEJs1fTF3KszRJGxJY14VrA/live
+#EXTINF:-1 tvg-chno="705" tvg-id="VPItv.ve" tvg-name="VPItv (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="Noticias",VPItv (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
 #EXTINF:-1 tvg-chno="722" tvg-id="PlatziTV.es" tvg-name="Platzi TV (1080p)" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184" group-title="Cultura",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-1 tvg-chno="723" tvg-id="TECTV.ar" tvg-name="TEC TV" tvg-logo="https://i.imgur.com/i1x1zzn.png" group-title="Cultura",TEC TV
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-chno="784" tvg-id="CincoTV.ar" tvg-name="Cinco TV (480p) [Not 24/7]" tvg-logo="https://i.pinimg.com/originals/2d/18/54/2d185451c3cc188c39add960b94c6844.png" group-title="Argentina",Cinco TV (480p) [Not 24/7]
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1 tvg-chno="785" tvg-id="GenTV.ar" tvg-name="GenTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/V9UTZ0D.png" group-title="Argentina",GenTV (720p) [Not 24/7]
@@ -91,8 +97,6 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8126/index.m3u8
 #EXTINF:-1 tvg-chno="787" tvg-id="TVBellaAsuncion.pe" tvg-name="Bella Asuncion TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/KTBFc6v.png" group-title="Peru",Bella Asuncion TV (720p) [Not 24/7]
 https://tvdatta.com:3602/stream/play.m3u8
-#EXTINF:-1 tvg-chno="788" tvg-id="CajamarcaTV.pe" tvg-name="Cajamarca TV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/3VkobI4.png" group-title="Peru",Cajamarca TV (480p) [Not 24/7]
-https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
 #EXTINF:-1 tvg-chno="789" tvg-id="Canal8Catacaos.pe" tvg-name="Canal 8 (Catacaos) (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="Peru",Canal 8 (Catacaos) (360p) [Not 24/7]
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 #EXTINF:-1 tvg-chno="790" tvg-id="CNCDigital.pe" tvg-name="CNC Digital (Iquitos) (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/4fSkmoA.png" group-title="Peru",CNC Digital (Iquitos) (480p) [Not 24/7]
