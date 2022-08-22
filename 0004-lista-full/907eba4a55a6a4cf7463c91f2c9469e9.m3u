@@ -76,7 +76,7 @@ https://v3.playerlatino.live/stream/m3u8/189
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/33
 
-#EXTINF:-1 tvg-id="InvestigationDiscoveryPanregional.us" tvg-name="Investigation Discovery Panregional" tvg-chno="217" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Cultura", Investigation Discovery Panregional
+#EXTINF:-1 tvg-id="InvestigationDiscoveryPanregional.us" tvg-name="Investigation Discovery Panregional" tvg-chno="217" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento", Investigation Discovery Panregional
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/68
 
@@ -92,7 +92,7 @@ https://v3.playerlatino.live/stream/m3u8/94
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/152
 
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthPanregional.us" tvg-name="Discovery Home & Health Panregional" tvg-chno="222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="Cultura", Discovery Home & Health Panregional
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthPanregional.us" tvg-name="Discovery Home & Health Panregional" tvg-chno="222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="Entretenimiento", Discovery Home & Health Panregional
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/24
 
@@ -128,7 +128,7 @@ https://v3.playerlatino.live/stream/m3u8/413
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/290
 
-#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-name="Caracol Televisión" tvg-chno="232" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Colombia", Caracol Televisión
+#EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-name="Caracol Televisión" tvg-chno="232" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Entretenimiento", Caracol Televisión
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/391
 
