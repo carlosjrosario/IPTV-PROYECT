@@ -26,22 +26,22 @@ https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w2127623
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="246" tvg-logo="https://images.fanart.tv/fanart/spanglish-55f68a827f86c.png" tvg-name="Spanglish"  group-title="Entretenimiento",Spanglish
 https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/XKQZUW4HJ58IMCQS2AEA/hls3/now_-1m_15s/m.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-chno="536" tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" tvg-name="Cine Marvel"  group-title="Películas",Cine Marvel
+#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="536" tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" tvg-name="Cine Marvel"  group-title="Películas",Cine Marvel
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/54.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-chno="540" tvg-logo="Logo N/A" tvg-name="Cine Disney Live Action"  group-title="Películas",Cine Disney Live Action
+#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="540" tvg-logo="Logo N/A" tvg-name="Cine Disney Live Action"  group-title="Películas",Cine Disney Live Action
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/49.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-chno="541" tvg-logo="Logo N/A" tvg-name="Cine  Disney Pixar #1"  group-title="Películas",Cine  Disney Pixar #1
+#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="541" tvg-logo="Logo N/A" tvg-name="Cine  Disney Pixar #1"  group-title="Películas",Cine  Disney Pixar #1
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/50.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-chno="541" tvg-logo="Logo N/A" tvg-name="Cine Disney Pixar #2"  group-title="Películas",Cine Disney Pixar #2
+#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="541" tvg-logo="Logo N/A" tvg-name="Cine Disney Pixar #2"  group-title="Películas",Cine Disney Pixar #2
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/51.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-chno="542" tvg-logo="Logo N/A" tvg-name="Cine Lego Movies"  group-title="Películas",Cine Lego Movies
+#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="542" tvg-logo="Logo N/A" tvg-name="Cine Lego Movies"  group-title="Películas",Cine Lego Movies
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/48.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-chno="543" tvg-logo="Logo N/A" tvg-name="Cine Dreamworks #1"  group-title="Películas",Cine Dreamworks #1
+#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="543" tvg-logo="Logo N/A" tvg-name="Cine Dreamworks #1"  group-title="Películas",Cine Dreamworks #1
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/52.m3u8
 
 #EXTINF:-1 tvg-id="CinemaPlus.co" tvg-chno="576" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/512px-Cinema%2B_logo.svg.png" tvg-name="Cinema +"  group-title="Películas",Cinema +
@@ -153,100 +153,100 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/92
 
 # - More Sports
 
-#EXTINF:-1, tvg-id="DAZNF1.es" tvg-chno="641" tvg-logo="https://i.imgur.com/1dqV4R2.png" tvg-name="DAZN F1"  group-title="Deportes",DAZN F1
+#EXTINF:-1 tvg-id="DAZNF1.es" tvg-chno="659" tvg-logo="https://i.imgur.com/1dqV4R2.png" tvg-name="DAZN F1"  group-title="Deportes",DAZN F1
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/72.m3u8
 
-#EXTINF:-1, tvg-id="SkySportsF1.uk" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png" tvg-name="Sky Sports F1"  group-title="Deportes",Sky Sports F1
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-chno="660" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png" tvg-name="Sky Sports F1"  group-title="Deportes",Sky Sports F1
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/33.m3u8
 
-#EXTINF:-1, tvg-id="SkySportsPremierLeague.uk" tvg-chno="641" tvg-logo="https://i.imgur.com/ChWdcRC.png" tvg-name="Sky Sports Premier League"  group-title="Deportes",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-chno="621" tvg-logo="https://i.imgur.com/ChWdcRC.png" tvg-name="Sky Sports Premier League"  group-title="Deportes",Sky Sports Premier League
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/32.m3u8
 
-#EXTINF:-1, tvg-id="BTSport1.uk" tvg-chno="641" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" tvg-name="BT Sport 1"  group-title="Deportes",BT Sport 1
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-chno="662" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" tvg-name="BT Sport 1"  group-title="Deportes",BT Sport 1
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/87.m3u8
 
-#EXTINF:-1, tvg-id="Eurosport1.fr" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png" tvg-name="Eurosport 1"  group-title="Deportes",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-chno="663" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png" tvg-name="Eurosport 1"  group-title="Deportes",Eurosport 1
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/95.m3u8
 
-#EXTINF:-1, tvg-id="Eurosport2.fr" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/512px-Eurosport_2_Logo_2015.svg.png" tvg-name="Eurosport 2"  group-title="Deportes",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-chno="664" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/512px-Eurosport_2_Logo_2015.svg.png" tvg-name="Eurosport 2"  group-title="Deportes",Eurosport 2
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/96.m3u8
 
-#EXTINF:-1, tvg-id="BallySportsArizona.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Bally_Sports_Arizona_logo.png" tvg-name="Bally Sports Arizona"  group-title="Deportes",Bally Sports Arizona
+#EXTINF:-1 tvg-id="BallySportsArizona.us" tvg-chno="665" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Bally_Sports_Arizona_logo.png" tvg-name="Bally Sports Arizona"  group-title="Deportes",Bally Sports Arizona
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/78.m3u8
 
-#EXTINF:-1, tvg-id="BallySportsDetroit.us" tvg-chno="641" tvg-logo="https://i.imgur.com/gVpWNc3.png" tvg-name="Bally Sports Detroit"  group-title="Deportes",Bally Sports Detroit
+#EXTINF:-1 tvg-id="BallySportsDetroit.us" tvg-chno="666" tvg-logo="https://i.imgur.com/gVpWNc3.png" tvg-name="Bally Sports Detroit"  group-title="Deportes",Bally Sports Detroit
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/79.m3u8
 
-#EXTINF:-1, tvg-id="BallySportsFlorida.us" tvg-chno="641" tvg-logo="https://i.imgur.com/V1XSgDr.png" tvg-name="Bally Sports Florida"  group-title="Deportes",Bally Sports Florida
+#EXTINF:-1 tvg-id="BallySportsFlorida.us" tvg-chno="667" tvg-logo="https://i.imgur.com/V1XSgDr.png" tvg-name="Bally Sports Florida"  group-title="Deportes",Bally Sports Florida
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/80.m3u8
 
-#EXTINF:-1, tvg-id="BallySportsSanDiego.us" tvg-chno="641" tvg-logo="https://i.imgur.com/zQ2mTxA.png" tvg-name="Bally Sports San Diego"  group-title="Deportes",Bally Sports San Diego
+#EXTINF:-1 tvg-id="BallySportsSanDiego.us" tvg-chno="668" tvg-logo="https://i.imgur.com/zQ2mTxA.png" tvg-name="Bally Sports San Diego"  group-title="Deportes",Bally Sports San Diego
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/81.m3u8
 
-#EXTINF:-1, tvg-id="BallySportsOhio.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Bally_Sports_Ohio_logo.svg/512px-Bally_Sports_Ohio_logo.svg.png" tvg-name="Bally Sports Ohio"  group-title="Deportes",Bally Sports Ohio
+#EXTINF:-1 tvg-id="BallySportsOhio.us" tvg-chno="669" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Bally_Sports_Ohio_logo.svg/512px-Bally_Sports_Ohio_logo.svg.png" tvg-name="Bally Sports Ohio"  group-title="Deportes",Bally Sports Ohio
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/82.m3u8
 
-#EXTINF:-1, tvg-id="BallySportsSoutheast.us" tvg-chno="641" tvg-logo="https://i.imgur.com/u1aehLm.png" tvg-name="Bally Sports Southeast"  group-title="Deportes",Bally Sports Southeast
+#EXTINF:-1 tvg-id="BallySportsSoutheast.us" tvg-chno="670" tvg-logo="https://i.imgur.com/u1aehLm.png" tvg-name="Bally Sports Southeast"  group-title="Deportes",Bally Sports Southeast
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/83.m3u8
 
-#EXTINF:-1, tvg-id="BallySportsSouthwest.us" tvg-chno="641" tvg-logo="https://i.imgur.com/zsQOT6O.png" tvg-name="Bally Sports Southwest"  group-title="Deportes",Bally Sports Southwest
+#EXTINF:-1 tvg-id="BallySportsSouthwest.us" tvg-chno="671" tvg-logo="https://i.imgur.com/zsQOT6O.png" tvg-name="Bally Sports Southwest"  group-title="Deportes",Bally Sports Southwest
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/84.m3u8
 
-#EXTINF:-1, tvg-id="BallySportsMidwest.us" tvg-chno="641" tvg-logo="https://i.imgur.com/0k1Y11G.png" tvg-name="Bally Sports Midwest"  group-title="Deportes",Bally Sports Midwest
+#EXTINF:-1 tvg-id="BallySportsMidwest.us" tvg-chno="672" tvg-logo="https://i.imgur.com/0k1Y11G.png" tvg-name="Bally Sports Midwest"  group-title="Deportes",Bally Sports Midwest
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/85.m3u8
 
-#EXTINF:-1, tvg-id="BallySportsWest.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bally_sports_west_logo.svg/512px-Bally_sports_west_logo.svg.png" tvg-name="Bally Sports West"  group-title="Deportes",Bally Sports West
+#EXTINF:-1 tvg-id="BallySportsWest.us" tvg-chno="673" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bally_sports_west_logo.svg/512px-Bally_sports_west_logo.svg.png" tvg-name="Bally Sports West"  group-title="Deportes",Bally Sports West
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/359.m3u8
 
-#EXTINF:-1, tvg-id="ATTSportsNetPittsburgh.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/512px-Logo_for_AT%26T_SportsNet.svg.png" tvg-name="ATT SportsNet Pittsburgh"  group-title="Deportes",ATT SportsNet Pittsburgh
+#EXTINF:-1 tvg-id="ATTSportsNetPittsburgh.us" tvg-chno="674" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Logo_for_AT%26T_SportsNet.svg/512px-Logo_for_AT%26T_SportsNet.svg.png" tvg-name="ATT SportsNet Pittsburgh"  group-title="Deportes",ATT SportsNet Pittsburgh
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/423.m3u8
 
-#EXTINF:-1, tvg-id="ACCNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/512px-ACC_Network_ESPN_logo.svg.png" tvg-name=" ACC NETWORK"  group-title="Deportes", ACC NETWORK
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-chno="675" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/512px-ACC_Network_ESPN_logo.svg.png" tvg-name=" ACC NETWORK"  group-title="Deportes", ACC NETWORK
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/74.m3u8
 
-#EXTINF:-1, tvg-id="ElevenSportsUSA.us" tvg-chno="641" tvg-logo="https://i.imgur.com/1AcP6IA.png" tvg-name="Eleven Sports USA"  group-title="Deportes",Eleven Sports USA
+#EXTINF:-1 tvg-id="ElevenSportsUSA.us" tvg-chno="676" tvg-logo="https://i.imgur.com/1AcP6IA.png" tvg-name="Eleven Sports USA"  group-title="Deportes",Eleven Sports USA
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/365.m3u8
 
-#EXTINF:-1, tvg-id="ESPNews.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" tvg-name="ESPNews"  group-title="Deportes",ESPNews
+#EXTINF:-1 tvg-id="ESPNews.us" tvg-chno="677" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" tvg-name="ESPNews"  group-title="Deportes",ESPNews
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/366.m3u8
 
-#EXTINF:-1, tvg-id="FoxSports2.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png" tvg-name="Fox Sports 2"  group-title="Deportes",Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-chno="678" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png" tvg-name="Fox Sports 2"  group-title="Deportes",Fox Sports 2
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/362.m3u8
 
-#EXTINF:-1, tvg-id="LonghornNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/512px-Longhorn_Network_logo.svg.png" tvg-name="Longhorn Network"  group-title="Deportes",Longhorn Network
+#EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-chno="679" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/512px-Longhorn_Network_logo.svg.png" tvg-name="Longhorn Network"  group-title="Deportes",Longhorn Network
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/376.m3u8
 
-#EXTINF:-1, tvg-id="MSG.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/MSG_Network_logo.png" tvg-name="MSG"  group-title="Deportes",MSG
+#EXTINF:-1 tvg-id="MSG.us" tvg-chno="680" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/MSG_Network_logo.png" tvg-name="MSG"  group-title="Deportes",MSG
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/363.m3u8
 
-#EXTINF:-1, tvg-id="NBCSportsBayArea.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/512px-NBC_Sports_Bay_Area.png" tvg-name="NBC Sports Bay Area"  group-title="Deportes",NBC Sports Bay Area
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-chno="681" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/512px-NBC_Sports_Bay_Area.png" tvg-name="NBC Sports Bay Area"  group-title="Deportes",NBC Sports Bay Area
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/351.m3u8
 
-#EXTINF:-1, tvg-id="NESNPlus.us" tvg-chno="641" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/nesn-plus.png" tvg-name="NESN Plus"  group-title="Deportes",NESN Plus
+#EXTINF:-1 tvg-id="NESNPlus.us" tvg-chno="682" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/nesn-plus.png" tvg-name="NESN Plus"  group-title="Deportes",NESN Plus
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/380.m3u8
 
-#EXTINF:-1, tvg-id="Pac12Washington.us" tvg-chno="641" tvg-logo="https://i.imgur.com/1RZa8ok.png" tvg-name="Pac 12 Washington"  group-title="Deportes",Pac 12 Washington
+#EXTINF:-1 tvg-id="Pac12Washington.us" tvg-chno="683" tvg-logo="https://i.imgur.com/1RZa8ok.png" tvg-name="Pac 12 Washington"  group-title="Deportes",Pac 12 Washington
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/352.m3u8
 
-#EXTINF:-1, tvg-id="Pac12Mountain.us" tvg-chno="641" tvg-logo="https://i.imgur.com/yj72zdE.png" tvg-name="PAC 12 Mountain"  group-title="Deportes",PAC 12 Mountain
+#EXTINF:-1 tvg-id="Pac12Mountain.us" tvg-chno="684" tvg-logo="https://i.imgur.com/yj72zdE.png" tvg-name="PAC 12 Mountain"  group-title="Deportes",PAC 12 Mountain
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/353.m3u8
 
-#EXTINF:-1, tvg-id="Pac12LosAngeles.us" tvg-chno="641" tvg-logo="https://i.imgur.com/fkwcPzy.png" tvg-name="PAC 12 Los Angeles"  group-title="Deportes",PAC 12 Los Angeles
+#EXTINF:-1 tvg-id="Pac12LosAngeles.us" tvg-chno="685" tvg-logo="https://i.imgur.com/fkwcPzy.png" tvg-name="PAC 12 Los Angeles"  group-title="Deportes",PAC 12 Los Angeles
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/354.m3u8
 
-#EXTINF:-1, tvg-id="Pac12BayArea.us" tvg-chno="641" tvg-logo="https://i.imgur.com/ZF5478l.png" tvg-name="PAC 12 Bay Area"  group-title="Deportes",PAC 12 Bay Area
+#EXTINF:-1 tvg-id="Pac12BayArea.us" tvg-chno="686" tvg-logo="https://i.imgur.com/ZF5478l.png" tvg-name="PAC 12 Bay Area"  group-title="Deportes",PAC 12 Bay Area
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/355.m3u8
 
-#EXTINF:-1, tvg-id="RideTV.us" tvg-chno="641" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/gacliving.png" tvg-name="RideTV"  group-title="Deportes",RideTV
+#EXTINF:-1 tvg-id="RideTV.us" tvg-chno="687" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/gacliving.png" tvg-name="RideTV"  group-title="Deportes",RideTV
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/357.m3u8
 
-#EXTINF:-1, tvg-id="SportsNetNewYork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png" tvg-name="SportsNet New York"  group-title="Deportes",SportsNet New York
+#EXTINF:-1 tvg-id="SportsNetNewYork.us" tvg-chno="688" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png" tvg-name="SportsNet New York"  group-title="Deportes",SportsNet New York
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/360.m3u8
 
-#EXTINF:-1, tvg-id="WWENetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/512px-WWE_Network_logo.svg.png" tvg-name="WWE Network"  group-title="Deportes",WWE Network
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-chno="689" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/512px-WWE_Network_logo.svg.png" tvg-name="WWE Network"  group-title="Deportes",WWE Network
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/86.m3u8
 
-#EXTINF:-1, tvg-id="YesNetwork.us" tvg-chno="641" tvg-logo="https://i.imgur.com/z4GEA8P.png" tvg-name="Yes Network"  group-title="Deportes",Yes Network
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-chno="690" tvg-logo="https://i.imgur.com/z4GEA8P.png" tvg-name="Yes Network"  group-title="Deportes",Yes Network
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/364.m3u8
 
 # - 24/7
@@ -254,5 +254,5 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/364.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="849" tvg-logo="https://i.ytimg.com/vi/5fpLbWc6484/sddefault.jpg" tvg-name="Los Simpson 24/7"  group-title="24/7",Los Simpson 24/7
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w2142678180.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-chno="880" tvg-logo="Logo N/A" tvg-name="La casa de Mickey Mouse 24/7"  group-title="24/7",La casa de Mickey Mouse 24/7
+#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="880" tvg-logo="Logo N/A" tvg-name="La casa de Mickey Mouse 24/7"  group-title="24/7",La casa de Mickey Mouse 24/7
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/40.m3u8
