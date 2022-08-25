@@ -1,4 +1,6 @@
-﻿#EXTM3U
+﻿#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/gt/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/bo/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cr/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cu/tvcubana.icrt.cu.epg.xml,https://iptv-org.github.io/epg/guides/do/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ec/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/sv/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/sv/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/gt/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/gt/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/hn/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/hn/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/mx/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ni/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pa/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/py/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/us/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/us-en/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/us-es/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/uy/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ve/gatotv.com.epg.xml"
+
+# - Lista Phocalltv
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="239" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Familia"  group-title="Entretenimiento",VIX Familia
 https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
@@ -36,14 +38,11 @@ https://d2spdq8rliqjem.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="579" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Cine Club"  group-title="Películas",VIX Cine Club
 https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="599" tvg-logo="https://sergiojamon.com/wp-content/uploads/2022/04/todos-los-originales-tubi-que-veremos-gratis.png" tvg-name="Tubi Original"  group-title="Movies",Tubi Original
-https://csm-e-cetubiausw2live204-09870eb60fc6631c0.csm.tubi.video/csm/live/499780459/u002Ftubiprd01,Tubi-Originals.m3u8
-
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-chno="603" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" tvg-name="Fox Deportes"  group-title="Deportes",Fox Deportes
 https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/live/443103226/u002Ftubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
-https://tve-live.mlb.com/1660961903_1ec3cbeb0cdb36a18274c60084be4008de3e933c4796e9f3bbba9e662920ae74/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
+https://tve-live.mlb.com/1661400926_fa41592dbaef42e5806fc71ae8c329ef0b3e1b5ba108fc25fe9b441576cae843/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-chno="642" tvg-logo="https://i.imgur.com/vcs9ELP.png" tvg-name="Real Madrid TV"  group-title="Deportes",Real Madrid TV
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
@@ -56,3 +55,81 @@ https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="849" tvg-logo="https://i.ytimg.com/vi/5fpLbWc6484/sddefault.jpg" tvg-name="Los Simpson 24/7"  group-title="24/7",Los Simpson 24/7
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w2142678180.m3u8
+
+# - Movies
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="599" tvg-logo="https://sergiojamon.com/wp-content/uploads/2022/04/todos-los-originales-tubi-que-veremos-gratis.png" tvg-name="Tubi Original"  group-title="Movies",Tubi Original
+https://csm-e-cetubiausw2live204-09870eb60fc6631c0.csm.tubi.video/csm/live/499780459/u002Ftubiprd01,Tubi-Originals.m3u8
+
+# - NFL Live
+
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-chno="640" tvg-logo="http://x.playerlatino.live/nfl.png" group-title="Deportes", NFL Network
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/53
+
+#EXTINF:-1 tvg-id="NFLSundayTicket.us" tvg-name="NFL Sunday Ticket" tvg-chno="640" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Deportes",NFL Sunday Ticket
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/52
+
+#EXTINF:-1 tvg-id="NFLSundayTicket.us" tvg-name="NFL Sunday Ticket 2" tvg-chno="640" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Deportes",NFL Sunday Ticket 2
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/51
+
+#EXTINF:-1 tvg-id="NFLSundayTicket.us" tvg-name="NFL Sunday Ticket 3" tvg-chno="640" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Deportes",NFL Sunday Ticket 3
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/50
+
+#EXTINF:-1 tvg-id="NFLSundayTicket.us" tvg-name="NFL Sunday Ticket 4" tvg-chno="640" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Deportes",NFL Sunday Ticket 4
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/49
+
+#EXTINF:-1 tvg-id="NFLSundayTicket.us" tvg-name="NFL Sunday Ticket 6" tvg-chno="640" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Deportes",NFL Sunday Ticket 6
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/47
+
+#EXTINF:-1 tvg-id="NFLSundayTicket.us" tvg-name="NFL Sunday Ticket 7" tvg-chno="640" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Deportes",NFL Sunday Ticket 7
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/46
+
+# - MLB live
+
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/106
+
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/107
+
+#EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 01" group-title="Deportes",MLB Extra Innings 01
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/105
+
+#EXTINF:-1 tvg-id="MLBExtraInnings2.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 02" group-title="Deportes",MLB Extra Innings 02
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/104
+
+#EXTINF:-1 tvg-id="MLBExtraInnings3.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 03" group-title="Deportes",MLB Extra Innings 03
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/103
+
+#EXTINF:-1 tvg-id="MLBExtraInnings4.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 04" group-title="Deportes",MLB Extra Innings 04
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/102
+
+#EXTINF:-1 tvg-id="MLBExtraInnings5.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 05" group-title="Deportes",MLB Extra Innings 05
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/101
+
+#EXTINF:-1 tvg-id="MLBExtraInnings6.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 06" group-title="Deportes",MLB Extra Innings 06
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/100
+
+#EXTINF:-1 tvg-id="MLBExtraInnings7.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 07" group-title="Deportes",MLB Extra Innings 07
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/99
+
+#EXTINF:-1 tvg-id="MLBExtraInnings8.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 08" group-title="Deportes",MLB Extra Innings 08
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/98
+
+#EXTINF:-1 tvg-id="MLBExtraInnings9.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 09" group-title="Deportes",MLB Extra Innings 09
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/97
+
+#EXTINF:-1 tvg-id="MLBExtraInnings10.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 10" group-title="Deportes",MLB Extra Innings 10
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/96
+
+#EXTINF:-1 tvg-id="MLBExtraInnings11.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 11" group-title="Deportes",MLB Extra Innings 11
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/95
+
+#EXTINF:-1 tvg-id="MLBExtraInnings12.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 12" group-title="Deportes",MLB Extra Innings 12
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/94
+
+#EXTINF:-1 tvg-id="MLBExtraInnings13.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 13" group-title="Deportes",MLB Extra Innings 13
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/93
+
+#EXTINF:-1 tvg-id="MLBExtraInnings14.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 14" group-title="Deportes",MLB Extra Innings 14
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/92
