@@ -192,7 +192,7 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/83.m3u8
 #EXTINF:-1, tvg-id="BallySportsSouthwest.us" tvg-chno="641" tvg-logo="https://i.imgur.com/zsQOT6O.png" tvg-name="Bally Sports Southwest"  group-title="Deportes",Bally Sports Southwest
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/84.m3u8
 
-#EXTINF:-1, tvg-id="BallySportsMidwest.us" tvg-chno="641" tvg-logo="Logo N/A" tvg-name="Bally Sports Midwest"  group-title="Deportes",Bally Sports Midwest
+#EXTINF:-1, tvg-id="BallySportsMidwest.us" tvg-chno="641" tvg-logo="https://i.imgur.com/0k1Y11G.png" tvg-name="Bally Sports Midwest"  group-title="Deportes",Bally Sports Midwest
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/85.m3u8
 
 #EXTINF:-1, tvg-id="BallySportsWest.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bally_sports_west_logo.svg/512px-Bally_sports_west_logo.svg.png" tvg-name="Bally Sports West"  group-title="Deportes",Bally Sports West
@@ -210,9 +210,6 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/365.m3u8
 #EXTINF:-1, tvg-id="ESPNews.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" tvg-name="ESPNews"  group-title="Deportes",ESPNews
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/366.m3u8
 
-#EXTINF:-1, tvg-id="Pac12BayArea.us" tvg-chno="641" tvg-logo="Logo N/A" tvg-name="PAC 12 Bay Area"  group-title="Deportes",PAC 12 Bay Area
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/355.m3u8
-
 #EXTINF:-1, tvg-id="FoxSports2.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/512px-FS2_logo_2015.svg.png" tvg-name="Fox Sports 2"  group-title="Deportes",Fox Sports 2
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/362.m3u8
 
@@ -228,14 +225,17 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/351.m3u8
 #EXTINF:-1, tvg-id="NESNPlus.us" tvg-chno="641" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/nesn-plus.png" tvg-name="NESN Plus"  group-title="Deportes",NESN Plus
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/380.m3u8
 
-#EXTINF:-1, tvg-id="Pac12LosAngeles.us" tvg-chno="641" tvg-logo="https://i.imgur.com/fkwcPzy.png" tvg-name="PAC 12 Los Angeles"  group-title="Deportes",PAC 12 Los Angeles
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/354.m3u8
+#EXTINF:-1, tvg-id="Pac12Washington.us" tvg-chno="641" tvg-logo="https://i.imgur.com/1RZa8ok.png" tvg-name="Pac 12 Washington"  group-title="Deportes",Pac 12 Washington
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/352.m3u8
 
 #EXTINF:-1, tvg-id="Pac12Mountain.us" tvg-chno="641" tvg-logo="https://i.imgur.com/yj72zdE.png" tvg-name="PAC 12 Mountain"  group-title="Deportes",PAC 12 Mountain
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/353.m3u8
 
-#EXTINF:-1, tvg-id="Pac12Washington.us" tvg-chno="641" tvg-logo="https://i.imgur.com/1RZa8ok.png" tvg-name="Pac 12 Washington"  group-title="Deportes",Pac 12 Washington
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/352.m3u8
+#EXTINF:-1, tvg-id="Pac12LosAngeles.us" tvg-chno="641" tvg-logo="https://i.imgur.com/fkwcPzy.png" tvg-name="PAC 12 Los Angeles"  group-title="Deportes",PAC 12 Los Angeles
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/354.m3u8
+
+#EXTINF:-1, tvg-id="Pac12BayArea.us" tvg-chno="641" tvg-logo="https://i.imgur.com/ZF5478l.png" tvg-name="PAC 12 Bay Area"  group-title="Deportes",PAC 12 Bay Area
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/355.m3u8
 
 #EXTINF:-1, tvg-id="RideTV.us" tvg-chno="641" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/gacliving.png" tvg-name="RideTV"  group-title="Deportes",RideTV
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/357.m3u8
