@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 # - Lista Phocalltv
 
@@ -14,17 +14,24 @@ https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Nuestra_Visi%C3%B3n_Logo.png/512px-Nuestra_Visi%C3%B3n_Logo.png" tvg-name="Nuestra Visión"  group-title="Entretenimiento",Nuestra Visión
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master_3.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="243" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Crímenes"  group-title="Entretenimiento",FilmRise Crímenes
-https://d2spdq8rliqjem.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/7cff806c-2183-4fba-af96-7a84070a4c6e/4.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="244" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Forenses"  group-title="Entretenimiento",FilmRise Forenses
-https://d2spdq8rliqjem.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/7335e715-22e0-4bd2-961c-25a0b851e596/4.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="245" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inti-tv-ec.png" tvg-name="INTI"  group-title="Entretenimiento",INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w2127623327.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="246" tvg-logo="https://images.fanart.tv/fanart/spanglish-55f68a827f86c.png" tvg-name="Spanglish"  group-title="Entretenimiento",Spanglish
 https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/XKQZUW4HJ58IMCQS2AEA/hls3/now_-1m_15s/m.m3u8
+
+# - Musica
+
+#EXTINF:-1 tvg-id="SluhaybyRock.by" tvg-chno="278" tvg-logo="https://sluhay.by/assets/logo_rock.png" group-title="Música",Sluhay.by Rock (720p) [Not 24/7]
+https://sluhay.by/live/Ch114pub/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="279" tvg-logo="" group-title="Música",Metal TV (720p) [Not 24/7]
+https://v2.catcast.tv/content/33816/index.m3u8
+
+#EXTINF:-1 tvg-id="RocklandTV.de" tvg-chno="280" tvg-logo="https://i.imgur.com/vIMkVo6.png" group-title="Música",Rockland TV (720p) [Not 24/7]
+http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
+
+# - Peliculas
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-chno="536" tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" tvg-name="Cine Marvel"  group-title="Películas",Cine Marvel
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/54.m3u8
@@ -47,12 +54,6 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/52.m3u8
 #EXTINF:-1 tvg-id="CinemaPlus.co" tvg-chno="576" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/512px-Cinema%2B_logo.svg.png" tvg-name="Cinema +"  group-title="Películas",Cinema +
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w558961513.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="577" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Películas"  group-title="Películas",FilmRise Películas
-https://d2spdq8rliqjem.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/7a66408e-c6e3-478e-bb0f-1e551da27e3d/4.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="578" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Series"  group-title="Películas",FilmRise Series
-https://d2spdq8rliqjem.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/c87cdfc3-ba72-470d-9073-67d5a16af1b4/4.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="579" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Cine Club"  group-title="Películas",VIX Cine Club
 https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 
@@ -68,9 +69,6 @@ https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/live/44310
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-chno="642" tvg-logo="https://i.imgur.com/vcs9ELP.png" tvg-name="Real Madrid TV"  group-title="Deportes",Real Madrid TV
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
-
-#EXTINF:-1 tvg-id="LFCTV.uk" tvg-chno="643" tvg-logo="https://i.imgur.com/hWdxcRX.png" tvg-name="LFCTV"  group-title="Deportes",LFCTV
-https://streamamg-liver01.akamaized.net/hls/live/2039999-b/int/int_3/hdntl=exp=1660681754~acl=%2f*~data=hdntl~hmac=449d69933804285cc49e94aea8eea70d3bc669ebbe6186121e659733964b9a25/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="644" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Liga MX"  group-title="Deportes",VIX Liga MX
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
@@ -101,7 +99,7 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/46
 # - MLB live
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
-https://tve-live.mlb.com/1661459748_720d64d4f53f0c3e4747c13127e79473b578ef994faa9aeccf93f175916be108/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
+https://tve-live.mlb.com/1661547257_3dfa6d9258a91cff87b0f6c4ac1004c93e5347945568481953b2196fe521c294/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/106
@@ -159,7 +157,7 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/72.m3u8
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-chno="660" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png" tvg-name="Sky Sports F1"  group-title="Deportes",Sky Sports F1
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/33.m3u8
 
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-chno="621" tvg-logo="https://i.imgur.com/ChWdcRC.png" tvg-name="Sky Sports Premier League"  group-title="Deportes",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-chno="661" tvg-logo="https://i.imgur.com/ChWdcRC.png" tvg-name="Sky Sports Premier League"  group-title="Deportes",Sky Sports Premier League
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/32.m3u8
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-chno="662" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bt-sport-1-uk.png" tvg-name="BT Sport 1"  group-title="Deportes",BT Sport 1
