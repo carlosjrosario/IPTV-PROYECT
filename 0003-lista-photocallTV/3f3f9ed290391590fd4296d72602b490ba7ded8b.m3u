@@ -60,7 +60,7 @@ https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://w
 #EXTINF:-1 tvg-id="" tvg-chno="308" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-BjaUpLhDYndTrxIpb6uxCnhXIjEBgdnoEjX4h=s88-c-k-c0x00ffffff-no-rj" tvg-name="PJ Masks Español - Canal Oficial" group-title="Infantil",PJ Masks Español - Canal Oficial
 https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=BIiaoTQZX3I
 
-#EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-BjaUpLhDYndTrxIpb6uxCnhXIjEBgdnoEjX4h=s88-c-k-c0x00ffffff-no-rj" tvg-name="Peppa Pig Español Latino - Canal Oficial" group-title="Infantil",Peppa Pig Español Latino - Canal Oficial
+#EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9rX6ysvDNMMfgpH6D-jRPqvQNM-d2AsYOkVSeZtw=s88-c-k-c0x00ffffff-no-rj" tvg-name="Peppa Pig Español Latino - Canal Oficial" group-title="Infantil",Peppa Pig Español Latino - Canal Oficial
 https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=hl_nACnH42w
 
 #EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/XV6oFWOJ0kiqTAzkEmoq8kjJnwnx8EwI3oIgDaOOPJSuNXxVg1nR0meE0ZFRobzyGbCL-GYy=s88-c-k-c0x00ffffff-no-rj" tvg-name="Power Rangers para Niños - Canal Oficial" group-title="Infantil",Power Rangers para Niños - Canal Oficial
@@ -301,5 +301,5 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/40.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="10008" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_14FgUS4wAw7NhDY5HtvMjgmIDAw9FEzMeKrw8Rg=s88-c-k-c0x00ffffff-no-rj" tvg-name="Poolside Playlist" group-title="XXX",Poolside Playlist
 https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=M-fvBhcLOVw
 
-#EXTINF:-1 tvg-id="" tvg-chno="10009" tvg-logo="https://yt3.ggpht.com/EI-ho_L47OV1LJPRmIFx6VqQ3I6gPW_iyi6EK9rcQ_UUXlCcojkwyFiGF64nKWt2eqMMYtALTQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="ARD Mixes" group-title="Infantil",ARD Mixes
+#EXTINF:-1 tvg-id="" tvg-chno="10009" tvg-logo="https://yt3.ggpht.com/EI-ho_L47OV1LJPRmIFx6VqQ3I6gPW_iyi6EK9rcQ_UUXlCcojkwyFiGF64nKWt2eqMMYtALTQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="ARD Mixes" group-title="XXX",ARD Mixes
 https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=T4DB4URxW9I
