@@ -64,7 +64,7 @@ https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://w
 https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=hl_nACnH42w
 
 #EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/XV6oFWOJ0kiqTAzkEmoq8kjJnwnx8EwI3oIgDaOOPJSuNXxVg1nR0meE0ZFRobzyGbCL-GYy=s88-c-k-c0x00ffffff-no-rj" tvg-name="Power Rangers para Niños - Canal Oficial" group-title="Infantil",Power Rangers para Niños - Canal Oficial
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=jYK8H08mn2I
+https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/c/PowerRangersparaNi%C3%B1osCanalOficial/live
 
 # - Peliculas
 
@@ -113,6 +113,15 @@ https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://w
 
 #EXTINF:-1 tvg-id="" tvg-chno="691" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9EkC963336t3nfkw97IXEXRr_KGyDmWmDG4x0d=s88-c-k-c0x00ffffff-no-rj" tvg-name="América Sports" group-title="Deportes",América Sports
 https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=B9hwOM6jAbs
+
+#EXTINF:-1 tvg-id="" tvg-chno="692" tvg-logo="https://yt3.ggpht.com/cwVMwEtt8ub-kUhQNpEV3z0-09N7ZRMO4hUoiAW6BFFmgtZ4tNztRdEIW0W8QxDaicVSnHi2=s88-c-k-c0x00ffffff-no-rj" tvg-name="SimpleTV Live" group-title="Deportes",SimpleTV Live
+https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/channel/UCxkKabqEsh2Bu2TlZzngZ0w/live
+
+#EXTINF:-1 tvg-id="" tvg-chno="962" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu88rOXloTpIT-jf_oL7joA9vUHseWYF1cAirO8C=s88-c-k-c0x00ffffff-no-rj" tvg-name="SPB Live" group-title="Deportes",SPB Live
+https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/channel/UCWG5msoxUwp41BgWxT0FWJw/live
+
+#EXTINF:-1 tvg-id="" tvg-chno="962" tvg-logo="https://yt3.ggpht.com/cwVMwEtt8ub-kUhQNpEV3z0-09N7ZRMO4hUoiAW6BFFmgtZ4tNztRdEIW0W8QxDaicVSnHi2=s88-c-k-c0x00ffffff-no-rj" tvg-name="SPB Live" group-title="Deportes",SPB Live
+https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=II1q2kMTwlc
 
 # - NFL Live
 
@@ -302,4 +311,4 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/40.m3u8
 https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=M-fvBhcLOVw
 
 #EXTINF:-1 tvg-id="" tvg-chno="10009" tvg-logo="https://yt3.ggpht.com/EI-ho_L47OV1LJPRmIFx6VqQ3I6gPW_iyi6EK9rcQ_UUXlCcojkwyFiGF64nKWt2eqMMYtALTQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="ARD Mixes" group-title="XXX",ARD Mixes
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=T4DB4URxW9I
+https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/channel/UCRLXjm61c8gqrIgpiuPK4bw/live
