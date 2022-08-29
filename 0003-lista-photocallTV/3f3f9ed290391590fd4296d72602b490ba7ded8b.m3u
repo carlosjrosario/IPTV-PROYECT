@@ -31,40 +31,40 @@ https://v2.catcast.tv/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="RocklandTV.de" tvg-chno="280" tvg-logo="https://i.imgur.com/vIMkVo6.png" group-title="Música",Rockland TV (720p) [Not 24/7]
 http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://yt3.ggpht.com/-59VCA1UQNHtv0wYsPP-6i89-7VlPSmTOXe8n_O4jBDoqtgVMqL9oBdiwFo3ZIYzoYw3COqkmQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="Vorterix" group-title="Música",Vorterix
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=AZDKnSo2AlY
+#EXTINF:-1 tvg-id="" tvg-chno="281" tvg-logo="https://yt3.ggpht.com/-59VCA1UQNHtv0wYsPP-6i89-7VlPSmTOXe8n_O4jBDoqtgVMqL9oBdiwFo3ZIYzoYw3COqkmQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="Vorterix" group-title="Música",Vorterix
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AZDKnSo2AlY
 
 # - Infantiles
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/aS3CnijPv09vRb35wr6NDe6MiR74FffvIipfi2Fp8c3nO2TCSgBnbX4jfbGWr14pL2zfS31tMC4=s88-c-k-c0x00ffffff-no-rj" tvg-name="Cartoon Network LA" group-title="Infantil",Cartoon Network LA
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=4x8ZQN5gWSc
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=4x8ZQN5gWSc
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_OFRR0tMA4MXUJATKTZl3ybfHbk96ZKx86lPx5=s88-c-k-c0x00ffffff-no-rj" tvg-name="DC Kids Latino"  group-title="Infantil",DC Kids Latino
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=U-Wsx3nuLDY
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=U-Wsx3nuLDY
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-wWiZ4KMSAwHKlvieFewygBEuX0nA-aSO-eNZMtw=s88-c-k-c0x00ffffff-no-rj" tvg-name="DC Kids España" group-title="Infantil",DC Kids España
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=VKaEHwehXEY
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=VKaEHwehXEY
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_QHih7LsMw-X-jqpjEcZGoaFnF3mAr4MLVODWeUw=s88-c-k-c0x00ffffff-no-rj" tvg-name="DC Kids International" group-title="Infantil",DC Kids International
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=-Y-9oMccWjg
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-Y-9oMccWjg
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8oWHRf77Q34-PcTa1-Zs-ktHIm4apcreoS28L5-Q=s88-c-k-c0x00ffffff-no-rj" tvg-name="WB Kids Latino" group-title="Infantil",WB Kids Latino
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=PX2wegQtnBQ
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=PX2wegQtnBQ
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_OFRR0tMA4MXUJATKTZl3ybfHbk96ZKx86lPx5=s88-c-k-c0x00ffffff-no-rj" tvg-name="WB Kids España" group-title="Infantil",WB Kids España
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=8FjPx-hq1Ak
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=8FjPx-hq1Ak
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8k5GUfgmkrxcVtYrXgTmqrpEm6NBxcp58A7G4mqQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="WB Kids International" group-title="Infantil",WB Kids International
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=CTShOY9IYYI
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CTShOY9IYYI
 
 #EXTINF:-1 tvg-id="" tvg-chno="308" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-BjaUpLhDYndTrxIpb6uxCnhXIjEBgdnoEjX4h=s88-c-k-c0x00ffffff-no-rj" tvg-name="PJ Masks Español - Canal Oficial" group-title="Infantil",PJ Masks Español - Canal Oficial
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=BIiaoTQZX3I
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BIiaoTQZX3I
 
 #EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9rX6ysvDNMMfgpH6D-jRPqvQNM-d2AsYOkVSeZtw=s88-c-k-c0x00ffffff-no-rj" tvg-name="Peppa Pig Español Latino - Canal Oficial" group-title="Infantil",Peppa Pig Español Latino - Canal Oficial
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=hl_nACnH42w
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hl_nACnH42w
 
 #EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/XV6oFWOJ0kiqTAzkEmoq8kjJnwnx8EwI3oIgDaOOPJSuNXxVg1nR0meE0ZFRobzyGbCL-GYy=s88-c-k-c0x00ffffff-no-rj" tvg-name="Power Rangers para Niños - Canal Oficial" group-title="Infantil",Power Rangers para Niños - Canal Oficial
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/c/PowerRangersparaNi%C3%B1osCanalOficial/live
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/PowerRangersparaNi%C3%B1osCanalOficial/live
 
 # - Peliculas
 
@@ -109,19 +109,19 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,R
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="690" tvg-logo="https://yt3.ggpht.com/vi4O9pwYkxHy2lw57CV-hgbQlhQQTf4BEMyoXt4wzvhH4v7h55HHLm5tBa51efSr5kJRh2ka=s88-c-k-c0x00ffffff-no-rj" tvg-name="FIBA , ¡el Canal de Baloncesto!" group-title="Deportes",FIBA , ¡el Canal de Baloncesto!
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/user/FIBAWorld/live
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/FIBAWorld/live
 
 #EXTINF:-1 tvg-id="" tvg-chno="691" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9EkC963336t3nfkw97IXEXRr_KGyDmWmDG4x0d=s88-c-k-c0x00ffffff-no-rj" tvg-name="América Sports" group-title="Deportes",América Sports
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=B9hwOM6jAbs
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=B9hwOM6jAbs
 
 #EXTINF:-1 tvg-id="" tvg-chno="692" tvg-logo="https://yt3.ggpht.com/cwVMwEtt8ub-kUhQNpEV3z0-09N7ZRMO4hUoiAW6BFFmgtZ4tNztRdEIW0W8QxDaicVSnHi2=s88-c-k-c0x00ffffff-no-rj" tvg-name="SimpleTV Live" group-title="Deportes",SimpleTV Live
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/channel/UCxkKabqEsh2Bu2TlZzngZ0w/live
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCxkKabqEsh2Bu2TlZzngZ0w/live
 
-#EXTINF:-1 tvg-id="" tvg-chno="962" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu88rOXloTpIT-jf_oL7joA9vUHseWYF1cAirO8C=s88-c-k-c0x00ffffff-no-rj" tvg-name="SPB Live" group-title="Deportes",SPB Live
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/channel/UCWG5msoxUwp41BgWxT0FWJw/live
+#EXTINF:-1 tvg-id="" tvg-chno="692" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu88rOXloTpIT-jf_oL7joA9vUHseWYF1cAirO8C=s88-c-k-c0x00ffffff-no-rj" tvg-name="SPB Live" group-title="Deportes",SPB Live
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCWG5msoxUwp41BgWxT0FWJw/live
 
-#EXTINF:-1 tvg-id="" tvg-chno="962" tvg-logo="https://yt3.ggpht.com/cwVMwEtt8ub-kUhQNpEV3z0-09N7ZRMO4hUoiAW6BFFmgtZ4tNztRdEIW0W8QxDaicVSnHi2=s88-c-k-c0x00ffffff-no-rj" tvg-name="SPB Live" group-title="Deportes",SPB Live
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=II1q2kMTwlc
+#EXTINF:-1 tvg-id="" tvg-chno="692" tvg-logo="https://yt3.ggpht.com/cwVMwEtt8ub-kUhQNpEV3z0-09N7ZRMO4hUoiAW6BFFmgtZ4tNztRdEIW0W8QxDaicVSnHi2=s88-c-k-c0x00ffffff-no-rj" tvg-name="SPB Live" group-title="Deportes",SPB Live
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=II1q2kMTwlc
 
 # - NFL Live
 
@@ -308,7 +308,7 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/40.m3u8
 # - XXX
 
 #EXTINF:-1 tvg-id="" tvg-chno="10008" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_14FgUS4wAw7NhDY5HtvMjgmIDAw9FEzMeKrw8Rg=s88-c-k-c0x00ffffff-no-rj" tvg-name="Poolside Playlist" group-title="XXX",Poolside Playlist
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/watch?v=M-fvBhcLOVw
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCsbZGadKfSM8Y62PRe_pLPA/live
 
 #EXTINF:-1 tvg-id="" tvg-chno="10009" tvg-logo="https://yt3.ggpht.com/EI-ho_L47OV1LJPRmIFx6VqQ3I6gPW_iyi6EK9rcQ_UUXlCcojkwyFiGF64nKWt2eqMMYtALTQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="ARD Mixes" group-title="XXX",ARD Mixes
-https://query-streamlink-carlos.herokuapp.com//iptv-query?streaming-ip=https://www.youtube.com/channel/UCRLXjm61c8gqrIgpiuPK4bw/live
+https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRLXjm61c8gqrIgpiuPK4bw/live
