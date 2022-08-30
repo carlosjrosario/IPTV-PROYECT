@@ -460,7 +460,7 @@ https://v3.playerlatino.live/stream/m3u8/684
 
 # - Deportes
 
-#EXTINF:-1 tvg-id="beINSportsenEspanol.us" tvg-name="beIN Sports en Español" tvg-chno="602" tvg-logo="https://i.imgur.com/bC04S9U.png" group-title="Deportes", beIN Sports en Español
+#EXTINF:-1 tvg-id="beINSportsenEspanol.us" tvg-name="beIN Sports en Español" tvg-chno="601" tvg-logo="https://i.imgur.com/bC04S9U.png" group-title="Deportes", beIN Sports en Español
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/753
 
