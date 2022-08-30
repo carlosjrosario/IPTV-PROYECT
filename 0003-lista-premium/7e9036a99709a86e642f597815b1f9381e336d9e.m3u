@@ -26,9 +26,6 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/44
 #EXTINF:-1 tvg-id="TNTSeriesPanregional.us" tvg-name="TNT Series HD Panregional" tvg-chno="207" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entretenimiento", TNT Series HD Panregional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/157
 
-#EXTINF:-1 tvg-id="ComedyCentralNorth.us" tvg-name="Comedy Central HD North" tvg-chno="208" tvg-logo="https://i.imgur.com/4yncbGa.png" group-title="Entretenimiento", Comedy Central HD North
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/68
-
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia HD" tvg-chno="209" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Entretenimiento", Distrito Comedia HD
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/85
 
@@ -38,21 +35,13 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/150
 #EXTINF:-1 tvg-id="FXPanregional.us" tvg-name="FX HD Panregional" tvg-chno="211" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Entretenimiento", FX HD Panregional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/111
 
-#EXTINF:-1 tvg-id="UniversalTVPanregional.us" tvg-name="Universal TV Panregional" tvg-chno="212" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Entretenimiento", Universal TV Panregional
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/820.ts
-
-#EXTINF:-1 tvg-id="UniversalTVPanregional.us" tvg-name="Universal TV HD Panregional" tvg-chno="212" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="Entretenimiento", Universal TV HD Panregional
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/823.ts
-
 #EXTINF:-1 tvg-id="SyfyPanregional.us" tvg-name="Syfy Panregional" tvg-chno="213" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Entretenimiento", Syfy Panregional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/149
 
 #EXTINF:-1 tvg-id="TruTVPanregional.us" tvg-name="TruTV HD Panregional" tvg-chno="214" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png" group-title="Entretenimiento", TruTV HD Panregional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/159
 
-#EXTINF:-1 tvg-id="HolaTVLatinAmerica.es" tvg-name="¡Hola! TV HD Latin America" tvg-chno="215" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/512px-%C2%A1HOLA%21TVlogo.jpg" group-title="Entretenimiento", ¡Hola! TV HD Latin America
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.es" tvg-name="¡Hola! TV Latin America" tvg-chno="215" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/512px-%C2%A1HOLA%21TVlogo.jpg" group-title="Entretenimiento", ¡Hola! TV Latin America
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/124
 
 #EXTINF:-1 tvg-id="EAndes.us" tvg-name="E! Andes" tvg-chno="216" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title="Entretenimiento", E! Andes
@@ -70,7 +59,7 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/139
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-name="Tlnovelas Latin America" tvg-chno="220" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Entretenimiento", Tlnovelas Latin America
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/155
 
-#EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-name="Lifetime Panregional" tvg-chno="221" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento", Lifetime Panregional
+#EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-name="Lifetime HD Panregional" tvg-chno="221" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento", Lifetime HD Panregional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/126
 
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthPanregional.us" tvg-name="Discovery Home & Health HD Panregional" tvg-chno="222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="Entretenimiento", Discovery Home & Health HD Panregional
@@ -99,9 +88,6 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/1124
 
 #EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-name="Caracol Televisión" tvg-chno="232" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Entretenimiento", Caracol Televisión
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/62
-
-#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="Caracol Internacional HD" tvg-chno="232" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Caracol_HD_Internacional.png/512px-Caracol_HD_Internacional.png" group-title="Entretenimiento", Caracol Internacional HD
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/523
 
 #EXTINF:-1 tvg-id="TCTV.ec" tvg-name="TC TV" tvg-chno="795" tvg-logo="https://zuhar.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/08/04013925/canal-12-en-vivo-ecuador.png" group-title="Ecuador", TC TV
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/514
@@ -194,9 +180,6 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2938
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-chno="310" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Infantil", BabyFirst
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/899
 
-#EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-name="Discovery Kids HD Panregional" tvg-chno="311" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/512px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil", Discovery Kids HD Panregional
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/76
-
 #EXTINF:-1 tvg-id="CartoonitoArgentina.ar" tvg-name="Cartoonito HD" tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil", Cartoonito HD
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/58
 
@@ -233,9 +216,6 @@ https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://ww
 
 # - Películas
 
-#EXTINF:-1 tvg-id="TNTPacific.us" tvg-name="TNT HD Pacific" tvg-chno="501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png" group-title="Películas", TNT HD Pacific
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/156
-
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="Golden Panregional" tvg-chno="502" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="Películas", Golden Panregional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/757
 
@@ -251,9 +231,6 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/285
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="Golden Premier" tvg-chno="505" tvg-logo="https://i.imgur.com/46co9us.png" group-title="Películas", Golden Premier
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/756
 
-#EXTINF:-1 tvg-id="CinecanalWest.us" tvg-name="Cinecanal HD West" tvg-chno="506" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" group-title="Películas", Cinecanal HD West
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/64
-
 #EXTINF:-1 tvg-id="StudioUniversalPanregional.us" tvg-name="Studio Universal Panregional" tvg-chno="507" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" group-title="Películas", Studio Universal Panregional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/147
 
@@ -268,9 +245,6 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/65
 
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Película Latin America" tvg-chno="514" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/512px-DPel%C3%ADcula_2021.svg.png" group-title="Películas", De Película Latin America
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/69
-
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-name="Golden Edge HD Panregional" tvg-chno="515" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/512px-Golden_Edge_Logo_2020.png" group-title="Películas", Golden Edge HD Panregional
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/116
 
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="Space HD Panregional" tvg-chno="516" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="Películas", Space HD Panregional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/144
@@ -338,32 +312,11 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3023
 #EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL 1" tvg-chno="536" group-title="Películas", CINE MARVEL 1
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3018
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="536" tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" tvg-name="Cine Marvel"  group-title="Películas",Cine Marvel
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/54.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE TERROR" tvg-chno="538" group-title="Películas", CINE TERROR
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3025
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="540" tvg-logo="Logo N/A" tvg-name="Cine Disney Live Action"  group-title="Películas",Cine Disney Live Action
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/49.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="541" tvg-logo="Logo N/A" tvg-name="Cine  Disney Pixar #1"  group-title="Películas",Cine  Disney Pixar #1
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/50.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="541" tvg-logo="Logo N/A" tvg-name="Cine Disney Pixar #2"  group-title="Películas",Cine Disney Pixar #2
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/51.m3u8
-
 #EXTINF:-1 tvg-id="EPG N/A" tvg-chno="541" tvg-logo="Logo N/A" tvg-name="Cine Disney Pixar #3"  group-title="Películas",Cine Disney Pixar #3
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3027
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="542" tvg-logo="Logo N/A" tvg-name="Cine Lego Movies #1"  group-title="Películas",Cine Lego Movies
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/48.m3u8
-
 #EXTINF:-1 tvg-id="EPG N/A" tvg-chno="542" tvg-logo="Logo N/A" tvg-name="Cine Lego Movies #2"  group-title="Películas",Cine Lego Movies
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3020
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="543" tvg-logo="Logo N/A" tvg-name="Cine Dreamworks #1"  group-title="Películas",Cine Dreamworks #1
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/52.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-chno="543" tvg-logo="Logo N/A" tvg-name="Cine Dreamworks #2"  group-title="Películas",Cine Dreamworks #2
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3026
