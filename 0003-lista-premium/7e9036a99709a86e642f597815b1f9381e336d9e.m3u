@@ -92,6 +92,9 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/51
 #EXTINF:-1 tvg-id="UnivisionPanregional.mx" tvg-name="Univision Panregional" tvg-chno="230" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/512px-Logo_Univision_2019.svg.png" group-title="Entretenimiento", Univision Panregional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/1124
 
+#EXTINF:-1 tvg-id="UnivisionTlnovelas.us" tvg-name="Univision Tlnovelas" tvg-chno="231" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/512px-Univision_tlnovelas_%282019%29.svg.png" group-title="Entretenimiento", Univision Tlnovelas
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/694
+
 #EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-name="Caracol Televisión" tvg-chno="232" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Entretenimiento", Caracol Televisión
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/62
 
@@ -189,6 +192,24 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/899
 #EXTINF:-1 tvg-id="CartoonitoArgentina.ar" tvg-name="Cartoonito HD" tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil", Cartoonito HD
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/58
 
+#EXTINF:-1 tvg-id="BoingSpain.it" tvg-name="Boing Spain" tvg-chno="313" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil", Boing Spain
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3220
+
+#EXTINF:-1 tvg-id="UltraFamilia.us" tvg-name="Ultra Familia" tvg-chno="314" tvg-logo="https://i.imgur.com/mIbmYs1.png" group-title="Infantil", Ultra Familia
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3402
+
+#EXTINF:-1 tvg-id="UltraFamilia.us" tvg-name="Ultra Familia" tvg-chno="314" tvg-logo="https://i.imgur.com/mIbmYs1.png" group-title="Infantil", Ultra Familia
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3585
+
+#EXTINF:-1 tvg-id="UltraKidz.us" tvg-name="Ultra Kidz" tvg-chno="315" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-kidz-Logo.png" group-title="Infantil", Ultra Kidz
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3403
+
+#EXTINF:-1 tvg-id="UltraKidz.us" tvg-name="Ultra Kidz" tvg-chno="315" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-kidz-Logo.png" group-title="Infantil", Ultra Kidz
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3586
+
+#EXTINF:-1 tvg-id="CanalPandaSpain.pt" tvg-name="Canal Panda Spain" tvg-chno="316" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/698.jpg" group-title="Infantil", Canal Panda Spain
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3404
+
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/aS3CnijPv09vRb35wr6NDe6MiR74FffvIipfi2Fp8c3nO2TCSgBnbX4jfbGWr14pL2zfS31tMC4=s88-c-k-c0x00ffffff-no-rj" tvg-name="Cartoon Network LA" group-title="Infantil",Cartoon Network LA
 https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=4x8ZQN5gWSc
 
@@ -218,7 +239,6 @@ https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://ww
 
 #EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/XV6oFWOJ0kiqTAzkEmoq8kjJnwnx8EwI3oIgDaOOPJSuNXxVg1nR0meE0ZFRobzyGbCL-GYy=s88-c-k-c0x00ffffff-no-rj" tvg-name="Power Rangers para Niños - Canal Oficial" group-title="Infantil",Power Rangers para Niños - Canal Oficial
 https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/PowerRangersparaNi%C3%B1osCanalOficial/live
-
 
 # - Películas
 
@@ -333,6 +353,9 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3026
 #EXTINF:-1 tvg-id="EPG N/A" tvg-chno="544" tvg-logo="Logo N/A" tvg-name="Cine A Estrenar"  group-title="Películas",Cine A Estrenar
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3699
 
+#EXTINF:-1 tvg-id="StarzCinemaEast.us" tvg-name="Starz Cinema East" tvg-chno="566" tvg-logo="http://x.playerlatino.live/starz_cinema.png" group-title="Películas", Starz Cinema East
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/146
+
 #EXTINF:-1 tvg-id="UniversalPremiereHDEast.us" tvg-name="Universal Premiere HD East" tvg-chno="571" tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Películas", Universal Premiere HD East
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/103
 
@@ -417,8 +440,10 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3038
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3566
 
 #EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="Movistar Deportes" tvg-chno="621" tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes", Movistar Deportes
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/366
+
+
+#EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-name="Movistar Deportes Peru" tvg-chno="621" tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes", Movistar Deportes Peru
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/464
 
 #EXTINF:-1 tvg-id="MovistarLaLiga.es" tvg-name="Movistar LaLiga" tvg-chno="622" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/512px-Movistar_LaLiga.svg.png" group-title="Deportes", Movistar LaLiga
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3321
@@ -510,6 +535,12 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/790
 
 #EXTINF:-1 tvg-id="TigoSportsElSalvador.sv" tvg-name="Tigo Sports El Salvador" tvg-chno="636" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="Deportes", Tigo Sports El Salvador
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3069
+
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDF Premium" tvg-chno="637" tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Deportes", CDF Premium
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/542
+
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="Toros" tvg-chno="638" tvg-logo="http://x.playerlatino.live/toros.png" group-title="Deportes", Toros
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/1044
 
 #EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.us" tvg-name="Adrenalina Sports Network" tvg-chno="638" tvg-logo="https://i.imgur.com/7GEOp3g.png" group-title="Deportes", Adrenalina Sports Network
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2937
@@ -922,6 +953,11 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/236
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40" tvg-chno="703" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="Noticias", ADN 40
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/42
 
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="	
+CGTN Spanish" tvg-chno="704" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/512px-CGTN_Espanol.png" group-title="Noticias",	
+CGTN Spanish
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/961
+
 # - Cultura
 
 #EXTINF:-1 tvg-id="NationalGeographicPanregional.us" tvg-name="National Geographic HD Panregional" tvg-chno="710" tvg-logo="https://i.imgur.com/CRExAD5.png" group-title="Cultura", National Geographic HD Panregional
@@ -983,89 +1019,81 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/134
 
 # - España
 
-#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional HD" tvg-chno="731" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/512px-Antena_3_Internacional_logo_2017.svg.png" group-title="España", Antena 3 Internacional HD
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/401.ts
+#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-name="Antena 3 Internacional" tvg-chno="731" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/512px-Antena_3_Internacional_logo_2017.svg.png" group-title="España", Antena 3 Internacional
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/46
 
-#EXTINF:-1 tvg-id="AtreseriesInternacional.es" tvg-name="Atreseries Internacional HD" tvg-chno="733" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="España", Atreseries Internacional HD
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/403.ts
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="Movistar Acción" tvg-chno="732" tvg-logo="https://i.imgur.com/Pw0CuRg.png" group-title="España", Movistar Acción
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3576
 
-#EXTINF:-1 tvg-id="Mega.es" tvg-name="MEGA" tvg-chno="734" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="España", MEGA
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/697.ts
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="Movistar Comedia" tvg-chno="732" tvg-logo="https://i.imgur.com/joJTeTI.png" group-title="España", Movistar Comedia
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3577
+
+#EXTINF:-1 tvg-id="MovistarFest.es" tvg-name="Movistar Fest" tvg-chno="732" tvg-logo="https://i.imgur.com/OyXaWAD.png" group-title="España", Movistar Fest
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3579
+
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="Movistar Drama" tvg-chno="732" tvg-logo="https://i.imgur.com/WL1ljQB.png" group-title="España", Movistar Drama
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3580
+
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="Movistar Estrenos" tvg-chno="732" tvg-logo="https://i.imgur.com/GEuJHee.png" group-title="España", Movistar Estrenos
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3581
+
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="Movistar Series" tvg-chno="732" tvg-logo="https://i.imgur.com/JxtAhZW.png" group-title="España", Movistar Series
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3582
+
+#EXTINF:-1 tvg-id="AtreseriesInternacional.es" tvg-name="Atreseries Internacional" tvg-chno="733" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="España", Atreseries Internacional
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/41
+
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" tvg-chno="784" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/512px-AXN_White_logo_%282015%29.svg.png" group-title="España", AXN White
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/48
 
 # - Mexico
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno" tvg-chno="737" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Azteca_UNO_logo_2020.webp/300px-Azteca_UNO_logo_2020.webp.png" group-title="Mexico", Azteca Uno
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/447.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/53
 
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-chno="738" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Azteca_7_variante_blanca_2021.png/512px-Azteca_7_variante_blanca_2021.png" group-title="Mexico", Azteca 7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/451.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/54
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 MX" tvg-chno="739" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Mexico", Canal 5 MX
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/465.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/60
+
+#EXTINF:-1 tvg-id="OnceMexico.mx" tvg-name="Once Mexico" tvg-chno="740" tvg-logo="http://x.playerlatino.live/canalonce.png" group-title="Mexico", Once Mexico
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/59
 
 #EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Multimedios Plus" tvg-chno="742" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" group-title="Mexico", Multimedios Plus
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/707.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/131
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen TV HD" tvg-chno="743" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" group-title="Mexico", Imagen TV HD
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/672.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/125
 
 #EXTINF:-1 tvg-id="APlus.mx" tvg-name="A+" tvg-chno="744" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png" group-title="Mexico", A+
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/400.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3482
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-chno="745" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Mexico", Las Estrellas
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/684.ts
-
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" tvg-chno="745" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Mexico", Las Estrellas Latin America
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/681.ts
-
-#EXTINF:-1 tvg-id="LasEstrellasHDLatinAmerica.mx" tvg-name="Las Estrellas HD Latin America" tvg-chno="745" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Mexico", Las Estrellas HD Latin America
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/686.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/61
 
 #EXTINF:-1 tvg-id="AzMundo.mx" tvg-name="AZ Mundo HD" tvg-chno="746" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png" group-title="Mexico", AZ Mundo HD
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/415.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/52
 
 #EXTINF:-1 tvg-id="Foro.mx" tvg-name="Foro TV" tvg-chno="747" tvg-logo="https://i.imgur.com/QPDku0W.png" group-title="Mexico", Foro TV
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/585.ts
-
-#EXTINF:-1 tvg-id="TVMas.mx" tvg-name="TVMás" tvg-chno="748" tvg-logo="https://i.imgur.com/lhI8Rs0.png" group-title="Mexico", TVMás
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/815.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/96
 
 # - Colombia
 
 #EXTINF:-1 tvg-id="RCNNuestraTeleInternacionalAmerica.co" tvg-name="RCN Nuestra Tele Internacional America" tvg-chno="749" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/RCN_Nuestra_Tele_logo.svg/512px-RCN_Nuestra_Tele_logo.svg.png" group-title="Colombia", RCN Nuestra Tele Internacional America
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/740.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/140
 
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-chno="750" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/512px-RCN_Novelas_logo_2019.png" group-title="Colombia", RCN Novelas
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/743.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3061
 
 #EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-chno="751" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia", Canal 1
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/385.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3059
 
 #EXTINF:-1 tvg-id="CitytvBogota.co" tvg-name="City TV Bogotá" tvg-chno="752" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/512px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="Colombia", City TV Bogotá
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/494.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/524
 
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Señal Colombia" tvg-chno="753" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/512px-Se%C3%B1al_Colombia_logo.svg.png" group-title="Colombia", Señal Colombia
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/749.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3058
 
 # - Argentina
 
@@ -1074,139 +1102,99 @@ https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/Fybhdfhbhedhbjhrf
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/579.ts
 
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe Internacional" tvg-chno="755" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/512px-Telefe_Internacional_%282018%29.png" group-title="Argentina", Telefe Internacional
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/792.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/1133
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Trece Internacional Latin America" tvg-chno="756" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Argentina", El Nueve HD
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/580.ts
-
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" tvg-chno="757" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Argentina", Crónica TV
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/508.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2995
 
 # - Peru
 
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru" tvg-chno="758" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/512px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Peru", TV Peru
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/814.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/468
 
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-chno="759" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="Peru", Latina
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/687.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/461
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-name="BHTV.pe" tvg-chno="760" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="Peru", BHTV
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/979
 
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="América Televisión" tvg-chno="761" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Peru", América Televisión
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/404.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/459
 
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-chno="762" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru", ATV
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/407.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/460
 
 # - Ecuador
 
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-chno="763" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/512px-Ecuavisa_Logo_2019.png" group-title="Ecuador", Ecuavisa
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/574.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/510
 
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-name="Teleamazonas" tvg-chno="764" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="Ecuador", Teleamazonas
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/793.ts
-
-#EXTINF:-1 tvg-id="Televicentro.ec" tvg-name="Televicentro" tvg-chno="765" tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png" group-title="Ecuador", Televicentro
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/785.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/515
 
 #EXTINF:-1 tvg-id="Gamavision.ec" tvg-name="Gamavisión" tvg-chno="766" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Ecuador", Gamavisión
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/609.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/512
 
 #EXTINF:-1 tvg-id="ElCanaldelFutbol.ec" tvg-name="El Canal del Fútbol" tvg-chno="767" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png" group-title="Ecuador", El Canal del Fútbol
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3390
 
 #EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="Oromar TV" tvg-chno="768" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/512px-Oromar_logo.png" group-title="Ecuador", Oromar TV
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/734.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/516
 
 #EXTINF:-1 tvg-id="RTS.ec" tvg-name="RTS" tvg-chno="769" tvg-logo="https://i.imgur.com/teL77LA.png" group-title="Ecuador", RTS
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/744.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/513
+
+# - Chile
+
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="13C" tvg-chno="770" tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="Chile", 13C
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/537
+
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-chno="771" tvg-logo="http://x.playerlatino.live/mega.png" group-title="Chile", Mega
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/547
 
 # - Uruguay
 
-#EXTINF:-1 tvg-id="VTVPlus.uy" tvg-name="VTV Plus" tvg-chno="772" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="Uruguay", VTV Plus
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/926.ts
-
 #EXTINF:-1 tvg-id="VTVPlus.uy" tvg-name="VTV Plus HD" tvg-chno="772" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="Uruguay", VTV Plus HD
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/928.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/1313
+
+#EXTINF:-1 tvg-id="Canal5ElLider.hn" tvg-name="Canal 5 ElLider" tvg-chno="773" tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Honduras", Canal 5 El Lider
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3294
+
+#EXTINF:-1 tvg-id="HCH.hn" tvg-name="HCH.hn" tvg-chno="774" tvg-logo="http://x.playerlatino.live/hchhonduras.png" group-title="Honduras", HCH
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3297
+
 
 # - Puerto Rico
 
 #EXTINF:-1 tvg-id="WAPADT1.us" tvg-name="WAPA-DT1" tvg-chno="775" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/512px-WAPA-TV_logo.svg.png" group-title="Puerto Rico", WAPA-DT1
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/861.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/183
+
+#EXTINF:-1 tvg-id="WAPADT2.us" tvg-name="WAPA-DT2" tvg-chno="775" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/512px-WAPA-TV_logo.svg.png" group-title="Puerto Rico", WAPA-DT2
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/184
 
 # - Guatemala
 
 #EXTINF:-1 tvg-id="Canal3.gt" tvg-name="CANAL 3" tvg-chno="776" tvg-logo="https://i.imgur.com/yCykjIp.png" group-title="Guatemala", CANAL 3
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/387.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3304
 
 #EXTINF:-1 tvg-id="Televisiete.gt" tvg-name="Televisiete" tvg-chno="777" tvg-logo="https://i.imgur.com/yVhUkot.png" group-title="Guatemala", Televisiete
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/390.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3302
 
 #EXTINF:-1 tvg-id="TeleOnce.gt" tvg-name="TeleOnce" tvg-chno="778" tvg-logo="https://i.imgur.com/JB34PdI.png" group-title="Guatemala", TeleOnce
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/392.ts
-
-#EXTINF:-1 tvg-id="TreceVision.gt" tvg-name="TreceVision" tvg-chno="779" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_guatemala-mediano.png" group-title="Guatemala", TreceVision
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/395.ts
-
-#EXTINF:-1 tvg-id="TN23.gt" tvg-name="TN 23" tvg-chno="780" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/TN23logo2016.png" group-title="Guatemala", TN 23
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/399.ts
-
-# - Panama
-
-#EXTINF:-1 tvg-id="TVN.pa" tvg-name="TVN" tvg-chno="781" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/2_de_panama.png" group-title="Panamá", TVN
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/816.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3305
 
 # - Costa Rica
 
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="Teletica 7" tvg-chno="782" tvg-logo="https://i.imgur.com/GeIK8rC.png" group-title="Costa Rica", Teletica 7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/796.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/793
 
 # - 24/7
 
-#EXTINF:-1 tvg-chno="801" tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/935.ts
-
-#EXTINF:-1 tvg-chno="802" tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/938.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Barney y sus amigos 24/7" tvg-chno="803" group-title="24/7", Barney y sus amigos 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/940.ts
-
 #EXTINF:-1 tvg-chno="806" tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7",Bob Esponja 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/944.ts
-
-#EXTINF:-1 tvg-chno="807" tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="24/7",Breaking Bad 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/946.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2946
 
 #EXTINF:-1 tvg-chno="808" tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/947.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2941
 
 #EXTINF:-1 tvg-id="" tvg-name="Caillou 24/7" tvg-chno="809" group-title="24/7", Caillou 24/7
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
@@ -1249,16 +1237,10 @@ https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/Fybhdfhbhedhbjhrf
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/987.ts
 
 #EXTINF:-1 tvg-chno="819" tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="24/7",Dinosaurios 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/988.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Dora la Exploradora 24/7" tvg-chno="820" group-title="24/7", Dora la Exploradora 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/991.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3547
 
 #EXTINF:-1 tvg-chno="821" tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7",Doraemon 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/992.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3548
 
 #EXTINF:-1 tvg-chno="822" tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7",Dragon Ball 24/7
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
@@ -1297,8 +1279,7 @@ https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/Fybhdfhbhedhbjhrf
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1010.ts
 
 #EXTINF:-1 tvg-chno="832" tvg-logo="" group-title="24/7",Garfield 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1011.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3532
 
 #EXTINF:-1 tvg-id="" tvg-name="Happy Tree Friends 24/7" tvg-chno="833" tvg-chno="800" group-title="Happy Tree Friends 24/7
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
@@ -1353,8 +1334,7 @@ https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/Fybhdfhbhedhbjhrf
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1033.ts
 
 #EXTINF:-1 tvg-chno="846" tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7",Looney Tunes 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1034.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3550
 
 #EXTINF:-1 tvg-chno="847" tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="24/7",Los Años Maravillosos 24/7
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
@@ -1501,6 +1481,21 @@ https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w2142678180.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-chno="880" tvg-logo="Logo N/A" tvg-name="La casa de Mickey Mouse 24/7"  group-title="24/7",La casa de Mickey Mouse 24/7
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/40.m3u8
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="881" tvg-logo="Logo N/A" tvg-name="Escandalosos 24/7"  group-title="24/7", Escandalosos 24/7
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3530
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="882" tvg-logo="Logo N/A" tvg-name="Lilo & Stitch 24/7"  group-title="24/7", Lilo & Stitch 24/7
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3545
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="883" tvg-logo="Logo N/A" tvg-name="Rick y Morty 24/7"  group-title="24/7", Rick y Morty 24/7
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3539
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="884" tvg-logo="Logo N/A" tvg-name="Timón y Pumba 24/7"  group-title="24/7", Timón y Pumba 24/7
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3535
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="885" tvg-logo="Logo N/A" tvg-name="Un Show Mas 24/7"  group-title="24/7", Un Show Mas 24/7
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3536
 
 # - Movies
 
