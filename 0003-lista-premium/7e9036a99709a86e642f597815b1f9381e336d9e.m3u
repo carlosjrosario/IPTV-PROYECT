@@ -71,9 +71,6 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/74
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthPanregional.us" tvg-name="Discovery Home & Health HD Panregional" tvg-chno="222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="Entretenimiento", Discovery Home & Health HD Panregional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3135
 
-#EXTINF:-1 tvg-id="MasChicPanregional.ar" tvg-name="Más Chic HD Panregional" tvg-chno="223 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/512px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="Entretenimiento", Más Chic HD Panregional
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/127
-
 #EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-name="Telemundo South" tvg-chno="224 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo South
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/154
 
@@ -136,6 +133,9 @@ https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="MTVHDSouth.us" tvg-name="MTV HD South" tvg-chno="261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Música", MTV HD South
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/752
 
+#EXTINF:-1 tvg-id="MTVHDSouth.us" tvg-name="MTV HD South" tvg-chno="261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Música", MTV HD South
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/130
+
 #EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV Live" tvg-chno="263" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png" group-title="Música", MTV Live
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/753
 
@@ -151,16 +151,28 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/55
 #EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" tvg-chno="268" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/512px-Telehit_logo_2020.png" group-title="Música", TeleHit
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/153
 
-#EXTINF:-1 tvg-id="SluhaybyRock.by" tvg-chno="278" tvg-logo="https://sluhay.by/assets/logo_rock.png" group-title="Música",Sluhay.by Rock (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TelehitMusicaEstadosUnidos.us" tvg-name="Telehit Musica Estados Unidos" tvg-chno="269" tvg-logo="http://x.playerlatino.live/ritmoson.png" group-title="Música", Telehit Musica Estados Unidos
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/141
+
+#EXTINF:-1 tvg-id="SluhaybyRock.by" tvg-name="Sluhay.by Rock (720p) [Not 24/7]" tvg-chno="278" tvg-logo="https://sluhay.by/assets/logo_rock.png" group-title="Música",Sluhay.by Rock (720p) [Not 24/7]
 https://sluhay.by/live/Ch114pub/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="279" tvg-logo="" group-title="Música",Metal TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-chno="279" tvg-name="Metal TV (720p) [Not 24/7]" tvg-logo="" group-title="Música", Metal TV (720p) [Not 24/7]
 https://v2.catcast.tv/content/33816/index.m3u8
 
-#EXTINF:-1 tvg-id="RocklandTV.de" tvg-chno="280" tvg-logo="https://i.imgur.com/vIMkVo6.png" group-title="Música",Rockland TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RocklandTV.de" tvg-name="Rockland TV (720p) [Not 24/7]" tvg-chno="280" tvg-logo="https://i.imgur.com/vIMkVo6.png" group-title="Música",Rockland TV (720p) [Not 24/7]
 http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="281" tvg-logo="https://yt3.ggpht.com/-59VCA1UQNHtv0wYsPP-6i89-7VlPSmTOXe8n_O4jBDoqtgVMqL9oBdiwFo3ZIYzoYw3COqkmQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="Vorterix" group-title="Música",Vorterix
+#EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-chno="282" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Música",Euro Indie Music Chart TV (360p)
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="283" group-title="Música",All The K-POP
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ALLTHEKPOP/live
+
+#EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-chno="284" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Música",KpopTV Play (720p) [Not 24/7]
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="286" tvg-logo="https://yt3.ggpht.com/-59VCA1UQNHtv0wYsPP-6i89-7VlPSmTOXe8n_O4jBDoqtgVMqL9oBdiwFo3ZIYzoYw3COqkmQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="Vorterix" group-title="Música",Vorterix
 https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AZDKnSo2AlY
 
 # - Infantil
@@ -209,6 +221,12 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3586
 
 #EXTINF:-1 tvg-id="CanalPandaSpain.pt" tvg-name="Canal Panda Spain" tvg-chno="316" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/698.jpg" group-title="Infantil", Canal Panda Spain
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3404
+
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="Clan TVE" tvg-chno="317" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="Infantil", Clan TVE
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/1110
+
+#EXTINF:-1 tvg-id="OnceNinasyNinos.mx" tvg-name="Once Niñas y Niños" tvg-chno="317" tvg-logo="https://i.imgur.com/uBdmyft.png" group-title="Infantil", Once Niñas y Niños
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3491
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/aS3CnijPv09vRb35wr6NDe6MiR74FffvIipfi2Fp8c3nO2TCSgBnbX4jfbGWr14pL2zfS31tMC4=s88-c-k-c0x00ffffff-no-rj" tvg-name="Cartoon Network LA" group-title="Infantil",Cartoon Network LA
 https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=4x8ZQN5gWSc
@@ -327,10 +345,16 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/128
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3152
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE ACCION" tvg-chno="532" group-title="Películas", CINE ACCION
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/73
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE ACCION" tvg-chno="532" group-title="Películas", CINE ACCION
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3022
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE ACCION" tvg-chno="532" group-title="Películas", CINE ACCION
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3024
+
+#EXTINF:-1 tvg-chno="533" tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg" group-title="Películas", Cine Comedia 1
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3021
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE FANTASIA" tvg-chno="534" group-title="Películas", CINE FANTASIA
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3019
@@ -388,7 +412,7 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/56
 #EXTINF:-1 tvg-id="beINSportsenEspanol.us" tvg-name="beIN Sports en Español" tvg-chno="601" tvg-logo="https://i.imgur.com/bC04S9U.png" group-title="Deportes", beIN Sports en Español
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3501
 
-tvg-id="beINSportsXtraenEspanol.us" tvg-chno="601" tvg-logo="https://i.imgur.com/ImjhA9L.png" tvg-name="beIN Sports Xtra en Español" group-title="Deportes", beIN Sports Xtra en Español
+#EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" tvg-chno="601" tvg-logo="https://i.imgur.com/ImjhA9L.png" tvg-name="beIN Sports Xtra en Español" group-title="Deportes", beIN Sports Xtra en Español
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3516
 
 #EXTINF:-1 tvg-id="TTNTSportsChile.cl" tvg-name="TNT Sports Chile" tvg-chno="602" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports Chile
@@ -457,9 +481,6 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/43
 #EXTINF:-1 tvg-id="TyCSportsPanregional.ar" tvg-name="TyC Sports Panregional" tvg-chno="625" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="Deportes", TyC Sports Panregional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/163
 
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports HD" tvg-chno="626" tvg-logo="https://i.imgur.com/vfBkXoM.png" group-title="Deportes", Claro Sports HD
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3517
-
 #EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AyM Sports" tvg-chno="627" tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="Deportes", AyM Sports
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/49
 
@@ -468,10 +489,6 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/160
 
 #EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-name="TUDN Mexico" tvg-chno="627" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes", TUDN Mexico
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3226
-
-#EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-name="TUDN Mexico" tvg-chno="627" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes", TUDN Mexico
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/698
 
 #EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-name="TUDN EXTRA 1" tvg-chno="627" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes", TUDN EXTRA 1
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/497
@@ -536,9 +553,6 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/790
 #EXTINF:-1 tvg-id="TigoSportsElSalvador.sv" tvg-name="Tigo Sports El Salvador" tvg-chno="636" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="Deportes", Tigo Sports El Salvador
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3069
 
-#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDF Premium" tvg-chno="637" tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Deportes", CDF Premium
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/542
-
 #EXTINF:-1 tvg-id="Toros.es" tvg-name="Toros" tvg-chno="638" tvg-logo="http://x.playerlatino.live/toros.png" group-title="Deportes", Toros
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/1044
 
@@ -593,6 +607,9 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/106
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/107
+
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network - MLB Game of the Week Live on YouTube"  group-title="Deportes",MLB Network - MLB Game of the Week Live on YouTube
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MLB/live
 
 #EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 01" group-title="Deportes",MLB Extra Innings 01
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/105
@@ -729,13 +746,13 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/39
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-chno="653" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/512px-Golf_Channel_Logo_2018.png" tvg-name="Golf Channel" group-title="Deportes", Golf Channel
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/40
 
-tvg-id="beINSportsUSA.us" tvg-chno="654" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/512px-BeIN_Sports.png" tvg-name="beIN Sports USA" group-title="Deportes", beIN Sports USA
+#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-chno="654" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/512px-BeIN_Sports.png" tvg-name="beIN Sports USA" group-title="Deportes", beIN Sports USA
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/212
 
-tvg-id="beINSportsXtraUSA.us" tvg-chno="655" tvg-logo="https://i.imgur.com/f7FXJm1.png" tvg-name="beIN Sports Xtra" group-title="Deportes", beIN Sports Xtra
+#EXTINF:-1 tvg-id="beINSportsXtraUSA.us" tvg-chno="655" tvg-logo="https://i.imgur.com/f7FXJm1.png" tvg-name="beIN Sports Xtra" group-title="Deportes", beIN Sports Xtra
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3476
 
-tvg-id="beINSports7USA.us" tvg-chno="656" tvg-logo="https://i.imgur.com/ebnWhJm.png" tvg-name="beIN Sports 7 USA" group-title="Deportes", beIN Sports 7 USA
+#EXTINF:-1 tvg-id="beINSports7USA.us" tvg-chno="656" tvg-logo="https://i.imgur.com/ebnWhJm.png" tvg-name="beIN Sports 7 USA" group-title="Deportes", beIN Sports 7 USA
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3736
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-chno="657" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" tvg-name="ESPN" group-title="Deportes",ESPN
@@ -885,6 +902,9 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/1144
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-chno="672" tvg-logo="https://i.imgur.com/4nQOtYJ.png" tvg-name="CBS Sports Network USA" group-title="Deportes",CBS Sports Network USA
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/1279
 
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-chno="672" tvg-logo="https://i.imgur.com/4nQOtYJ.png" tvg-name="CBS Sports Network USA" group-title="Deportes",CBS Sports Network USA
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/231
+
 #EXTINF:-1 tvg-id="SpectrumSportsNet.us" tvg-chno="673" tvg-logo="https://i.imgur.com/KIHWMqk.png" tvg-name="Spectrum SportsNet" group-title="Deportes",Spectrum SportsNet
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/354
 
@@ -939,7 +959,19 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/16
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-chno="686" tvg-logo="https://i.imgur.com/HEzHpzz.png" tvg-name="TSN5" group-title="Deportes",TSN5
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/17
 
-#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-chno="687" tvg-logo="https://i.imgur.com/cd0hP5e.png" tvg-name="El Garage TV" group-title="Deportes",El Garage TV
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-chno="687" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png" tvg-name="Big Ten Network" group-title="Deportes", Big Ten Network
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/215
+
+#EXTINF:-1 tvg-id="OlympicChannelUSA.us" tvg-chno="688" tvg-logo="https://i.imgur.com/2QWDgN1.png" tvg-name="Olympic Channel USA" group-title="Deportes", Olympic Channel USA
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/770
+
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-chno="689" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/512px-SEC_Network_logo.svg.png" tvg-name="SEC Network" group-title="Deportes", SEC Network
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/347
+
+#EXTINF:-1 tvg-id="" tvg-chno="690" tvg-logo="http://dark-turtle.com/wp-content/uploads/2021/08/s.png" tvg-name="UFC Fight Pass" group-title="Deportes", UFC Fight Pass
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/379
+
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-chno="6XX" tvg-logo="https://i.imgur.com/cd0hP5e.png" tvg-name="El Garage TV" group-title="Deportes",El Garage TV
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/87
 
 # -Noticias
@@ -953,9 +985,7 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/236
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-name="ADN 40" tvg-chno="703" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="Noticias", ADN 40
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/42
 
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="	
-CGTN Spanish" tvg-chno="704" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/512px-CGTN_Espanol.png" group-title="Noticias",	
-CGTN Spanish
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" tvg-chno="704" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/512px-CGTN_Espanol.png" group-title="Noticias", CGTN Spanish
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/961
 
 # - Cultura
@@ -1097,10 +1127,6 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3058
 
 # - Argentina
 
-#EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar" tvg-name="El Trece Internacional Latin America" tvg-chno="754" tvg-logo="https://i.imgur.com/bznfH8d.png" group-title="Argentina", El Trece Internacional Latin America
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/579.ts
-
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe Internacional" tvg-chno="755" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Telefe_Internacional_%282018%29.png/512px-Telefe_Internacional_%282018%29.png" group-title="Argentina", Telefe Internacional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/1133
 
@@ -1190,51 +1216,8 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/793
 
 # - 24/7
 
-#EXTINF:-1 tvg-chno="806" tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7",Bob Esponja 24/7
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2946
-
 #EXTINF:-1 tvg-chno="808" tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2941
-
-#EXTINF:-1 tvg-id="" tvg-name="Caillou 24/7" tvg-chno="809" group-title="24/7", Caillou 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/950.ts
-
-#EXTINF:-1 tvg-chno="810" tvg-logo="" group-title="24/7",Candy Candy 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/951.ts
-
-#EXTINF:-1 tvg-chno="811" tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7",Cantinflas 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/953.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Caso Cerrado 24/7" tvg-chno="812" group-title="24/7", Caso Cerrado 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/954.ts
-
-#EXTINF:-1 tvg-chno="813" tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",Chapulin Colorado 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/958.ts
-
-#EXTINF:-1 tvg-chno="814" tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/959.ts
-
-#EXTINF:-1 tvg-chno="815" tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="24/7",Chespirito 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/955.ts
-
-#EXTINF:-1 tvg-chno="816" tvg-logo="http://x.playerlatino.live/coraje.png" group-title="24/7",Coraje el Perro Cobarde 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/985.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7", CSI: Miami 24/7" tvg-chno="817" group-title="24/7", CSI: Miami 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/986.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Death Note 24/7" tvg-chno="818" group-title="24/7", Death Note 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/987.ts
 
 #EXTINF:-1 tvg-chno="819" tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="24/7",Dinosaurios 24/7
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3547
@@ -1242,245 +1225,47 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3547
 #EXTINF:-1 tvg-chno="821" tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7",Doraemon 24/7
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3548
 
-#EXTINF:-1 tvg-chno="822" tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7",Dragon Ball 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/995.ts
-
-#EXTINF:-1 tvg-chno="823" tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/997.ts
-
-#EXTINF:-1 tvg-chno="824" tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1000.ts
-
 #EXTINF:-1 tvg-chno="825" tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1002.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2926
 
-#EXTINF:-1 tvg-id="" tvg-name="El Coyote y el Correcaminos 24/7" tvg-chno="826" group-title="24/7", El Coyote y el Correcaminos 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1003.ts
-
-#EXTINF:-1 tvg-chno="827" tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="24/7",El Gallo Claudio 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1005.ts
-
-#EXTINF:-1 tvg-chno="828" tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7",El Pajaro Loco 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1006.ts
-
-#EXTINF:-1 tvg-chno="830" tvg-logo="" group-title="24/7",Futurama 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1009.ts
-
-#EXTINF:-1 tvg-chno="831" tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="24/7",Game of Thrones 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1010.ts
+#EXTINF:-1 tvg-chno="829" tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7",El Principel del Rap 24/7
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2929
 
 #EXTINF:-1 tvg-chno="832" tvg-logo="" group-title="24/7",Garfield 24/7
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3532
 
-#EXTINF:-1 tvg-id="" tvg-name="Happy Tree Friends 24/7" tvg-chno="833" tvg-chno="800" group-title="Happy Tree Friends 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1013.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="He-Man 24/7" tvg-chno="834" group-title="24/7", He-Man 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1014.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Heroes en Pijamas 24/7" tvg-chno="835" group-title="24/7", Heroes en Pijamas 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1015.ts
-
-#EXTINF:-1 tvg-chno="836" tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7",Hey Arnold 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1017.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Jorge el curioso 24/7" tvg-chno="837" group-title="24/7", Jorge el curioso 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1018.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="La Familia Monsters 1964 24/7" tvg-chno="838" group-title="24/7", La Familia Monsters 1964 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1020.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="La Hora Pico 24/7" tvg-chno="839" group-title="24/7", La Hora Pico 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1021.ts
-
-#EXTINF:-1 tvg-chno="840" tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7",La Pantera Rosa 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1024.ts
-
 #EXTINF:-1 tvg-chno="841" tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1026.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Vaca y Pollito 24/7" tvg-chno="842" group-title="24/7", Vaca y Pollito 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1027.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="LazyTown 24/7" tvg-chno="843" group-title="24/7", LazyTown 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1029.ts
-
-#EXTINF:-1 tvg-chno="844" tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7",Le Temes a la Oscuridad 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1030.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Los Locos Adams 24/7" tvg-chno="845" group-title="24/7", Los Locos Adams 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1033.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3544
 
 #EXTINF:-1 tvg-chno="846" tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7",Looney Tunes 24/7
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3550
 
-#EXTINF:-1 tvg-chno="847" tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="24/7",Los Años Maravillosos 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1036.ts
-
-#EXTINF:-1 tvg-chno="848" tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7",Los Picapiedra 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1037.ts
-
-#EXTINF:-1 tvg-chno="849" tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1039.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 1-5 24/7" tvg-chno="849" group-title="24/7", LOS SIMPSONS 1-5 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1041.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 6-11 24/7" tvg-chno="849" group-title="24/7", LOS SIMPSONS 6-11 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1044.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 12-17 24/7" tvg-chno="849" group-title="24/7", LOS SIMPSONS 12-17 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1048.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 18-21 24/7" tvg-chno="849" group-title="24/7", LOS SIMPSONS 18-21 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1049.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 22-26 24/7" tvg-chno="849" group-title="24/7", LOS SIMPSONS 22-26 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1052.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSONS 27-30 24/7" tvg-chno="849" group-title="24/7", LOS SIMPSONS 27-30 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1054.ts
-
 #EXTINF:-1 tvg-chno="850" tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7",Malcolm 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1057.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2947
 
 #EXTINF:-1 tvg-id="" tvg-name="Mazinger Z 24/7" tvg-chno="851" group-title="24/7", Mazinger Z 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1058.ts
-
-#EXTINF:-1 tvg-chno="852" tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7",Mr. Bean 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1059.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2942
 
 #EXTINF:-1 tvg-chno="853" tvg-logo="http://x.playerlatino.live/naruto.png" group-title="24/7",Naruto 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1060.ts
-
-#EXTINF:-1 tvg-chno="854" tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="24/7",One Punch Man 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1061.ts
-
-#EXTINF:-1 tvg-chno="855" tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7",Padre de Familia 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1064.ts
-
-#EXTINF:-1 tvg-chno="856" tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7",Peppa Pig 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1066.ts
-
-#EXTINF:-1 tvg-chno="857" tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7",Pinky y Cerebro 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1067.ts
-
-#EXTINF:-1 tvg-chno="858" tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7",Pokemon 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1068.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Power Rangers 24/7" tvg-chno="859" group-title="24/7", Power Rangers 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1071.ts
-
-#EXTINF:-1 tvg-chno="860" tvg-logo="http://x.playerlatino.live/ranma.png" group-title="24/7",Ranma 1/2 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1076.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2939
 
 #EXTINF:-1 tvg-id="" tvg-name="Robotech 24/7" tvg-chno="861" group-title="24/7", Robotech 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1077.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sailor Moon 24/7" tvg-chno="862" group-title="24/7", Sailor Moon 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1080.ts
-
-#EXTINF:-1 tvg-chno="865" tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="24/7",Scooby Doo 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1081.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Shark Tank MX TEMP 1 24/7" tvg-chno="866" group-title="24/7", Shark Tank MX TEMP 1 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1082.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Shark Tank MX TEMP 2 24/7" tvg-chno="866" group-title="24/7", Shark Tank MX TEMP 2 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1085.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Shera 24/7" tvg-chno="867" group-title="24/7", Shera 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1086.ts
-
-#EXTINF:-1 tvg-chno="868" tvg-logo="http://x.playerlatino.live/smallville.png" group-title="24/7",Smallville 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1087.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2922
 
 #EXTINF:-1 tvg-chno="869" tvg-logo="http://x.playerlatino.live/southpark.png" group-title="24/7",South Park 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1089.ts
-
-#EXTINF:-1 tvg-chno="870" tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="24/7",Spiderman 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1091.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3533
 
 #EXTINF:-1 tvg-chno="871" tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="24/7",Super Campeones 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1092.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2943
 
 #EXTINF:-1 tvg-chno="872" tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="24/7",The Big Bang Theory 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1096.ts
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2931
 
-#EXTINF:-1 tvg-id="" tvg-name="Thundercats 1 24/7" tvg-chno="874" group-title="24/7", Thundercats 1 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1097.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Thundercats 2 24/7" tvg-chno="874" group-title="24/7", Thundercats 2 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1099.ts
-
-#EXTINF:-1 tvg-chno="875" tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="24/7",Tom y Jerry 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1100.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Vete a la Versh 24/7" tvg-chno="878" group-title="24/7", Vete a la Versh 24/7
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/GjfbfdhcxzbmbagigfrgypfVU/FybhdfhbhedhbjhrfvjhdevXf/1103.ts
+#EXTINF:-1 tvg-chno="873" tvg-logo="" group-title="24/7",The Walking Dead 24/7
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3029
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="849" tvg-logo="https://i.ytimg.com/vi/5fpLbWc6484/sddefault.jpg" tvg-name="Los Simpson 24/7"  group-title="24/7",Los Simpson 24/7
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w2142678180.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="880" tvg-logo="Logo N/A" tvg-name="La casa de Mickey Mouse 24/7"  group-title="24/7",La casa de Mickey Mouse 24/7
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/40.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-chno="881" tvg-logo="Logo N/A" tvg-name="Escandalosos 24/7"  group-title="24/7", Escandalosos 24/7
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3530
@@ -1496,6 +1281,12 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3535
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-chno="885" tvg-logo="Logo N/A" tvg-name="Un Show Mas 24/7"  group-title="24/7", Un Show Mas 24/7
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3536
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="885" tvg-logo="Logo N/A" tvg-name="Winnie The Pooh 24/7"  group-title="24/7", Winnie The Pooh 24/7
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3537
+
+#EXTINF:-1 tvg-id="EPG N/A" tvg-chno="885" tvg-logo="Logo N/A" tvg-name="Mounstros de Verdad 24/7"  group-title="24/7", Mounstros de Verdad 24/7
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2978
 
 # - Movies
 
