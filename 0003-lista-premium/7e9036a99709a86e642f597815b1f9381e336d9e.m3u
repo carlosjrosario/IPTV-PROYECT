@@ -149,7 +149,7 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/694
 #EXTINF:-1 tvg-id="CaracolTelevision.co" tvg-name="Caracol Televisión" tvg-chno="232" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Entretenimiento", Caracol Televisión
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/62
 
-#EXTINF:-1 tvg-id="TCTV.ec" tvg-name="TC TV" tvg-chno="795" tvg-logo="https://zuhar.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/08/04013925/canal-12-en-vivo-ecuador.png" group-title="Ecuador", TC TV
+#EXTINF:-1 tvg-id="TCTV.ec" tvg-name="TC TV" tvg-chno="795" tvg-logo="https://zuhar.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/08/04013925/canal-12-en-vivo-ecuador.png" group-title="Entretenimiento", TC TV
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/514
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-chno="234" tvg-logo="https://i.imgur.com/MnH8XKh.png" group-title="Entretenimiento", Unicable
