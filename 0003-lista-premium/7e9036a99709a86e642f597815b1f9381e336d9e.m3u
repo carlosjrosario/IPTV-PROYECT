@@ -107,19 +107,19 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/74
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthPanregional.us" tvg-name="Discovery Home & Health HD Panregional" tvg-chno="222" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="Entretenimiento", Discovery Home & Health HD Panregional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3135
 
-#EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-name="Telemundo South" tvg-chno="224 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo South
+#EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-name="Telemundo South" tvg-chno="224" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo South
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/146
 
-#EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-name="Telemundo South" tvg-chno="224 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo South
+#EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-name="Telemundo South" tvg-chno="224" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo South
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/216
 
-#EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-name="Telemundo South" tvg-chno="224 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo South
+#EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-name="Telemundo South" tvg-chno="224" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo South
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/154
 
-#EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-name="Telemundo South" tvg-chno="224 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo South
+#EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-name="Telemundo South" tvg-chno="224" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo South
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/144
 
-#EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-name="Telemundo South" tvg-chno="224 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo South
+#EXTINF:-1 tvg-id="TelemundoSouth.us" tvg-name="Telemundo South" tvg-chno="224" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Entretenimiento", Telemundo South
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/218
 
 #EXTINF:-1 tvg-id="ElGourmetPanregional.ar" tvg-name="El Gourmet Panregional" tvg-chno="225" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/512px-Elgourmetlogo2015.png" group-title="Entretenimiento", El Gourmet Panregional
@@ -653,9 +653,6 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3566
 #EXTINF:-1 tvg-id="ESPNExtraHDSouth.us" tvg-name="ESPN Extra HD South" tvg-chno="620" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/512px-Espn_extra_2015.PNG" group-title="Deportes", ESPN Extra HD South
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/164
 
-#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="Movistar Deportes" tvg-chno="621" tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes", Movistar Deportes
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/464
-
 #EXTINF:-1 tvg-id="MovistarDeportesPeru.pe" tvg-name="Movistar Deportes Peru" tvg-chno="621" tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes", Movistar Deportes Peru
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/464
 
@@ -782,13 +779,10 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/312
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/332
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-chno="640" tvg-logo="http://x.playerlatino.live/nfl.png" group-title="Deportes", NFL Network
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/334
-
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-chno="640" tvg-logo="http://x.playerlatino.live/nfl.png" group-title="Deportes", NFL Network
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/53
 
 #EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL RedZone" tvg-chno="640" tvg-logo="https://i.imgur.com/HhuTVnH.png" group-title="Deportes", NFL RedZone
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/334
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/333
 
 #EXTINF:-1 tvg-id="NFLSundayTicket.us" tvg-name="NFL Sunday Ticket" tvg-chno="640" tvg-logo="https://i.imgur.com/WBOM46Z.png" group-title="Deportes",NFL Sunday Ticket
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/52
@@ -1300,10 +1294,10 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/222
 #EXTINF:-1 tvg-id="NBCUniversoEast.us" tvg-name="NBC Universo East" tvg-chno="713" tvg-logo="https://i.imgur.com/oImYsoJ.png" group-title="Cultura", NBC Universo East
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/330
 
-#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet Latin America" tvg-chno="734" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Cultura", Animal Planet Latin America
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet Latin America" tvg-chno="714" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Cultura", Animal Planet Latin America
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/83
 
-#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet Latin America" tvg-chno="734" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Cultura", Animal Planet Latin America
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet Latin America" tvg-chno="714" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Cultura", Animal Planet Latin America
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/45
 
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet HD Latin America" tvg-chno="714" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg/512px-AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg.png" group-title="Cultura", Animal Planet HD Latin America
@@ -1351,7 +1345,7 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/1152
 #EXTINF:-1 tvg-id="DiscoveryFamilia.us" tvg-name="Discovery Familia" tvg-chno="722" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/512px-Discovery_Familia_logo.svg.png" group-title="Cultura", Discovery Familia
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3134
 
-#EXTINF:-1 tvg-id="NationalGeographicWildPanregional.us" tvg-name="National Geographic Wild Panregional" tvg-chno="723" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/512px-Discovery_Familia_logo.svg.png" group-title="Cultura", National Geographic Wild Panregional
+#EXTINF:-1 tvg-id="NationalGeographicWildPanregional.us" tvg-name="National Geographic Wild Panregional" tvg-chno="723" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Cultura", National Geographic Wild Panregional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/134
 
 # - España

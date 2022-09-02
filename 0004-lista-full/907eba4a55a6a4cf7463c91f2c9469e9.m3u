@@ -554,10 +554,6 @@ https://v3.playerlatino.live/stream/m3u8/890
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/878
 
-#EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AyM Sports" tvg-chno="627" tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="Deportes", AyM Sports
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/148
-
 #EXTINF:-1 tvg-id="TyCSportsPanregional.ar" tvg-name="TyC Sports Panregional" tvg-chno="625" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="Deportes", TyC Sports Panregional
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/274
@@ -565,6 +561,10 @@ https://v3.playerlatino.live/stream/m3u8/274
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-chno="626" tvg-logo="https://i.imgur.com/vfBkXoM.png" group-title="Deportes", Claro Sports
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/328
+
+#EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AyM Sports" tvg-chno="626" tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="Deportes", AyM Sports
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/148
 
 #EXTINF:-1 tvg-id="TUDNMexico.mx" tvg-name="TUDN Mexico" tvg-chno="627" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes", TUDN Mexico
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -1812,7 +1812,7 @@ https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/DhhgbjtyjhfdsdatgvCV/Burcrhhhghjurfvdfhhee/
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/DhhgbjtyjhfdsdatgvCV/Burcrhhhghjurfvdfhhee/538.ts
 
-#EXTINF:-1 tvg-id="DiscoveryChannelChile.cl" tvg-name="Discovery Channel Chile" tvg-chno="732" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="Cultura", Discovery Channel Chile
+#EXTINF:-1 tvg-id="DiscoveryChannelChile.cl" tvg-name="Discovery Channel Chile" tvg-chno="712" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="Cultura", Discovery Channel Chile
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://mzd6d9nbr2r5x3hkw2ndk.xyz/tk/DhhgbjtyjhfdsdatgvCV/Burcrhhhghjurfvdfhhee/514.ts
 
