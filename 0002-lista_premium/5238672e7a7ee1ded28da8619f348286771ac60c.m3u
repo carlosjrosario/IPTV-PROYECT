@@ -508,7 +508,7 @@ https://v3.playerlatino.live/stream/m3u8/512
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/259
 
-#EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-name="DirecTV Sports 2" tvg-chno="612" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/512px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="Deportes", DirecTV Sports 2
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="DirecTV Sports Argentina" tvg-chno="610" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes", DirecTV Sports Panregional
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/667
 
@@ -528,7 +528,7 @@ https://v3.playerlatino.live/stream/m3u8/35
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/531
 
-#EXTINF:-1 tvg-id="ESPN4South.us" tvg-name="ESPN 4 South" tvg-chno="619" tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes", ESPN 4 South
+#EXTINF:-1 tvg-id="ESPN4South.us" tvg-name="ESPN 4 South" tvg-chno="619" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Deportes", ESPN 4 South
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/52
 
@@ -540,7 +540,7 @@ https://v3.playerlatino.live/stream/m3u8/37
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/366
 
-#EXTINF:-1 tvg-id="MovistarDeportes1.es" tvg-name="Movistar Deportes 1" tvg-chno="622" tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" group-title="Deportes", Movistar Deportes 1
+#EXTINF:-1 tvg-id="MovistarLigadeCampeones.es" tvg-name="Movistar Liga de Campeones" tvg-chno="623" tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes", Movistar Liga de Campeones
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/367
 

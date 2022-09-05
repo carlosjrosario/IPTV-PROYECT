@@ -238,14 +238,20 @@ http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-chno="276" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Música",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="277" group-title="Música",All The K-POP
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_200x200.jpg" tvg-chno="277" group-title="Música",All The K-POP
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ALLTHEKPOP/live
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_200x200.jpg" tvg-chno="277" group-title="Música",The K-POP
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live
 
 #EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-chno="278" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Música",KpopTV Play (720p) [Not 24/7]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="279" tvg-logo="https://yt3.ggpht.com/-59VCA1UQNHtv0wYsPP-6i89-7VlPSmTOXe8n_O4jBDoqtgVMqL9oBdiwFo3ZIYzoYw3COqkmQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="Vorterix" group-title="Música",Vorterix
-https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AZDKnSo2AlY
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AZDKnSo2AlY
+
+#EXTINF:-1 tvg-id="" tvg-chno="280" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8hZs0A0SGfoLM1DM324TZUIRyM1LMziRSW5uwlqg=s88-c-k-c0x00ffffff-no-rj" tvg-name="Dapa Deep" group-title="Música",Dapa Deep
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChmbvGtjGOFvNE-IAHbAZZw/live
 
 # - Infantil
 
@@ -285,13 +291,13 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/124
 #EXTINF:-1 tvg-id="CartoonitoArgentina.ar" tvg-name="Cartoonito HD" tvg-chno="312" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil", Cartoonito HD
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/58
 
-#EXTINF:-1 tvg-id="BoingSpain.it" tvg-name="Boing Spain" tvg-chno="313" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil", Boing Spain
+#EXTINF:-1 tvg-id="BoingSpain.it" tvg-name="Boing Spain" tvg-chno="313" tvg-logo="https://i.imgur.com/mIbmYs1.png" group-title="Infantil", Boing Spain
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3220
 
-#EXTINF:-1 tvg-id="UltraFamilia.us" tvg-name="Ultra Familia" tvg-chno="314" tvg-logo="https://i.imgur.com/mIbmYs1.png" group-title="Infantil", Ultra Familia
+#EXTINF:-1 tvg-id="UltraFamilia.us" tvg-name="Ultra Familia" tvg-chno="314" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/ultra-familia.png" group-title="Infantil", Ultra Familia
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3402
 
-#EXTINF:-1 tvg-id="UltraFamilia.us" tvg-name="Ultra Familia" tvg-chno="314" tvg-logo="https://i.imgur.com/mIbmYs1.png" group-title="Infantil", Ultra Familia
+#EXTINF:-1 tvg-id="UltraFamilia.us" tvg-name="Ultra Familia" tvg-chno="314" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/ultra-familia.png" group-title="Infantil", Ultra Familia
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3585
 
 #EXTINF:-1 tvg-id="UltraKidz.us" tvg-name="Ultra Kidz" tvg-chno="315" tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/11/Ultra-kidz-Logo.png" group-title="Infantil", Ultra Kidz
@@ -310,34 +316,34 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/1110
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3491
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/aS3CnijPv09vRb35wr6NDe6MiR74FffvIipfi2Fp8c3nO2TCSgBnbX4jfbGWr14pL2zfS31tMC4=s88-c-k-c0x00ffffff-no-rj" tvg-name="Cartoon Network LA" group-title="Infantil",Cartoon Network LA
-https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=4x8ZQN5gWSc
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=4x8ZQN5gWSc
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_OFRR0tMA4MXUJATKTZl3ybfHbk96ZKx86lPx5=s88-c-k-c0x00ffffff-no-rj" tvg-name="DC Kids Latino"  group-title="Infantil",DC Kids Latino
-https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=U-Wsx3nuLDY
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=U-Wsx3nuLDY
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-wWiZ4KMSAwHKlvieFewygBEuX0nA-aSO-eNZMtw=s88-c-k-c0x00ffffff-no-rj" tvg-name="DC Kids España" group-title="Infantil",DC Kids España
-https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=VKaEHwehXEY
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=VKaEHwehXEY
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_QHih7LsMw-X-jqpjEcZGoaFnF3mAr4MLVODWeUw=s88-c-k-c0x00ffffff-no-rj" tvg-name="DC Kids International" group-title="Infantil",DC Kids International
-https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-Y-9oMccWjg
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-Y-9oMccWjg
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8oWHRf77Q34-PcTa1-Zs-ktHIm4apcreoS28L5-Q=s88-c-k-c0x00ffffff-no-rj" tvg-name="WB Kids Latino" group-title="Infantil",WB Kids Latino
-https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=PX2wegQtnBQ
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=PX2wegQtnBQ
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_OFRR0tMA4MXUJATKTZl3ybfHbk96ZKx86lPx5=s88-c-k-c0x00ffffff-no-rj" tvg-name="WB Kids España" group-title="Infantil",WB Kids España
-https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=8FjPx-hq1Ak
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=8FjPx-hq1Ak
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8k5GUfgmkrxcVtYrXgTmqrpEm6NBxcp58A7G4mqQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="WB Kids International" group-title="Infantil",WB Kids International
-https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CTShOY9IYYI
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CTShOY9IYYI
 
 #EXTINF:-1 tvg-id="" tvg-chno="308" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-BjaUpLhDYndTrxIpb6uxCnhXIjEBgdnoEjX4h=s88-c-k-c0x00ffffff-no-rj" tvg-name="PJ Masks Español - Canal Oficial" group-title="Infantil",PJ Masks Español - Canal Oficial
-https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BIiaoTQZX3I
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BIiaoTQZX3I
 
 #EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9rX6ysvDNMMfgpH6D-jRPqvQNM-d2AsYOkVSeZtw=s88-c-k-c0x00ffffff-no-rj" tvg-name="Peppa Pig Español Latino - Canal Oficial" group-title="Infantil",Peppa Pig Español Latino - Canal Oficial
-https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hl_nACnH42w
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hl_nACnH42w
 
 #EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/XV6oFWOJ0kiqTAzkEmoq8kjJnwnx8EwI3oIgDaOOPJSuNXxVg1nR0meE0ZFRobzyGbCL-GYy=s88-c-k-c0x00ffffff-no-rj" tvg-name="Power Rangers para Niños - Canal Oficial" group-title="Infantil",Power Rangers para Niños - Canal Oficial
-https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/PowerRangersparaNi%C3%B1osCanalOficial/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PowerRangersparaNi%C3%B1osCanalOficial/live
 
 # - Películas
 
@@ -481,9 +487,6 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/128
 
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" tvg-chno="531" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Películas", HBO Xtreme Latin America
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3152
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE ACCION" tvg-chno="532" group-title="Películas", CINE ACCION
-http://51.222.25.50:25461/N0P3RR0/n0r0b3s/73
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE ACCION" tvg-chno="532" group-title="Películas", CINE ACCION
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3022
@@ -910,24 +913,24 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3129
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="643" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9EkC963336t3nfkw97IXEXRr_KGyDmWmDG4x0d=s88-c-k-c0x00ffffff-no-rj" tvg-name="América Sports" group-title="Deportes",América Sports
-https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=B9hwOM6jAbs
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=B9hwOM6jAbs
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="644" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Liga MX"  group-title="Deportes",VIX Liga MX
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="645" tvg-logo="https://yt3.ggpht.com/vi4O9pwYkxHy2lw57CV-hgbQlhQQTf4BEMyoXt4wzvhH4v7h55HHLm5tBa51efSr5kJRh2ka=s88-c-k-c0x00ffffff-no-rj" tvg-name="FIBA , ¡el Canal de Baloncesto!" group-title="Deportes",FIBA , ¡el Canal de Baloncesto!
-https://query-streamlink-carlos.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/FIBAWorld/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/FIBAWorld/live
 
-#EXTINF:-1 tvg-id="DAZN1Spain.uk" tvg-chno="646" tvg-logo="https://i.imgur.com/1dqV4R2.png" tvg-name="DAZN 1 Spain"  group-title="Deportes",DAZN 1 Spain
+#EXTINF:-1 tvg-id="DAZN1Spain.uk" tvg-chno="646" tvg-logo="https://i.imgur.com/9A63D4g.png" tvg-name="DAZN 1 Spain"  group-title="Deportes",DAZN 1 Spain
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3322
 
-#EXTINF:-1 tvg-id="DAZN2Spain.uk" tvg-chno="646" tvg-logo="https://i.imgur.com/1dqV4R2.png" tvg-name="DAZN 2 Spain"  group-title="Deportes",DAZN 2 Spain
+#EXTINF:-1 tvg-id="DAZN2Spain.uk" tvg-chno="646" tvg-logo="https://i.imgur.com/BevbzGm.png" tvg-name="DAZN 2 Spain"  group-title="Deportes",DAZN 2 Spain
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3323
 
-#EXTINF:-1 tvg-id="DAZN3Spain.uk" tvg-chno="646" tvg-logo="https://i.imgur.com/1dqV4R2.png" tvg-name="DAZN 3 Spain"  group-title="Deportes",DAZN 3 Spain
+#EXTINF:-1 tvg-id="DAZN3Spain.uk" tvg-chno="646" tvg-logo="https://i.imgur.com/fpM3ty5.png" tvg-name="DAZN 3 Spain"  group-title="Deportes",DAZN 3 Spain
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3324
 
-#EXTINF:-1 tvg-id="DAZN4Spain.uk" tvg-chno="646" tvg-logo="https://i.imgur.com/1dqV4R2.png" tvg-name="DAZN 4 Spain"  group-title="Deportes",DAZN 4 Spain
+#EXTINF:-1 tvg-id="DAZN4Spain.uk" tvg-chno="646" tvg-logo="https://i.imgur.com/SpddoBy.png" tvg-name="DAZN 4 Spain"  group-title="Deportes",DAZN 4 Spain
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3325
 
 #EXTINF:-1 tvg-id="DAZNF1.es" tvg-chno="647" tvg-logo="https://i.imgur.com/1dqV4R2.png" tvg-name="DAZN F1"  group-title="Deportes",DAZN F1
@@ -1344,6 +1347,9 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/1152
 
 #EXTINF:-1 tvg-id="DiscoveryFamilia.us" tvg-name="Discovery Familia" tvg-chno="722" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/512px-Discovery_Familia_logo.svg.png" group-title="Cultura", Discovery Familia
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3134
+
+#EXTINF:-1 tvg-id="DiscoveryFamilia.us" tvg-name="Discovery Familia" tvg-chno="722" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/512px-Discovery_Familia_logo.svg.png" group-title="Cultura", Discovery Familia
+http://51.222.25.50:25461/N0P3RR0/n0r0b3s/73
 
 #EXTINF:-1 tvg-id="NationalGeographicWildPanregional.us" tvg-name="National Geographic Wild Panregional" tvg-chno="723" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Cultura", National Geographic Wild Panregional
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/134
