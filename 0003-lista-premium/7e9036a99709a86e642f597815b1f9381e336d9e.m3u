@@ -250,9 +250,6 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="279" tvg-logo="https://yt3.ggpht.com/-59VCA1UQNHtv0wYsPP-6i89-7VlPSmTOXe8n_O4jBDoqtgVMqL9oBdiwFo3ZIYzoYw3COqkmQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="Vorterix" group-title="Música",Vorterix
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AZDKnSo2AlY
 
-#EXTINF:-1 tvg-id="" tvg-chno="280" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8hZs0A0SGfoLM1DM324TZUIRyM1LMziRSW5uwlqg=s88-c-k-c0x00ffffff-no-rj" tvg-name="Dapa Deep" group-title="Música",Dapa Deep
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChmbvGtjGOFvNE-IAHbAZZw/live
-
 # - Infantil
 
 #EXTINF:-1 tvg-id="CartoonNetworkHDSouthAtlantic.us" tvg-name="Cartoon Network HD South Atlantic" tvg-chno="301" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Infantil", Cartoon Network HD South Atlantic
@@ -1635,3 +1632,11 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/2978
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="999" tvg-logo="https://sergiojamon.com/wp-content/uploads/2022/04/todos-los-originales-tubi-que-veremos-gratis.png" tvg-name="Tubi Original"  group-title="Movies",Tubi Original
 https://csm-e-cetubiausw2live204-09870eb60fc6631c0.csm.tubi.video/csm/live/499780459/u002Ftubiprd01,Tubi-Originals.m3u8
+
+# - XXX
+
+#EXTINF:-1 tvg-id="" tvg-chno="10008" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8hZs0A0SGfoLM1DM324TZUIRyM1LMziRSW5uwlqg=s88-c-k-c0x00ffffff-no-rj" tvg-name="Dapa Deep" group-title="XXX",Dapa Deep
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChmbvGtjGOFvNE-IAHbAZZw/live
+
+#EXTINF:-1 tvg-id="" tvg-chno="10009" tvg-logo="https://yt3.ggpht.com/3fIsrBXbZ7_Wgx6VggXWM4YYDis_rQmEPllkgBcYo4c89b-MKvJ0gHBOybAxsUhYpf-8bgeQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="Emma Ruby | LIVE" group-title="XXX",Emma Ruby | LIVE
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=RAy3Cjvkpck
