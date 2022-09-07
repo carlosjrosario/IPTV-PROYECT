@@ -805,7 +805,7 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/46
 # - MLB live
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
-https://tve-live.mlb.com/1661547257_3dfa6d9258a91cff87b0f6c4ac1004c93e5347945568481953b2196fe521c294/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://tve-live.mlb.com/1662593971_b35a0fa139b91bc600da822724e375d0dae0f41fefcc23543bcb61fb11315042/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
 http://51.222.25.50:25461/N0P3RR0/n0r0b3s/303
@@ -1640,3 +1640,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF:-1 tvg-id="" tvg-chno="10009" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_14FgUS4wAw7NhDY5HtvMjgmIDAw9FEzMeKrw8Rg=s88-c-k-c0x00ffffff-no-rj" tvg-name="Bikini Try On Haul | Poolside 24/7" group-title="XXX",Poolside Playlist
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCsbZGadKfSM8Y62PRe_pLPA/live
+
+#EXTINF:-1 tvg-id="" tvg-chno="10010" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_14FgUS4wAw7NhDY5HtvMjgmIDAw9FEzMeKrw8Rg=s88-c-k-c0x00ffffff-no-rj" tvg-name="Nikko Culture 24/7 - Supermodels & Music | Summer Vibes" group-title="XXX",Nikko Culture
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwoAP80fqDaVWLmO6LYVEsw/live
