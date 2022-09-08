@@ -333,6 +333,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="Canela Kids" tvg-chno="320" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdNN4h5bEaCb114tCeZbBSJpJe0UMAJ4G6nUvhPyXojC1a-eVT3ZevTvVejfK0r0AgHmXFRJZUauU_6Wam6CSjogDNcF5QkHD_ZwiOBhv9_aV3tXf2Mzp2YNe76yjl_OQC-uBmmOzVQDoQg1gE-lKjOFEP2zRyy8Eyf1Tcn4fnJGn632L-a8KF_oqM_g/s800/Sin%20t%C3%ADtulo.jpg" group-title="Infantil",Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-name="Anime Zone TV" tvg-chno="320" tvg-logo="https://i.imgur.com/8DWQeMz.png" group-title="Infantil",Anime Zone TV
+https://azxtv.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/aS3CnijPv09vRb35wr6NDe6MiR74FffvIipfi2Fp8c3nO2TCSgBnbX4jfbGWr14pL2zfS31tMC4=s88-c-k-c0x00ffffff-no-rj" tvg-name="Cartoon Network LA" group-title="Infantil",Cartoon Network LA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=4x8ZQN5gWSc
 
