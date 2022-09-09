@@ -176,29 +176,32 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/284
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="239" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Familia"  group-title="Entretenimiento",VIX Familia
 https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="240" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Novelas de Romance"  group-title="Entretenimiento",VIX Novelas de Romance
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="239" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Novelas de Romance"  group-title="Entretenimiento",VIX Novelas de Romance
 https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="241" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Novelas de Oro"  group-title="Entretenimiento",VIX Novelas de Oro
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="239" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Novelas de Oro"  group-title="Entretenimiento",VIX Novelas de Oro
 https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Nuestra_Visi%C3%B3n_Logo.png/512px-Nuestra_Visi%C3%B3n_Logo.png" tvg-name="Nuestra Visión"  group-title="Entretenimiento",Nuestra Visión
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="240" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" tvg-name="Canela Telenovelas" group-title="Entretenimiento",Canela Telenovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="240" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/novelisima_16x9_0.jpg" tvg-name="Canela Novelisima" group-title="Entretenimiento",Canela Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+#EXTINF:-1 tvg-id="" tvg-chno="240" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/vive_kanal_d_drama_16x9_0.jpg" tvg-name="Vive Kanal D Drama" group-title="Películas",Vive Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="241" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Nuestra_Visi%C3%B3n_Logo.png/512px-Nuestra_Visi%C3%B3n_Logo.png" tvg-name="Nuestra Visión"  group-title="Entretenimiento",Nuestra Visión
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master_3.m3u8
+
+#EXTINF:-1 tvg-id="SunChannel.ve" tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/512px-Sun_Channel_Logo_2022.webp.png" tvg-name="Sun Channel"  group-title="Entretenimiento",Sun Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sun-channel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="244" tvg-logo="https://images.fanart.tv/fanart/spanglish-55f68a827f86c.png" tvg-name="Spanglish" group-title="Entretenimiento",Spanglish
+https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/XKQZUW4HJ58IMCQS2AEA/hls3/now_-1m_15s/m.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="245" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inti-tv-ec.png" tvg-name="INTI"  group-title="Entretenimiento",INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w2127623327.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="246" tvg-logo="https://images.fanart.tv/fanart/spanglish-55f68a827f86c.png" tvg-name="Spanglish" group-title="Entretenimiento",Spanglish
-https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/XKQZUW4HJ58IMCQS2AEA/hls3/now_-1m_15s/m.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="246" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" tvg-name="Canela Telenovelas" group-title="Entretenimiento",Canela Telenovelas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="246" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/novelisima_16x9_0.jpg" tvg-name="Canela Novelisima" group-title="Entretenimiento",Canela Novelisima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-
-#EXTINF:-1 tvg-id="SunChannel.ve" tvg-chno="247" tvg-logo="https://images.fanart.tv/fanart/spanglish-55f68a827f86c.png" tvg-name="Sun Channel"  group-title="Entretenimiento",Sun Channel
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sun-channel/playlist.m3u8
 
 # - Música
 
@@ -244,9 +247,6 @@ https://v2.catcast.tv/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="RocklandTV.de" tvg-name="Rockland TV (720p) [Not 24/7]" tvg-chno="273" tvg-logo="https://i.imgur.com/vIMkVo6.png" group-title="Música",Rockland TV (720p) [Not 24/7]
 http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="273" tvg-logo="RewindTV.cl" tvg-name="RewindTV" group-title="Música",RewindTV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-chno="276" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Música",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
@@ -262,10 +262,13 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="279" tvg-logo="https://yt3.ggpht.com/-59VCA1UQNHtv0wYsPP-6i89-7VlPSmTOXe8n_O4jBDoqtgVMqL9oBdiwFo3ZIYzoYw3COqkmQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="Vorterix" group-title="Música",Vorterix
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AZDKnSo2AlY
 
-#EXTINF:-1 tvg-id="" tvg-chno="280" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/canela-hits-16x9-v1_2.jpg" tvg-name="Canela Hits" group-title="Música",Canela Hits
+#EXTINF:-1 tvg-id="" tvg-chno="281" tvg-logo="RewindTV.cl" tvg-name="RewindTV" group-title="Música",RewindTV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="288" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/canela-hits-16x9-v1_2.jpg" tvg-name="Canela Hits" group-title="Música",Canela Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 
-#EXTINF:-1 tvg-id="" tvg-chno="280" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/cm-canela-presents-16x9_1.jpg" tvg-name="Canela Music Presents" group-title="Música",Canela Music Presents
+#EXTINF:-1 tvg-id="" tvg-chno="288" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/cm-canela-presents-16x9_1.jpg" tvg-name="Canela Music Presents" group-title="Música",Canela Music Presents
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 
 # - Infantil
@@ -333,10 +336,10 @@ http://51.222.25.50:25461/N0P3RR0/n0r0b3s/3491
 #EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="Toon Goggles" tvg-chno="319" tvg-logo="https://i.imgur.com/oyIMxzM.png" group-title="Infantil",Toon Goggles
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 
-#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="Canela Kids" tvg-chno="320" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdNN4h5bEaCb114tCeZbBSJpJe0UMAJ4G6nUvhPyXojC1a-eVT3ZevTvVejfK0r0AgHmXFRJZUauU_6Wam6CSjogDNcF5QkHD_ZwiOBhv9_aV3tXf2Mzp2YNe76yjl_OQC-uBmmOzVQDoQg1gE-lKjOFEP2zRyy8Eyf1Tcn4fnJGn632L-a8KF_oqM_g/s800/Sin%20t%C3%ADtulo.jpg" group-title="Infantil",Canela Kids
+#EXTINF:-1 tvg-id="" tvg-name="Canela Kids" tvg-chno="320" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdNN4h5bEaCb114tCeZbBSJpJe0UMAJ4G6nUvhPyXojC1a-eVT3ZevTvVejfK0r0AgHmXFRJZUauU_6Wam6CSjogDNcF5QkHD_ZwiOBhv9_aV3tXf2Mzp2YNe76yjl_OQC-uBmmOzVQDoQg1gE-lKjOFEP2zRyy8Eyf1Tcn4fnJGn632L-a8KF_oqM_g/s800/Sin%20t%C3%ADtulo.jpg" group-title="Infantil",Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-name="Anime Zone TV" tvg-chno="320" tvg-logo="https://i.imgur.com/8DWQeMz.png" group-title="Infantil",Anime Zone TV
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-name="Anime Zone TV" tvg-chno="321" tvg-logo="https://i.imgur.com/8DWQeMz.png" group-title="Infantil",Anime Zone TV
 https://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/aS3CnijPv09vRb35wr6NDe6MiR74FffvIipfi2Fp8c3nO2TCSgBnbX4jfbGWr14pL2zfS31tMC4=s88-c-k-c0x00ffffff-no-rj" tvg-name="Cartoon Network LA" group-title="Infantil",Cartoon Network LA
@@ -461,29 +464,26 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 #EXTINF:-1 tvg-id="RuntimeSpain.es" tvg-chno="522" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" tvg-name="Runtime Spain" group-title="Películas",Runtime Spain
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 
-#EXTINF:-1 tvg-id="" tvg-chno="522" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/logo-696x392.png" tvg-name="Canela TV" group-title="Películas",Canela TV
+#EXTINF:-1 tvg-id="" tvg-chno="523" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/logo-696x392.png" tvg-name="Canela TV" group-title="Películas",Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 
-#EXTINF:-1 tvg-id="" tvg-chno="522" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/logo-696x392.png" tvg-name="Canela TV" group-title="Películas",Canela TV
+#EXTINF:-1 tvg-id="" tvg-chno="523" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/logo-696x392.png" tvg-name="Canela TV" group-title="Películas",Canela TV
 https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="522" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-cinema.jpg" tvg-name="Canela TV Cinema" group-title="Películas",Canela TV Cinema
+#EXTINF:-1 tvg-id="" tvg-chno="523" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-cinema.jpg" tvg-name="Canela TV Cinema" group-title="Películas",Canela TV Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 
-#EXTINF:-1 tvg-id="" tvg-chno="522" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-classics.jpg" tvg-name="Canela V Clasicos" group-title="Películas",Canela TV Clasicos
+#EXTINF:-1 tvg-id="" tvg-chno="523" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-classics.jpg" tvg-name="Canela V Clasicos" group-title="Películas",Canela TV Clasicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
-#EXTINF:-1 tvg-id="" tvg-chno="522" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-cine-romantico.jpg" tvg-name="Cine Romántico" group-title="Películas",Cine Romántico
+#EXTINF:-1 tvg-id="" tvg-chno="523" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-cine-romantico.jpg" tvg-name="Cine Romántico" group-title="Películas",Cine Romántico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
-#EXTINF:-1 tvg-id="" tvg-chno="522" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-accion-mexicana-16x9.jpg" tvg-name="Acción Mexicana" group-title="Películas",Acción Mexicana
+#EXTINF:-1 tvg-id="" tvg-chno="523" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-accion-mexicana-16x9.jpg" tvg-name="Acción Mexicana" group-title="Películas",Acción Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
-#EXTINF:-1 tvg-id="" tvg-chno="522" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/diseno_sin_titulo_17.jpg" tvg-name="Flou Cine" group-title="Películas",Flou Cine
+#EXTINF:-1 tvg-id="" tvg-chno="523" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/diseno_sin_titulo_17.jpg" tvg-name="Flou Cine" group-title="Películas",Flou Cine
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-chno="522" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/vive_kanal_d_drama_16x9_0.jpg" tvg-name="Vive Kanal D Drama" group-title="Películas",Vive Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO Latin America" tvg-chno="524" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Películas", HBO Latin America
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/196
