@@ -5,14 +5,26 @@
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-name="Star Channel Central America" tvg-chno="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel Central America
 http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/97
 
+#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-name="Star Channel Central America" tvg-chno="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel Central America
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/38
+
 #EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-name="Star Channel HD Central America" tvg-chno="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel HD Central America
 http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/3475
 
+#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-name="Star Channel HD Central America" tvg-chno="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="Entretenimiento", Star Channel HD Central America
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/247
+
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-name="Warner Channel South" tvg-chno="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Entretenimiento", Warner Channel South
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/185
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/89084
+
+#EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-name="Warner Channel South" tvg-chno="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Entretenimiento", Warner Channel South
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/272
 
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-name="Warner Channel HD South" tvg-chno="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Entretenimiento", Warner Channel HD South
 http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/178
+
+#EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-name="Warner Channel HD South" tvg-chno="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="Entretenimiento", Warner Channel HD South
+http://live.reystream.us:8080/mio1977/GugiQiLYNT/287
 
 #EXTINF:-1 tvg-id="AEPanregional.us" tvg-name="A&E HD Panregional" tvg-chno="203" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="Entretenimiento", A&E HD Panregional
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/214
@@ -270,6 +282,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 
 #EXTINF:-1 tvg-id="" tvg-chno="288" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/cm-canela-presents-16x9_1.jpg" tvg-name="Canela Music Presents" group-title="Música",Canela Music Presents
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+
+#EXTINF:-1 tvg-id="" tvg-chno="289" tvg-logo="https://www.radiocatedraldorock.com/admin/assets/img/logo.png" tvg-name="Catedral do Rock TV" group-title="Música",Catedral do Rock TV
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 
 # - Infantil
 
@@ -865,7 +880,7 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/46
 # - MLB live
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://tve-live.mlb.com/1662593971_b35a0fa139b91bc600da822724e375d0dae0f41fefcc23543bcb61fb11315042/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
+https://tve-live.mlb.com/1662593971_b35a0fa139b91bc600da822724e375d0dae0f41fefcc23543bcb61fb11315042/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
 http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/303
