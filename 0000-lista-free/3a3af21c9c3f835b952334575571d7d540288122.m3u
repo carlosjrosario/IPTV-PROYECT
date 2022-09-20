@@ -46,6 +46,24 @@ http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="274" tvg-logo="https://www.radiocatedraldorock.com/admin/assets/img/logo.png" tvg-name="Catedral do Rock TV" group-title="Música",Catedral do Rock TV
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MusicChoiceRock.us" tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/512px-Music_Choice_logo.png" tvg-name="Music Choice Rock" group-title="Música",Music Choice Rock
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL138/O0U9MTY2MzcyNjQzMTtBPTE7Sz0wO1A9MDExMTA7Uz04ZmMzM2Y2ZDQyZWJkZDgyOTEzYjliMDI4NWMzNTIyZmYzZGY1OTg2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MusicChoiceSoftRock.us" tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/512px-Music_Choice_logo.png" tvg-name="Music Choice Soft Rock" group-title="Música",Music Choice Soft Rock
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1118/O0U9MTY2MzcyNjYyMDtBPTE7Sz0wO1A9MDExMTA7Uz00ZjRkZjg3MTk0OGY0ZDAxMjUyMzllOTg3MjEwZDFmYmQ0YjYxM2Ji/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MusicChoiceY2K.us" tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/512px-Music_Choice_logo.png" tvg-name="Music Choice Y2K" group-title="Música",Music Choice Y2K
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL145/O0U9MTY2MzcyNjYzMjtBPTE7Sz0wO1A9MDExMTA7Uz1jOTliZWNjMGYwM2FjNTYzZjA0OTc4NmJjYjgwYjcwMzJmNDcwYzc4/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MusicChoice90s.us" tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/512px-Music_Choice_logo.png" tvg-name="Music Choice 90s" group-title="Música",Music Choice 90s
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL140/O0U9MTY2MzcyNjU4MDtBPTE7Sz0wO1A9MDExMTA7Uz02ZmFhZmMyZGFkYzI1NDc4YTgyMjY3ZjA4MDFjMjRmMGUwYWEwYzI2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MusicChoice80s.us" tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/512px-Music_Choice_logo.png" tvg-name="Music Choice 80s" group-title="Música",Music Choice 80s
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1113/O0U9MTY2MzcyNjYzMDtBPTE7Sz0wO1A9MDExMTA7Uz0wNTU1M2Q0MTM0NGQwMDE5NTc0OTczNTMxZTEwMjVjZWZiYTU4ZWRi/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MusicChoiceAlternative.us" tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/512px-Music_Choice_logo.png" tvg-name="Music Choice Alternative" group-title="Música",Music Choice Alternative
+https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL122/O0U9MTY2MzcyNjYzNztBPTE7Sz0wO1A9MDExMTA7Uz01YWU2Mjg4MzQ2YTlhY2VjODkzY2YwNzUwOTI2ZmUxNTMyOTQ5MWMz/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-chno="276" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Música",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
