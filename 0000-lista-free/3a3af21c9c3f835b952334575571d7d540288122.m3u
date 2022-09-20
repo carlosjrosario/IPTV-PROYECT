@@ -17,7 +17,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="240" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/novelisima_16x9_0.jpg" tvg-name="Canela Novelisima" group-title="Entretenimiento",Canela Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-#EXTINF:-1 tvg-id="" tvg-chno="240" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/vive_kanal_d_drama_16x9_0.jpg" tvg-name="Vive Kanal D Drama" group-title="Películas",Vive Kanal D Drama
+#EXTINF:-1 tvg-id="" tvg-chno="240" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/vive_kanal_d_drama_16x9_0.jpg" tvg-name="Vive Kanal D Drama" group-title="Entretenimiento",Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="241" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Nuestra_Visi%C3%B3n_Logo.png/512px-Nuestra_Visi%C3%B3n_Logo.png" tvg-name="Nuestra Visión"  group-title="Entretenimiento",Nuestra Visión
@@ -43,6 +43,9 @@ https://v2.catcast.tv/content/33816/index.m3u8
 #EXTINF:-1 tvg-id="RocklandTV.de" tvg-name="Rockland TV (720p) [Not 24/7]" tvg-chno="273" tvg-logo="https://i.imgur.com/vIMkVo6.png" group-title="Música",Rockland TV (720p) [Not 24/7]
 http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-chno="274" tvg-logo="https://www.radiocatedraldorock.com/admin/assets/img/logo.png" tvg-name="Catedral do Rock TV" group-title="Música",Catedral do Rock TV
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-chno="276" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Música",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
@@ -66,9 +69,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 
 #EXTINF:-1 tvg-id="" tvg-chno="288" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/cm-canela-presents-16x9_1.jpg" tvg-name="Canela Music Presents" group-title="Música",Canela Music Presents
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
-
-#EXTINF:-1 tvg-id="" tvg-chno="289" tvg-logo="https://www.radiocatedraldorock.com/admin/assets/img/logo.png" tvg-name="Catedral do Rock TV" group-title="Música",Catedral do Rock TV
-https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 
 # - Infantil
 
