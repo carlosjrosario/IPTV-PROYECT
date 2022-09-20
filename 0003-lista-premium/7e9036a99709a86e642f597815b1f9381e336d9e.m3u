@@ -185,36 +185,6 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/217
 #EXTINF:-1 tvg-id="GalavisionEast.us" tvg-name="Galavisión East" tvg-chno="237" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png" group-title="Entretenimiento", Galavisión East
 http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/284
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="239" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Familia"  group-title="Entretenimiento",VIX Familia
-https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="239" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Novelas de Romance"  group-title="Entretenimiento",VIX Novelas de Romance
-https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="239" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Novelas de Oro"  group-title="Entretenimiento",VIX Novelas de Oro
-https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="240" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/image.jpeg" tvg-name="Canela Telenovelas" group-title="Entretenimiento",Canela Telenovelas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="240" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/novelisima_16x9_0.jpg" tvg-name="Canela Novelisima" group-title="Entretenimiento",Canela Novelisima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-
-#EXTINF:-1 tvg-id="" tvg-chno="240" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/vive_kanal_d_drama_16x9_0.jpg" tvg-name="Vive Kanal D Drama" group-title="Películas",Vive Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="241" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Nuestra_Visi%C3%B3n_Logo.png/512px-Nuestra_Visi%C3%B3n_Logo.png" tvg-name="Nuestra Visión"  group-title="Entretenimiento",Nuestra Visión
-https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master_3.m3u8
-
-#EXTINF:-1 tvg-id="SunChannel.ve" tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/512px-Sun_Channel_Logo_2022.webp.png" tvg-name="Sun Channel"  group-title="Entretenimiento",Sun Channel
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sun-channel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="244" tvg-logo="https://images.fanart.tv/fanart/spanglish-55f68a827f86c.png" tvg-name="Spanglish" group-title="Entretenimiento",Spanglish
-https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/XKQZUW4HJ58IMCQS2AEA/hls3/now_-1m_15s/m.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="245" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inti-tv-ec.png" tvg-name="INTI"  group-title="Entretenimiento",INTI
-https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w2127623327.m3u8
-
 # - Música
 
 #EXTINF:-1 tvg-id="MTVHDSouth.us" tvg-name="MTV HD South" tvg-chno="261" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Música", MTV HD South
@@ -249,42 +219,6 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/68
 
 #EXTINF:-1 tvg-id="TelehitMusicaEstadosUnidos.us" tvg-name="Telehit Musica Estados Unidos" tvg-chno="269" tvg-logo="http://x.playerlatino.live/ritmoson.png" group-title="Música", Telehit Musica Estados Unidos
 http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/141
-
-#EXTINF:-1 tvg-id="SluhaybyRock.by" tvg-name="Sluhay.by Rock (720p) [Not 24/7]" tvg-chno="271" tvg-logo="https://sluhay.by/assets/logo_rock.png" group-title="Música",Sluhay.by Rock (720p) [Not 24/7]
-https://sluhay.by/live/Ch114pub/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-chno="272" tvg-name="Metal TV (720p) [Not 24/7]" tvg-logo="" group-title="Música", Metal TV (720p) [Not 24/7]
-https://v2.catcast.tv/content/33816/index.m3u8
-
-#EXTINF:-1 tvg-id="RocklandTV.de" tvg-name="Rockland TV (720p) [Not 24/7]" tvg-chno="273" tvg-logo="https://i.imgur.com/vIMkVo6.png" group-title="Música",Rockland TV (720p) [Not 24/7]
-http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
-
-#EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-chno="276" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Música",Euro Indie Music Chart TV (360p)
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_200x200.jpg" tvg-chno="277" group-title="Música",All The K-POP
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ALLTHEKPOP/live
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_200x200.jpg" tvg-chno="277" group-title="Música",The K-POP
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live
-
-#EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-chno="278" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Música",KpopTV Play (720p) [Not 24/7]
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-chno="279" tvg-logo="https://yt3.ggpht.com/-59VCA1UQNHtv0wYsPP-6i89-7VlPSmTOXe8n_O4jBDoqtgVMqL9oBdiwFo3ZIYzoYw3COqkmQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="Vorterix" group-title="Música",Vorterix
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AZDKnSo2AlY
-
-#EXTINF:-1 tvg-id="" tvg-chno="281" tvg-logo="RewindTV.cl" tvg-name="RewindTV" group-title="Música",RewindTV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-chno="288" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/canela-hits-16x9-v1_2.jpg" tvg-name="Canela Hits" group-title="Música",Canela Hits
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-
-#EXTINF:-1 tvg-id="" tvg-chno="288" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/cm-canela-presents-16x9_1.jpg" tvg-name="Canela Music Presents" group-title="Música",Canela Music Presents
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
-
-#EXTINF:-1 tvg-id="" tvg-chno="289" tvg-logo="https://www.radiocatedraldorock.com/admin/assets/img/logo.png" tvg-name="Catedral do Rock TV" group-title="Música",Catedral do Rock TV
-https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 
 # - Infantil
 
@@ -347,45 +281,6 @@ http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/1110
 
 #EXTINF:-1 tvg-id="OnceNinasyNinos.mx" tvg-name="Once Niñas y Niños" tvg-chno="318" tvg-logo="https://i.imgur.com/uBdmyft.png" group-title="Infantil", Once Niñas y Niños
 http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/3491
-
-#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="Toon Goggles" tvg-chno="319" tvg-logo="https://i.imgur.com/oyIMxzM.png" group-title="Infantil",Toon Goggles
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
-
-#EXTINF:-1 tvg-id="" tvg-name="Canela Kids" tvg-chno="320" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdNN4h5bEaCb114tCeZbBSJpJe0UMAJ4G6nUvhPyXojC1a-eVT3ZevTvVejfK0r0AgHmXFRJZUauU_6Wam6CSjogDNcF5QkHD_ZwiOBhv9_aV3tXf2Mzp2YNe76yjl_OQC-uBmmOzVQDoQg1gE-lKjOFEP2zRyy8Eyf1Tcn4fnJGn632L-a8KF_oqM_g/s800/Sin%20t%C3%ADtulo.jpg" group-title="Infantil",Canela Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-name="Anime Zone TV" tvg-chno="321" tvg-logo="https://i.imgur.com/8DWQeMz.png" group-title="Infantil",Anime Zone TV
-https://azxtv.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/aS3CnijPv09vRb35wr6NDe6MiR74FffvIipfi2Fp8c3nO2TCSgBnbX4jfbGWr14pL2zfS31tMC4=s88-c-k-c0x00ffffff-no-rj" tvg-name="Cartoon Network LA" group-title="Infantil",Cartoon Network LA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=4x8ZQN5gWSc
-
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_OFRR0tMA4MXUJATKTZl3ybfHbk96ZKx86lPx5=s88-c-k-c0x00ffffff-no-rj" tvg-name="DC Kids Latino"  group-title="Infantil",DC Kids Latino
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=U-Wsx3nuLDY
-
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-wWiZ4KMSAwHKlvieFewygBEuX0nA-aSO-eNZMtw=s88-c-k-c0x00ffffff-no-rj" tvg-name="DC Kids España" group-title="Infantil",DC Kids España
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=VKaEHwehXEY
-
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_QHih7LsMw-X-jqpjEcZGoaFnF3mAr4MLVODWeUw=s88-c-k-c0x00ffffff-no-rj" tvg-name="DC Kids International" group-title="Infantil",DC Kids International
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-Y-9oMccWjg
-
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8oWHRf77Q34-PcTa1-Zs-ktHIm4apcreoS28L5-Q=s88-c-k-c0x00ffffff-no-rj" tvg-name="WB Kids Latino" group-title="Infantil",WB Kids Latino
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=PX2wegQtnBQ
-
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_OFRR0tMA4MXUJATKTZl3ybfHbk96ZKx86lPx5=s88-c-k-c0x00ffffff-no-rj" tvg-name="WB Kids España" group-title="Infantil",WB Kids España
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=8FjPx-hq1Ak
-
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8k5GUfgmkrxcVtYrXgTmqrpEm6NBxcp58A7G4mqQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="WB Kids International" group-title="Infantil",WB Kids International
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CTShOY9IYYI
-
-#EXTINF:-1 tvg-id="" tvg-chno="308" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-BjaUpLhDYndTrxIpb6uxCnhXIjEBgdnoEjX4h=s88-c-k-c0x00ffffff-no-rj" tvg-name="PJ Masks Español - Canal Oficial" group-title="Infantil",PJ Masks Español - Canal Oficial
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BIiaoTQZX3I
-
-#EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9rX6ysvDNMMfgpH6D-jRPqvQNM-d2AsYOkVSeZtw=s88-c-k-c0x00ffffff-no-rj" tvg-name="Peppa Pig Español Latino - Canal Oficial" group-title="Infantil",Peppa Pig Español Latino - Canal Oficial
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hl_nACnH42w
-
-#EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/XV6oFWOJ0kiqTAzkEmoq8kjJnwnx8EwI3oIgDaOOPJSuNXxVg1nR0meE0ZFRobzyGbCL-GYy=s88-c-k-c0x00ffffff-no-rj" tvg-name="Power Rangers para Niños - Canal Oficial" group-title="Infantil",Power Rangers para Niños - Canal Oficial
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PowerRangersparaNi%C3%B1osCanalOficial/live
 
 # - Películas
 
@@ -466,39 +361,6 @@ http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/144
 
 #EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="Az Cinema" tvg-chno="519" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_cinema-mediano.png" group-title="Películas", Az Cinema
 http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/50
-
-#EXTINF:-1 tvg-id="CinemaPlus.co" tvg-chno="521" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/512px-Cinema%2B_logo.svg.png" tvg-name="Cinema +"  group-title="Películas",Cinema +
-https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w558961513.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="522" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Cine Club" group-title="Películas",VIX Cine Club
-https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RuntimeMexico.mx" tvg-chno="522" tvg-logo="https://i.imgur.com/BUkR5Oe.png" tvg-name="Runtime Mexico"  group-title="Películas",Runtime Mexico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
-
-#EXTINF:-1 tvg-id="RuntimeSpain.es" tvg-chno="522" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" tvg-name="Runtime Spain" group-title="Películas",Runtime Spain
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-
-#EXTINF:-1 tvg-id="" tvg-chno="523" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/logo-696x392.png" tvg-name="Canela TV" group-title="Películas",Canela TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
-
-#EXTINF:-1 tvg-id="" tvg-chno="523" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/logo-696x392.png" tvg-name="Canela TV" group-title="Películas",Canela TV
-https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-chno="523" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-cinema.jpg" tvg-name="Canela TV Cinema" group-title="Películas",Canela TV Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
-
-#EXTINF:-1 tvg-id="" tvg-chno="523" tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-classics.jpg" tvg-name="Canela V Clasicos" group-title="Películas",Canela TV Clasicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-
-#EXTINF:-1 tvg-id="" tvg-chno="523" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-cine-romantico.jpg" tvg-name="Cine Romántico" group-title="Películas",Cine Romántico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
-
-#EXTINF:-1 tvg-id="" tvg-chno="523" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-accion-mexicana-16x9.jpg" tvg-name="Acción Mexicana" group-title="Películas",Acción Mexicana
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-
-#EXTINF:-1 tvg-id="" tvg-chno="523" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/diseno_sin_titulo_17.jpg" tvg-name="Flou Cine" group-title="Películas",Flou Cine
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO Latin America" tvg-chno="524" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Películas", HBO Latin America
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/196
@@ -880,9 +742,6 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/46
 # - MLB live
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
-https://tve-live.mlb.com/1662593971_b35a0fa139b91bc600da822724e375d0dae0f41fefcc23543bcb61fb11315042/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
-
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
 http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/303
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
@@ -890,9 +749,6 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/106
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/107
-
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network - MLB Game of the Week Live on YouTube"  group-title="Deportes",MLB Network - MLB Game of the Week Live on YouTube
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MLB/live
 
 #EXTINF:-1 tvg-id="MLBExtraInnings1.us" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB Extra Innings 01" group-title="Deportes",MLB Extra Innings 01
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/105
@@ -980,30 +836,6 @@ http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/3128
 
 #EXTINF:-1 tvg-id="" tvg-chno="641" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mlb-extra-innings-us.png" tvg-name="MLB 15" group-title="Deportes",MLB 15
 http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/3129
-
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-chno="642" tvg-logo="https://i.imgur.com/vcs9ELP.png" tvg-name="Real Madrid TV"  group-title="Deportes",Real Madrid TV
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
-
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-chno="642" tvg-logo="https://i.imgur.com/vcs9ELP.png" tvg-name="Real Madrid TV"  group-title="Deportes",Real Madrid TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-
-#EXTINF:-1 tvg-id="" tvg-chno="643" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9EkC963336t3nfkw97IXEXRr_KGyDmWmDG4x0d=s88-c-k-c0x00ffffff-no-rj" tvg-name="América Sports" group-title="Deportes",América Sports
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=B9hwOM6jAbs
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="644" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Liga MX"  group-title="Deportes",VIX Liga MX
-https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="644" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-sports-16x9_2.jpg" tvg-name="Canela Sports"  group-title="Deportes",Canela Sports
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="644" tvg-logo="https://img3.static-ottera.com/prod/cnm/video/thumbnails/widescreen/366x206/itv_deportes_16x9_2.jpg" tvg-name="ITV Deportes"  group-title="Deportes",ITV Deportes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="644" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-combate-global.jpg" tvg-name="Combate Global"  group-title="Deportes",Combate Global
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-
-#EXTINF:-1 tvg-id="" tvg-chno="645" tvg-logo="https://yt3.ggpht.com/vi4O9pwYkxHy2lw57CV-hgbQlhQQTf4BEMyoXt4wzvhH4v7h55HHLm5tBa51efSr5kJRh2ka=s88-c-k-c0x00ffffff-no-rj" tvg-name="FIBA , ¡el Canal de Baloncesto!" group-title="Deportes",FIBA , ¡el Canal de Baloncesto!
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/FIBAWorld/live
 
 #EXTINF:-1 tvg-id="DAZN1Spain.uk" tvg-chno="646" tvg-logo="https://i.imgur.com/9A63D4g.png" tvg-name="DAZN 1 Spain"  group-title="Deportes",DAZN 1 Spain
 http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/3322
@@ -1316,9 +1148,6 @@ http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/369
 
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-chno="694" tvg-logo="https://i.imgur.com/cd0hP5e.png" tvg-name="El Garage TV" group-title="Deportes",El Garage TV
 http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/87
-
-#EXTINF:-1 tvg-id="" tvg-chno="694" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-CP78xxe41mMKu7dt_D7KeSw1-VqEJX23kdQwNHA=s88-c-k-c0x00ffffff-no-rj" tvg-name="Monster Jam" group-title="Deportes",Monster Jam - 24/7 Live Stream | 2021 Season
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MonsterJam/live
 
 # -Noticias
 
@@ -1694,9 +1523,6 @@ http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/2931
 #EXTINF:-1 tvg-chno="873" tvg-logo="" group-title="24/7",The Walking Dead 24/7
 http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/3029
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="849" tvg-logo="https://i.ytimg.com/vi/5fpLbWc6484/sddefault.jpg" tvg-name="Los Simpson 24/7"  group-title="24/7",Los Simpson 24/7
-https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w2142678180.m3u8
-
 #EXTINF:-1 tvg-id="EPG N/A" tvg-chno="881" tvg-logo="Logo N/A" tvg-name="Escandalosos 24/7"  group-title="24/7", Escandalosos 24/7
 http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/3530
 
@@ -1717,19 +1543,3 @@ http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/3537
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-chno="885" tvg-logo="Logo N/A" tvg-name="Mounstros de Verdad 24/7"  group-title="24/7", Mounstros de Verdad 24/7
 http://51.222.25.50:25461/AdTrBdvJhs/KE6JwURWSX/2978
-
-# - Movies
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="999" tvg-logo="https://sergiojamon.com/wp-content/uploads/2022/04/todos-los-originales-tubi-que-veremos-gratis.png" tvg-name="Tubi Original"  group-title="Movies",Tubi Original
-https://csm-e-cetubiausw2live204-09870eb60fc6631c0.csm.tubi.video/csm/live/499780459/u002Ftubiprd01,Tubi-Originals.m3u8
-
-# - XXX
-
-#EXTINF:-1 tvg-id="" tvg-chno="10008" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8hZs0A0SGfoLM1DM324TZUIRyM1LMziRSW5uwlqg=s88-c-k-c0x00ffffff-no-rj" tvg-name="Dapa Deep" group-title="XXX",Dapa Deep
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChmbvGtjGOFvNE-IAHbAZZw/live
-
-#EXTINF:-1 tvg-id="" tvg-chno="10009" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_14FgUS4wAw7NhDY5HtvMjgmIDAw9FEzMeKrw8Rg=s88-c-k-c0x00ffffff-no-rj" tvg-name="Bikini Try On Haul | Poolside 24/7" group-title="XXX",Poolside Playlist
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCsbZGadKfSM8Y62PRe_pLPA/live
-
-#EXTINF:-1 tvg-id="" tvg-chno="10010" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_14FgUS4wAw7NhDY5HtvMjgmIDAw9FEzMeKrw8Rg=s88-c-k-c0x00ffffff-no-rj" tvg-name="Nikko Culture 24/7 - Supermodels & Music | Summer Vibes" group-title="XXX",Nikko Culture
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwoAP80fqDaVWLmO6LYVEsw/live
