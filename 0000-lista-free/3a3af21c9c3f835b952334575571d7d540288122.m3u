@@ -27,7 +27,7 @@ https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master_3.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sun-channel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="244" tvg-logo="https://images.fanart.tv/fanart/spanglish-55f68a827f86c.png" tvg-name="Spanglish" group-title="Entretenimiento",Spanglish
-https://3f09fc951eac400eac0c948a1db312de.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-XOD-Distro/XKQZUW4HJ58IMCQS2AEA/hls3/now_-1m_15s/m.m3u8
+https://d1rfybckk5ifoz.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Spanglish-DistroTV/285.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="245" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inti-tv-ec.png" tvg-name="INTI"  group-title="Entretenimiento",INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w2127623327.m3u8
@@ -41,28 +41,10 @@ https://sluhay.by/live/Ch114pub/index.m3u8
 https://v2.catcast.tv/content/33816/index.m3u8
 
 #EXTINF:-1 tvg-id="RocklandTV.de" tvg-name="Rockland TV (720p) [Not 24/7]" tvg-chno="273" tvg-logo="https://i.imgur.com/vIMkVo6.png" group-title="Música",Rockland TV (720p) [Not 24/7]
-http://api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
+http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="274" tvg-logo="https://www.radiocatedraldorock.com/admin/assets/img/logo.png" tvg-name="Catedral do Rock TV" group-title="Música",Catedral do Rock TV
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MusicChoiceRock.us" tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/512px-Music_Choice_logo.png" tvg-name="Music Choice Rock" group-title="Música",Music Choice Rock
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL138/O0U9MTY2MzcyNjQzMTtBPTE7Sz0wO1A9MDExMTA7Uz04ZmMzM2Y2ZDQyZWJkZDgyOTEzYjliMDI4NWMzNTIyZmYzZGY1OTg2/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="MusicChoiceSoftRock.us" tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/512px-Music_Choice_logo.png" tvg-name="Music Choice Soft Rock" group-title="Música",Music Choice Soft Rock
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1118/O0U9MTY2MzcyNjYyMDtBPTE7Sz0wO1A9MDExMTA7Uz00ZjRkZjg3MTk0OGY0ZDAxMjUyMzllOTg3MjEwZDFmYmQ0YjYxM2Ji/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="MusicChoiceY2K.us" tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/512px-Music_Choice_logo.png" tvg-name="Music Choice Y2K" group-title="Música",Music Choice Y2K
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL145/O0U9MTY2MzcyNjYzMjtBPTE7Sz0wO1A9MDExMTA7Uz1jOTliZWNjMGYwM2FjNTYzZjA0OTc4NmJjYjgwYjcwMzJmNDcwYzc4/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="MusicChoice90s.us" tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/512px-Music_Choice_logo.png" tvg-name="Music Choice 90s" group-title="Música",Music Choice 90s
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca2/VideoChannels/ROTFL140/O0U9MTY2MzcyNjU4MDtBPTE7Sz0wO1A9MDExMTA7Uz02ZmFhZmMyZGFkYzI1NDc4YTgyMjY3ZjA4MDFjMjRmMGUwYWEwYzI2/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="MusicChoice80s.us" tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/512px-Music_Choice_logo.png" tvg-name="Music Choice 80s" group-title="Música",Music Choice 80s
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca3/VideoChannels/VC-MC1113/O0U9MTY2MzcyNjYzMDtBPTE7Sz0wO1A9MDExMTA7Uz0wNTU1M2Q0MTM0NGQwMDE5NTc0OTczNTMxZTEwMjVjZWZiYTU4ZWRi/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="MusicChoiceAlternative.us" tvg-chno="274" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Music_Choice_logo.png/512px-Music_Choice_logo.png" tvg-name="Music Choice Alternative" group-title="Música",Music Choice Alternative
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL122/O0U9MTY2MzcyNjYzNztBPTE7Sz0wO1A9MDExMTA7Uz01YWU2Mjg4MzQ2YTlhY2VjODkzY2YwNzUwOTI2ZmUxNTMyOTQ5MWMz/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-chno="276" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Música",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
@@ -75,9 +57,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-chno="278" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png" group-title="Música",KpopTV Play (720p) [Not 24/7]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-chno="279" tvg-logo="https://yt3.ggpht.com/-59VCA1UQNHtv0wYsPP-6i89-7VlPSmTOXe8n_O4jBDoqtgVMqL9oBdiwFo3ZIYzoYw3COqkmQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="Vorterix" group-title="Música",Vorterix
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AZDKnSo2AlY
 
 #EXTINF:-1 tvg-id="" tvg-chno="281" tvg-logo="RewindTV.cl" tvg-name="RewindTV" group-title="Música",RewindTV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
@@ -96,35 +75,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 tvg-id="" tvg-name="Canela Kids" tvg-chno="320" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdNN4h5bEaCb114tCeZbBSJpJe0UMAJ4G6nUvhPyXojC1a-eVT3ZevTvVejfK0r0AgHmXFRJZUauU_6Wam6CSjogDNcF5QkHD_ZwiOBhv9_aV3tXf2Mzp2YNe76yjl_OQC-uBmmOzVQDoQg1gE-lKjOFEP2zRyy8Eyf1Tcn4fnJGn632L-a8KF_oqM_g/s800/Sin%20t%C3%ADtulo.jpg" group-title="Infantil",Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-name="Anime Zone TV" tvg-chno="321" tvg-logo="https://i.imgur.com/8DWQeMz.png" group-title="Infantil",Anime Zone TV
-https://azxtv.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/aS3CnijPv09vRb35wr6NDe6MiR74FffvIipfi2Fp8c3nO2TCSgBnbX4jfbGWr14pL2zfS31tMC4=s88-c-k-c0x00ffffff-no-rj" tvg-name="Cartoon Network LA" group-title="Infantil",Cartoon Network LA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=4x8ZQN5gWSc
-
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_OFRR0tMA4MXUJATKTZl3ybfHbk96ZKx86lPx5=s88-c-k-c0x00ffffff-no-rj" tvg-name="DC Kids Latino"  group-title="Infantil",DC Kids Latino
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=U-Wsx3nuLDY
-
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-wWiZ4KMSAwHKlvieFewygBEuX0nA-aSO-eNZMtw=s88-c-k-c0x00ffffff-no-rj" tvg-name="DC Kids España" group-title="Infantil",DC Kids España
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=VKaEHwehXEY
-
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_QHih7LsMw-X-jqpjEcZGoaFnF3mAr4MLVODWeUw=s88-c-k-c0x00ffffff-no-rj" tvg-name="DC Kids International" group-title="Infantil",DC Kids International
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-Y-9oMccWjg
-
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8oWHRf77Q34-PcTa1-Zs-ktHIm4apcreoS28L5-Q=s88-c-k-c0x00ffffff-no-rj" tvg-name="WB Kids Latino" group-title="Infantil",WB Kids Latino
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=PX2wegQtnBQ
-
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_OFRR0tMA4MXUJATKTZl3ybfHbk96ZKx86lPx5=s88-c-k-c0x00ffffff-no-rj" tvg-name="WB Kids España" group-title="Infantil",WB Kids España
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=8FjPx-hq1Ak
-
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8k5GUfgmkrxcVtYrXgTmqrpEm6NBxcp58A7G4mqQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="WB Kids International" group-title="Infantil",WB Kids International
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=CTShOY9IYYI
-
 #EXTINF:-1 tvg-id="" tvg-chno="308" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-BjaUpLhDYndTrxIpb6uxCnhXIjEBgdnoEjX4h=s88-c-k-c0x00ffffff-no-rj" tvg-name="PJ Masks Español - Canal Oficial" group-title="Infantil",PJ Masks Español - Canal Oficial
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BIiaoTQZX3I
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PJMasksLAS/live
 
 #EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9rX6ysvDNMMfgpH6D-jRPqvQNM-d2AsYOkVSeZtw=s88-c-k-c0x00ffffff-no-rj" tvg-name="Peppa Pig Español Latino - Canal Oficial" group-title="Infantil",Peppa Pig Español Latino - Canal Oficial
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hl_nACnH42w
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/PeppaLatinoAmericano/live
 
 #EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/XV6oFWOJ0kiqTAzkEmoq8kjJnwnx8EwI3oIgDaOOPJSuNXxVg1nR0meE0ZFRobzyGbCL-GYy=s88-c-k-c0x00ffffff-no-rj" tvg-name="Power Rangers para Niños - Canal Oficial" group-title="Infantil",Power Rangers para Niños - Canal Oficial
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PowerRangersparaNi%C3%B1osCanalOficial/live
@@ -180,7 +135,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,R
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
 #EXTINF:-1 tvg-id="" tvg-chno="643" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9EkC963336t3nfkw97IXEXRr_KGyDmWmDG4x0d=s88-c-k-c0x00ffffff-no-rj" tvg-name="América Sports" group-title="Deportes",América Sports
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=B9hwOM6jAbs
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/americasports/live
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="644" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Liga MX"  group-title="Deportes",VIX Liga MX
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
@@ -251,6 +206,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 #EXTINF:-1 tvg-id="" tvg-chno="10010" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_14FgUS4wAw7NhDY5HtvMjgmIDAw9FEzMeKrw8Rg=s88-c-k-c0x00ffffff-no-rj" tvg-name="Nikko Culture 24/7 - Supermodels & Music | Summer Vibes" group-title="XXX",Nikko Culture
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwoAP80fqDaVWLmO6LYVEsw/live
+
+#EXTINF:-1 tvg-id="" tvg-chno="10011" tvg-logo="https://yt3.ggpht.com/EI-ho_L47OV1LJPRmIFx6VqQ3I6gPW_iyi6EK9rcQ_UUXlCcojkwyFiGF64nKWt2eqMMYtALTQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="24/7 Live! Deep House Radio ★ Deep House Sexy Girls Videomix 2022 ★ Best Party Music By ARD Mixes" group-title="XXX",ARD Mixes
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRLXjm61c8gqrIgpiuPK4bw/live
+
 
 # - Movies
 
