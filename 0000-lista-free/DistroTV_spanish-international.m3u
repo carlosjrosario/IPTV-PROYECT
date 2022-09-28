@@ -8,7 +8,7 @@ https://api-ott.canela.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=1205
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGCine Real" tvg-name="Cine Real" tvg-logo="https://a.jsrdn.com/hls/23008/cine-real/logo_20211119_204406_68.png" group-title="DistroTV: Spanish & International",Cine Real
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereal-distro/playlist.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGCine Sureño" tvg-name="Cine Sureno" tvg-logo="https://a.jsrdn.com/hls/23008/cine-sureo/logo_20211116_010445_68.png" group-title="Spanish & International",Cine Sureno
+#EXTINF:-1 tvg-id="dtv_EPGCine Sureño" tvg-name="Cine Sureno" tvg-logo="https://a.jsrdn.com/hls/23008/cine-sureo/logo_20211116_010445_68.png" group-title="DistroTV: Spanish & International",Cine Sureno
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8
 #EXTINF:-1 tvg-id="DUMMYNoEpg" tvg-name="El Conflicto TV" tvg-logo="https://a.jsrdn.com/hls/22915/el-conflicto-tv/logo_20201029_012436_68.png" group-title="DistroTV: Spanish & International",El Conflicto TV
 https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
