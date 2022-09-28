@@ -1,0 +1,38 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="dtv_EPGAfroLandTV" tvg-name="AfroLand TV" tvg-logo="https://a.jsrdn.com/hls/23000/afrolandtv/logo_20211020_185655_68.png" group-title="DistroTV: Spanish & International",AfroLand TV
+https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=distro
+#EXTINF:-1 tvg-id="dtv_EPGCanela TV" tvg-name="CanelaTV" tvg-logo="https://a.jsrdn.com/hls/22882/canela-tv/logo_20200930_060553_68.png" group-title="DistroTV: Spanish & International",Canela.TV
+https://api-ott.canela.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=1205&partner=distro&device_id=af56109e-ef74-4f31-b201-55dcce3b60d1&device_model=Web&device_width=530&device_height=298&us_privacy=1&gdpr=0&device_language=en&is_lat=0
+#EXTINF:-1 tvg-id="dtv_EPGChiquilines" tvg-name="Chiquilines" tvg-logo="https://a.jsrdn.com/hls/23008/chiquilines/logo_20211116_011430_68.png" group-title="DistroTV: Spanish & International",Chiquilines
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGCine Real" tvg-name="Cine Real" tvg-logo="https://a.jsrdn.com/hls/23008/cine-real/logo_20211119_204406_68.png" group-title="DistroTV: Spanish & International",Cine Real
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereal-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGCine Sureño" tvg-name="Cine Sureno" tvg-logo="https://a.jsrdn.com/hls/23008/cine-sureo/logo_20211116_010445_68.png" group-title="Spanish & International",Cine Sureno
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="DUMMYNoEpg" tvg-name="El Conflicto TV" tvg-logo="https://a.jsrdn.com/hls/22915/el-conflicto-tv/logo_20201029_012436_68.png" group-title="DistroTV: Spanish & International",El Conflicto TV
+https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGEuronews Español" tvg-name="Euronews Espanol" tvg-logo="https://a.jsrdn.com/hls/22886/euronews-spa/logo_20201208_233556_68.png" group-title="DistroTV: Spanish & International",Euronews Espanol
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/ewnsabres_spa.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGFlash" tvg-name="Flash" tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/logo_20211119_205104_68.png" group-title="DistroTV: Spanish & International",Flash
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGGlewed TV Spanish" tvg-name="GlewedTV Spanish" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-spanish/logo_20200917_223052_70.png" group-title="DistroTV: Spanish & International",GlewedTV Spanish
+https://dai.google.com/linear/hls/event/9ssgEjm4SM6kdOdByUsmRA/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGHorrorfy" tvg-name="Horrorfy" tvg-logo="https://a.jsrdn.com/hls/23008/horrorfy/logo_20211119_205238_68.png" group-title="DistroTV: Spanish & International",Horrorfy
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGJuntos" tvg-name="Juntos" tvg-logo="https://a.jsrdn.com/hls/23008/juntos/logo_20211119_205416_68.png" group-title="DistroTV: Spanish & International",Juntos
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGLatido Music" tvg-name="Latido Music" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22782/latido-music/logo_20191212_200115.png" group-title="DistroTV: Spanish & International",Latido Music
+https://dai.google.com/linear/hls/event/aPiz7a7gSxmsTO1cZ1DHeQ/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGMooviMex" tvg-name="MooviMex" tvg-logo="https://a.jsrdn.com/hls/22922/moovimex/logo_20201120_235617_26.png" group-title="DistroTV: Spanish & International",MooviMex
+https://dai.google.com/linear/hls/event/lj5QQH_5RX-yR2kwvxaiNg/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGPinoy Box Office" tvg-name="Pinoy Box Office" tvg-logo="https://a.jsrdn.com/hls/22913/pinoy-box-office/logo_20210119_204719_70.png" group-title="DistroTV: Spanish & International",Pinoy Box Office
+https://dai.google.com/linear/hls/event/85A5PwweTeKSM8y8h0yHhw/master.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGSaber Más" tvg-name="Saber Mas" tvg-logo="https://a.jsrdn.com/hls/23008/saber-ms/logo_20211119_205804_68.png" group-title="DistroTV: Spanish & International",Saber Mas
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGTop Cine" tvg-name="Top Cine" tvg-logo="https://a.jsrdn.com/hls/23008/top-cine/logo_20211119_205948_68.png" group-title="DistroTV: Spanish & International",Top Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcine-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGTu Cine" tvg-name="Tu Cine" tvg-logo="https://a.jsrdn.com/hls/23008/tu-cine/logo_20211029_183526_68.png" group-title="DistroTV: Spanish & International",Tu Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineus-distro/playlist.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGWappTV" tvg-name="WappTV" tvg-logo="https://a.jsrdn.com/hls/22963/wapptv/logo_20210805_160400_68.png" group-title="DistroTV: Spanish & International",WappTV
+https://dai.google.com/linear/hls/event/5Pqo1pb3QbGsAUyajQFxQQ/master.m3u8
