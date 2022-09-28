@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U url-tvg="https://raw.githubusercontent.com/bharing19/DistroTV/master/distrotv.xml.gz"
 
 #EXTINF:-1 tvg-id="dtv_EPGAfroLandTV" tvg-name="AfroLand TV" tvg-logo="https://a.jsrdn.com/hls/23000/afrolandtv/logo_20211020_185655_68.png" group-title="DistroTV: Spanish & International",AfroLand TV
 https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=distro
