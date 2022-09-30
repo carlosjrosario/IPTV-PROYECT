@@ -1,0 +1,16 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml.gz"
+
+#EXTINF:-1 tvg-id="ViwixTVAccion.cl" tvg-logo="https://i.imgur.com/632JrLd.png" tvg-name="Viwix TV Acción" group-title="ViwixTV",Viwix TV Acción
+https://s2.tvdatta.com:3457/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="ViwixTVEstrenos.cl" tvg-logo="https://i.imgur.com/632JrLd.png" tvg-name="Viwix TV Estrenos" group-title="ViwixTV",Viwix TV Estrenos
+https://s2.tvdatta.com:3172/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="ViwixTVMusic.cl" tvg-logo="https://i.imgur.com/632JrLd.png" tvg-name="Viwix TV Music" group-title="ViwixTV",Viwix TV Music
+https://s2.tvdatta.com:3548/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="ViwixTVSeries.cl" tvg-logo="https://i.imgur.com/632JrLd.png" tvg-name="Viwix TV Series" group-title="ViwixTV",Viwix TV Series
+https://s2.tvdatta.com:3402/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="ViwixTVTerror.cl" tvg-logo="https://i.imgur.com/632JrLd.png" tvg-name="Viwix TV Terror" group-title="ViwixTV",Viwix TV Terror
+https://s2.tvdatta.com:3849/hybrid/play.m3u8
