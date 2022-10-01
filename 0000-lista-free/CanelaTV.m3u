@@ -12,6 +12,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/diseno_sin_titulo_17.jpg" tvg-name="Flou Cine" group-title="CanelaTV",Flou Cine
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el_rey_network_us_east.png" tvg-name="El Rey Network" group-title="CanelaTV",El Rey Network
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,El-Rey.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/vive_kanal_d_drama_16x9_0.jpg" tvg-name="Vive Kanal D Drama" group-title="CanelaTV",Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
