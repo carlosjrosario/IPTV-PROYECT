@@ -29,7 +29,7 @@ https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-chno="241" tvg-logo="https://i.imgur.com/705Dt0j.png" tvg-name="RCN Mas"  group-title="Entretenimiento",RCN Mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-chno="241" tvg-logo="https://i.imgur.com/705Dt0j.png" tvg-name="Estrella Games"  group-title="Entretenimiento",Estrella Games
+#EXTINF:-1 tvg-id=" " tvg-chno="241" tvg-logo="https://a.jsrdn.com/hls/23065/estrella-games/poster_20220606_221953.png" tvg-name="Estrella Games"  group-title="Entretenimiento",Estrella Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 
 # - Música
@@ -72,7 +72,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/Pe
 #EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/XV6oFWOJ0kiqTAzkEmoq8kjJnwnx8EwI3oIgDaOOPJSuNXxVg1nR0meE0ZFRobzyGbCL-GYy=s88-c-k-c0x00ffffff-no-rj" tvg-name="Power Rangers para Niños - Canal Oficial" group-title="Infantil",Power Rangers para Niños - Canal Oficial
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PowerRangersparaNi%C3%B1osCanalOficial/live
 
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-chno="330" https://i.imgur.com/8DWQeMz.png" tvg-name="Anime Zone TV" group-title="Infantil",PAnime Zone TV
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-chno="330" https://i.imgur.com/8DWQeMz.png" tvg-name="Anime Zone TV" group-title="Infantil",Anime Zone TV
 https://azxtv.com/hls/stream.m3u8
 
 # - Películas
