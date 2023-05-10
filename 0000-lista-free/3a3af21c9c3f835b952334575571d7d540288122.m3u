@@ -57,9 +57,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/Pe
 #EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="#" tvg-name="Power Rangers para Niños - Canal Oficial" group-title="Infantil",Power Rangers para Niños - Canal Oficial
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PowerRangersparaNi%C3%B1osCanalOficial/live
 
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-chno="330" https://i.imgur.com/8DWQeMz.png" tvg-name="Anime Zone TV" group-title="Infantil",Anime Zone TV
-https://azxtv.com/hls/stream.m3u8
-
 # - Películas
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="522" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Cine Club" group-title="Películas",VIX Cine Club
