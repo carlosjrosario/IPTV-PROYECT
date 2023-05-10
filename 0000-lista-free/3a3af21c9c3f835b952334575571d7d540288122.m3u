@@ -11,7 +11,7 @@ https://linear-194.frequency.stream/194/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="239" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Novelas de Oro"  group-title="Entretenimiento",VIX Novelas de Oro
 https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="241" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Nuestra_Visi%C3%B3n_Logo.png/512px-Nuestra_Visi%C3%B3n_Logo.png" tvg-name="Nuestra Visión"  group-title="Entretenimiento",Nuestra Visión
+##EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="241" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Nuestra_Visi%C3%B3n_Logo.png/512px-Nuestra_Visi%C3%B3n_Logo.png" tvg-name="Nuestra Visión"  group-title="Entretenimiento",Nuestra Visión
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master_3.m3u8
 
 #EXTINF:-1 tvg-id="SunChannel.ve" tvg-chno="242" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/512px-Sun_Channel_Logo_2022.webp.png" tvg-name="Sun Channel"  group-title="Entretenimiento",Sun Channel
@@ -23,7 +23,7 @@ https://d1rfybckk5ifoz.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="245" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inti-tv-ec.png" tvg-name="INTI"  group-title="Entretenimiento",INTI
 https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist_w2127623327.m3u8
 
-#EXTINF:-1 tvg-id="ButacaTV.us" tvg-chno="246" tvg-logo="https://i.imgur.com/GWnwPHp.png" tvg-name="Butaca TV"  group-title="Entretenimiento",Butaca TV
+##EXTINF:-1 tvg-id="ButacaTV.us" tvg-chno="246" tvg-logo="https://i.imgur.com/GWnwPHp.png" tvg-name="Butaca TV"  group-title="Entretenimiento",Butaca TV
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-chno="241" tvg-logo="https://i.imgur.com/705Dt0j.png" tvg-name="RCN Mas"  group-title="Entretenimiento",RCN Mas
@@ -34,13 +34,13 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8
 
 # - Música
 
-#EXTINF:-1 tvg-id="SluhaybyRock.by" tvg-name="Sluhay.by Rock (720p) [Not 24/7]" tvg-chno="271" tvg-logo="https://sluhay.by/assets/logo_rock.png" group-title="Música",Sluhay.by Rock (720p) [Not 24/7]
+##EXTINF:-1 tvg-id="SluhaybyRock.by" tvg-name="Sluhay.by Rock (720p) [Not 24/7]" tvg-chno="271" tvg-logo="https://sluhay.by/assets/logo_rock.png" group-title="Música",Sluhay.by Rock (720p) [Not 24/7]
 https://sluhay.by/live/Ch114pub/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="272" tvg-name="Metal TV (720p) [Not 24/7]" tvg-logo="" group-title="Música", Metal TV (720p) [Not 24/7]
+##EXTINF:-1 tvg-id="" tvg-chno="272" tvg-name="Metal TV (720p) [Not 24/7]" tvg-logo="" group-title="Música", Metal TV (720p) [Not 24/7]
 https://v2.catcast.tv/content/33816/index.m3u8
 
-#EXTINF:-1 tvg-id="RocklandTV.de" tvg-name="Rockland TV (720p) [Not 24/7]" tvg-chno="273" tvg-logo="https://i.imgur.com/vIMkVo6.png" group-title="Música",Rockland TV (720p) [Not 24/7]
+##EXTINF:-1 tvg-id="RocklandTV.de" tvg-name="Rockland TV (720p) [Not 24/7]" tvg-chno="273" tvg-logo="https://i.imgur.com/vIMkVo6.png" group-title="Música",Rockland TV (720p) [Not 24/7]
 http://player-api.new.livestream.com/accounts/22300522/events/6680139/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-chno="274" tvg-logo="https://www.radiocatedraldorock.com/admin/assets/img/logo.png" tvg-name="Catedral do Rock TV" group-title="Música",Catedral do Rock TV
@@ -63,13 +63,13 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
 # - Infantil
 
-#EXTINF:-1 tvg-id="" tvg-chno="308" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-BjaUpLhDYndTrxIpb6uxCnhXIjEBgdnoEjX4h=s88-c-k-c0x00ffffff-no-rj" tvg-name="PJ Masks Español - Canal Oficial" group-title="Infantil",PJ Masks Español - Canal Oficial
+#EXTINF:-1 tvg-id="" tvg-chno="308" tvg-logo="#" tvg-name="PJ Masks Español - Canal Oficial" group-title="Infantil",PJ Masks Español - Canal Oficial
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PJMasksLAS/live
 
-#EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9rX6ysvDNMMfgpH6D-jRPqvQNM-d2AsYOkVSeZtw=s88-c-k-c0x00ffffff-no-rj" tvg-name="Peppa Pig Español Latino - Canal Oficial" group-title="Infantil",Peppa Pig Español Latino - Canal Oficial
+#EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="#" tvg-name="Peppa Pig Español Latino - Canal Oficial" group-title="Infantil",Peppa Pig Español Latino - Canal Oficial
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/PeppaLatinoAmericano/live
 
-#EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="https://yt3.ggpht.com/XV6oFWOJ0kiqTAzkEmoq8kjJnwnx8EwI3oIgDaOOPJSuNXxVg1nR0meE0ZFRobzyGbCL-GYy=s88-c-k-c0x00ffffff-no-rj" tvg-name="Power Rangers para Niños - Canal Oficial" group-title="Infantil",Power Rangers para Niños - Canal Oficial
+#EXTINF:-1 tvg-id="" tvg-chno="311" tvg-logo="#" tvg-name="Power Rangers para Niños - Canal Oficial" group-title="Infantil",Power Rangers para Niños - Canal Oficial
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PowerRangersparaNi%C3%B1osCanalOficial/live
 
 #EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-chno="330" https://i.imgur.com/8DWQeMz.png" tvg-name="Anime Zone TV" group-title="Infantil",Anime Zone TV
@@ -77,7 +77,7 @@ https://azxtv.com/hls/stream.m3u8
 
 # - Películas
 
-#EXTINF:-1 tvg-id="CinemaPlus.co" tvg-chno="521" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/512px-Cinema%2B_logo.svg.png" tvg-name="Cinema +"  group-title="Películas",Cinema +
+##EXTINF:-1 tvg-id="CinemaPlus.co" tvg-chno="521" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cinema%2B_logo.svg/512px-Cinema%2B_logo.svg.png" tvg-name="Cinema +"  group-title="Películas",Cinema +
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w558961513.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="522" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Cine Club" group-title="Películas",VIX Cine Club
@@ -91,10 +91,10 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,b
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-chno="603" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" tvg-name="Fox Deportes"  group-title="Deportes",Fox Deportes
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
+##EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network"  group-title="Deportes",MLB Network
 https://tve-live.mlb.com/1664658288_3300016412b5982e1481cb6439321ff9f0e71866791e6154f3da62e52bdeecd3/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
 
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network - MLB Game of the Week Live on YouTube"  group-title="Deportes",MLB Network - MLB Game of the Week Live on YouTube
+##EXTINF:-1 tvg-id="MLBNetwork.us" tvg-chno="641" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/512px-MLBNetworkLogo.svg.png" tvg-name="MLB Network - MLB Game of the Week Live on YouTube"  group-title="Deportes",MLB Network - MLB Game of the Week Live on YouTube
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MLB/live
 
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-chno="642" tvg-logo="https://i.imgur.com/vcs9ELP.png" tvg-name="Real Madrid TV"  group-title="Deportes",Real Madrid TV
@@ -103,19 +103,19 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,R
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-chno="642" tvg-logo="https://i.imgur.com/vcs9ELP.png" tvg-name="Real Madrid TV"  group-title="Deportes",Real Madrid TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 
-#EXTINF:-1 tvg-id="" tvg-chno="643" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9EkC963336t3nfkw97IXEXRr_KGyDmWmDG4x0d=s88-c-k-c0x00ffffff-no-rj" tvg-name="América Sports" group-title="Deportes",América Sports
+#EXTINF:-1 tvg-id="" tvg-chno="643" tvg-logo="#" tvg-name="América Sports" group-title="Deportes",América Sports
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/americasports/live
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="644" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_VIX.png" tvg-name="VIX Liga MX"  group-title="Deportes",VIX Liga MX
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="645" tvg-logo="https://yt3.ggpht.com/vi4O9pwYkxHy2lw57CV-hgbQlhQQTf4BEMyoXt4wzvhH4v7h55HHLm5tBa51efSr5kJRh2ka=s88-c-k-c0x00ffffff-no-rj" tvg-name="FIBA , ¡el Canal de Baloncesto!" group-title="Deportes",FIBA , ¡el Canal de Baloncesto!
+#EXTINF:-1 tvg-id="" tvg-chno="645" tvg-logo=#" tvg-name="FIBA , ¡el Canal de Baloncesto!" group-title="Deportes",FIBA , ¡el Canal de Baloncesto!
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/FIBAWorld/live
 
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-chno="650" tvg-logo="https://i.imgur.com/cArIeKS.png" tvg-name="Fubo Sports Network" group-title="Deportes",Fubo Sports Network
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="694" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-CP78xxe41mMKu7dt_D7KeSw1-VqEJX23kdQwNHA=s88-c-k-c0x00ffffff-no-rj" tvg-name="Monster Jam" group-title="Deportes",Monster Jam - 24/7 Live Stream | 2021 Season
+#EXTINF:-1 tvg-id="" tvg-chno="694" tvg-logo="#" tvg-name="Monster Jam" group-title="Deportes",Monster Jam - 24/7 Live Stream | 2021 Season
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MonsterJam/live
 
 # -Noticias
@@ -156,24 +156,12 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Monst
 
 # - 24/7
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="849" tvg-logo="https://i.ytimg.com/vi/5fpLbWc6484/sddefault.jpg" tvg-name="Los Simpson 24/7"  group-title="24/7",Los Simpson 24/7
+##EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="849" tvg-logo="https://i.ytimg.com/vi/5fpLbWc6484/sddefault.jpg" tvg-name="Los Simpson 24/7"  group-title="24/7",Los Simpson 24/7
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w2142678180.m3u8
 
 # - XXX
 
-#EXTINF:-1 tvg-id="" tvg-chno="10008" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8hZs0A0SGfoLM1DM324TZUIRyM1LMziRSW5uwlqg=s88-c-k-c0x00ffffff-no-rj" tvg-name="Dapa Deep" group-title="XXX",Dapa Deep
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChmbvGtjGOFvNE-IAHbAZZw/live
-
-#EXTINF:-1 tvg-id="" tvg-chno="10009" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_14FgUS4wAw7NhDY5HtvMjgmIDAw9FEzMeKrw8Rg=s88-c-k-c0x00ffffff-no-rj" tvg-name="Bikini Try On Haul | Poolside 24/7" group-title="XXX",Poolside Playlist
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCsbZGadKfSM8Y62PRe_pLPA/live
-
-#EXTINF:-1 tvg-id="" tvg-chno="10010" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_14FgUS4wAw7NhDY5HtvMjgmIDAw9FEzMeKrw8Rg=s88-c-k-c0x00ffffff-no-rj" tvg-name="Nikko Culture 24/7 - Supermodels & Music | Summer Vibes" group-title="XXX",Nikko Culture
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwoAP80fqDaVWLmO6LYVEsw/live
-
-#EXTINF:-1 tvg-id="" tvg-chno="10011" tvg-logo="https://yt3.ggpht.com/EI-ho_L47OV1LJPRmIFx6VqQ3I6gPW_iyi6EK9rcQ_UUXlCcojkwyFiGF64nKWt2eqMMYtALTQ=s88-c-k-c0x00ffffff-no-rj" tvg-name="24/7 Live! Deep House Radio ★ Deep House Sexy Girls Videomix 2022 ★ Best Party Music By ARD Mixes" group-title="XXX",ARD Mixes
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRLXjm61c8gqrIgpiuPK4bw/live
-
 # - Movies
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="999" tvg-logo="https://sergiojamon.com/wp-content/uploads/2022/04/todos-los-originales-tubi-que-veremos-gratis.png" tvg-name="Tubi Original"  group-title="Movies",Tubi Original
+##EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="999" tvg-logo="https://sergiojamon.com/wp-content/uploads/2022/04/todos-los-originales-tubi-que-veremos-gratis.png" tvg-name="Tubi Original"  group-title="Movies",Tubi Original
 https://csm-e-cetubiausw2live204-09870eb60fc6631c0.csm.tubi.video/csm/live/499780459/u002Ftubiprd01,Tubi-Originals.m3u8
