@@ -1,25 +1,28 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/logo-696x392.png" tvg-name="Canela TV" group-title="CanelaTV",Canela TV
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/logo-696x392.png" tvg-name="Canela TV 2" group-title="CanelaTV",Canela TV 2
 https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/logo-696x392.png" tvg-name="Canela TV" group-title="CanelaTV",Canela TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2021/11/logo-696x392.png" tvg-name="Canela TV 3" group-title="CanelaTV",Canela TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
 
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-cinema.jpg" tvg-name="Canela TV Cinema" group-title="CanelaTV",Canela TV Cinema
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-cinema.jpg" tvg-name="Canela TV Cinema 2" group-title="CanelaTV",Canela TV Cinema 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
 
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/diseno_sin_titulo_17.jpg" tvg-name="Flou Cine" group-title="CanelaTV",Flou Cine
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-cinema.jpg" tvg-name="Canela TV Cinema 3" group-title="CanelaTV",Canela TV Cinema 3
+https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg00658-canelamediainc-canelacinema-freetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/el_rey_network_us_east.png" tvg-name="El Rey Network" group-title="CanelaTV",El Rey Network
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,El-Rey.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f6d4c60d90805aad81d1b0cb5f566a5.webp" tvg-name="Canela Kids" group-title="CanelaTV",Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/vive_kanal_d_drama_16x9_0.jpg" tvg-name="Vive Kanal D Drama" group-title="CanelaTV",Vive Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://pbs.twimg.com/profile_images/1559923756247781377/lfyjCgmT_400x400.jpg" tvg-name="Canela Music Presents" group-title="CanelaTV",Canela Music Presents
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-sports-16x9_2.jpg" tvg-name="Canela Sports"  group-title="CanelaTV",Canela Sports
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-sports-16x9_2.jpg" tvg-name="Canela Sports 1"  group-title="CanelaTV",Canela Sports 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-sports-16x9_2.jpg" tvg-name="Canela Sports 2"  group-title="CanelaTV",Canela Sports 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-chno="" tvg-logo="https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-combate-global.jpg" tvg-name="Combate Global"  group-title="CanelaTV",Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
