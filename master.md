@@ -52,10 +52,12 @@ https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/epg/RakutenTV.xml
 ## CanelaTV
 https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/m3u/CanelaTV_tv.m3u
 
-https://raw.githubusercontent.com/carlosjrosario/IPTV-PROYECT/main/0000-lista-free/CanelaTV.m3u
+https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/epg/CanelaTV.xml.gz
 
 ## RuntimeTV
 https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/main/tv/m3u/RuntimeTV_tv.m3u
+
+https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/main/epg/RuntimeTV.xml.gz
 
 https://raw.githubusercontent.com/carlosjrosario/IPTV-PROYECT/main/0000-lista-free/RuntimeTV.m3u
 
@@ -104,6 +106,8 @@ https://www.apsattv.com/xiaomi.m3u
 
 ## LG Channels Live:
 https://www.apsattv.com/lg.m3u
+
+https://raw.githubusercontent.com/carlosjrosario/IPTV-PROYECT/main/0000-lista-free/CanelaTV.m3u
 
 https://raw.githubusercontent.com/carlosjrosario/IPTV-PROYECT/main/0000-lista-free/3a3af21c9c3f835b952334575571d7d540288122.m3u
 
